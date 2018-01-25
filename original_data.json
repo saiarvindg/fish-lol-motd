@@ -22525,20 +22525,1337 @@
 		},
 		"516": {
 			"quotes": {
-				"Ornn_Select": {
-					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/3f/Ornn_Select.ogg",
-					"text": "\"Fine, we go.\"",
-					"trigger": "Pick"
+				"Ornn_153": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/34/Ornn_153.ogg",
+					"text": "\"A day away from my forge is a day wasted.\"",
+					"trigger": "Upon Starting a Game"
 				},
-				"Ornn_Ban": {
-					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8a/Ornn_Ban.ogg",
-					"text": "\"Back to the forge.\"",
-					"trigger": "Ban"
+				"Ornn_161": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9b/Ornn_161.ogg",
+					"text": "\"All I need is myself, and... hammer.\"",
+					"trigger": "Upon Starting a Game"
+				},
+				"Ornn_017": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/3b/Ornn_017.ogg",
+					"text": "\"Enough!\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_018": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/94/Ornn_018.ogg",
+					"text": "\"Hold still!\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_019": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a3/Ornn_019.ogg",
+					"text": "\"An iron will must be forged!\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_020": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Ornn_020.ogg",
+					"text": "\"Good! Yes!\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_021": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f7/Ornn_021.ogg",
+					"text": "\"I will hit you until minerals fall out!\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_022": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/07/Ornn_022.ogg",
+					"text": "\"Eugh- Even my beard is angry!\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_023": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/7e/Ornn_023.ogg",
+					"text": "\"Anvil time!\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_024": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/41/Ornn_024.ogg",
+					"text": "\"Hold my ale.\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_025": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cf/Ornn_025.ogg",
+					"text": "\"That's a whompin!\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_026": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/cc/Ornn_026.ogg",
+					"text": "\"This is called building character.\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_027": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/6/6c/Ornn_027.ogg",
+					"text": "\"Nose! Meet grindstone!\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_028": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/74/Ornn_028.ogg",
+					"text": "\"This will ring nicely!\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_029": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9f/Ornn_029.ogg",
+					"text": "\"Ahhh, hitting relieves stress.\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_030": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e5/Ornn_030.ogg",
+					"text": "\"Fighting is my first language.\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_031": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/6/64/Ornn_031.ogg",
+					"text": "\"Good! Yes!\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_032": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/06/Ornn_032.ogg",
+					"text": "\"You are a nail.\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_033": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/6/68/Ornn_033.ogg",
+					"text": "\"Nose! Meet grindstone!\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_034": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/aa/Ornn_034.ogg",
+					"text": "\"I have a hard head.\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_035": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8f/Ornn_035.ogg",
+					"text": "\"I was working!\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_036": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/33/Ornn_036.ogg",
+					"text": "\"The work is the reward!\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_037": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1c/Ornn_037.ogg",
+					"text": "\"Now this I like!\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_038": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/18/Ornn_038.ogg",
+					"text": "\"Hammer never fails.\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_039": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/21/Ornn_039.ogg",
+					"text": "\"You like that? I do!\"",
+					"trigger": "Targeting an Enemy Champion"
+				},
+				"Ornn_082": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4b/Ornn_082.ogg",
+					"text": "(Grunts)",
+					"trigger": "Attacking"
+				},
+				"Ornn_083": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/6/61/Ornn_083.ogg",
+					"text": "(Grunts)",
+					"trigger": "Attacking"
+				},
+				"Ornn_084": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9f/Ornn_084.ogg",
+					"text": "(Grunts)",
+					"trigger": "Attacking"
+				},
+				"Ornn_085": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/81/Ornn_085.ogg",
+					"text": "(Grunts)",
+					"trigger": "Attacking"
+				},
+				"Ornn_086": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/28/Ornn_086.ogg",
+					"text": "(Grunts)",
+					"trigger": "Attacking"
+				},
+				"Ornn_087": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/6/65/Ornn_087.ogg",
+					"text": "(Grunts)",
+					"trigger": "Attacking"
+				},
+				"Ornn_088": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/43/Ornn_088.ogg",
+					"text": "(Grunts)",
+					"trigger": "Attacking"
+				},
+				"Ornn_089": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/ae/Ornn_089.ogg",
+					"text": "(Grunts)",
+					"trigger": "Attacking"
+				},
+				"Ornn_090": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/3f/Ornn_090.ogg",
+					"text": "(Grunts)",
+					"trigger": "Attacking"
+				},
+				"Ornn_212": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/00/Ornn_212.ogg",
+					"text": "(Grunts)",
+					"trigger": "Attacking"
+				},
+				"Ornn_213": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/6/67/Ornn_213.ogg",
+					"text": "(Grunts)",
+					"trigger": "Attacking"
+				},
+				"Ornn_214": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/26/Ornn_214.ogg",
+					"text": "(Grunts)",
+					"trigger": "Attacking"
+				},
+				"Ornn_215": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d8/Ornn_215.ogg",
+					"text": "(Grunts)",
+					"trigger": "Attacking"
+				},
+				"Ornn_040": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/72/Ornn_040.ogg",
+					"text": "\"I don't like the look of that thing.\"",
+					"trigger": "Attacking Aatrox"
+				},
+				"Ornn_041": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/76/Ornn_041.ogg",
+					"text": "\"We never talk, might as well fight!\"",
+					"trigger": "Attacking Anivia"
+				},
+				"Ornn_042": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/96/Ornn_042.ogg",
+					"text": "\"Your sword has no counterbalance!\"",
+					"trigger": "Attacking Garen"
+				},
+				"Ornn_043": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/79/Ornn_043.ogg",
+					"text": "\"Give me the ale and no one gets hurt.\"",
+					"trigger": "Attacking Gragas"
+				},
+				"Ornn_044": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/94/Ornn_044.ogg",
+					"text": "\"Stop building!\"",
+					"trigger": "Attacking Heimerdinger"
+				},
+				"Ornn_045": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/78/Ornn_045.ogg",
+					"text": "\"My hammer is better.\"",
+					"trigger": "Attacking Poppy"
+				},
+				"Ornn_046": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a4/Ornn_046.ogg",
+					"text": "\"I do not like you.\"",
+					"trigger": "Attacking Teemo"
+				},
+				"Ornn_047": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/41/Ornn_047.ogg",
+					"text": "\"This is for my followers!\"",
+					"trigger": "Attacking Volibear"
+				},
+				"Ornn_158": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/ba/Ornn_158.ogg",
+					"text": "\"It is childish to favor one tool over another, but hammer is my favorite.\"",
+					"trigger": "Movement"
+				},
+				"Ornn_144": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/7c/Ornn_144.ogg",
+					"text": "\"Humans have done some things right: beer, dark beer.\"",
+					"trigger": "Movement"
+				},
+				"Ornn_145": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/6/6f/Ornn_145.ogg",
+					"text": "\"Once a human kneels, they rarely stand again.\"",
+					"trigger": "Movement"
+				},
+				"Ornn_146": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/78/Ornn_146.ogg",
+					"text": "\"My forge is my home.\"",
+					"trigger": "Movement"
+				},
+				"Ornn_147": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/20/Ornn_147.ogg",
+					"text": "\"I do not need company, only wall, to keep out company.\"",
+					"trigger": "Movement"
+				},
+				"Ornn_148": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/20/Ornn_148.ogg",
+					"text": "\"Once I made a harpoon out of a mountain and a world tree. That was a weird century.\"",
+					"trigger": "Movement"
+				},
+				"Ornn_149": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/dd/Ornn_149.ogg",
+					"text": "\"Bah, look at all these lazy trees.\"",
+					"trigger": "Movement"
+				},
+				"Ornn_150": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/50/Ornn_150.ogg",
+					"text": "\"Backbreaking labor is life's greatest pleasure.\"",
+					"trigger": "Movement"
+				},
+				"Ornn_151": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/0e/Ornn_151.ogg",
+					"text": "\"The other gods don't understand me. Hmph, good.\"",
+					"trigger": "Movement"
+				},
+				"Ornn_152": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/07/Ornn_152.ogg",
+					"text": "\"The last time I ate a plant was never.\"",
+					"trigger": "Movement"
+				},
+				"Ornn_154": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b9/Ornn_154.ogg",
+					"text": "\"My work speaks in the roar of flame and the ringing of steel.\"",
+					"trigger": "Movement"
+				},
+				"Ornn_155": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/ec/Ornn_155.ogg",
+					"text": "\"I will make an axe that is also a sword. And possibly a spoon.\"",
+					"trigger": "Movement"
+				},
+				"Ornn_156": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/49/Ornn_156.ogg",
+					"text": "\"Everything is better when it is molten. Lead, iron, chocolate cake.\"",
+					"trigger": "Movement"
+				},
+				"Ornn_157": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d7/Ornn_157.ogg",
+					"text": "\"I had followers once, they tried.\"",
+					"trigger": "Movement"
+				},
+				"Ornn_159": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/20/Ornn_159.ogg",
+					"text": "\"Luck is failure that failed.\"",
+					"trigger": "Movement"
+				},
+				"Ornn_160": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/bf/Ornn_160.ogg",
+					"text": "\"I enjoy being alone, fewer unintended casualties.\"",
+					"trigger": "Movement"
+				},
+				"Ornn_162": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/44/Ornn_162.ogg",
+					"text": "\"The Freljord forges men out of... whatever children are. Dirt, goblins.\"",
+					"trigger": "Movement"
+				},
+				"Ornn_163": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/6/68/Ornn_163.ogg",
+					"text": "\"Ornn builds things, go see Ornn. Nobody ever says thank you.\"",
+					"trigger": "Movement"
+				},
+				"Ornn_164": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4c/Ornn_164.ogg",
+					"text": "\"This world has potential. Need hammering.\"",
+					"trigger": "Movement"
+				},
+				"Ornn_165": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d3/Ornn_165.ogg",
+					"text": "\"Gods do not need followers. Followers need gods.\"",
+					"trigger": "Movement"
+				},
+				"Ornn_166": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/bf/Ornn_166.ogg",
+					"text": "\"Solitude always meets my expectations.\"",
+					"trigger": "Movement"
+				},
+				"Ornn_167": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8d/Ornn_167.ogg",
+					"text": "\"(Grunts)\"",
+					"trigger": "Movement"
+				},
+				"Ornn_168": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9b/Ornn_168.ogg",
+					"text": "\"(Grunts)\"",
+					"trigger": "Movement"
+				},
+				"Ornn_169": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/83/Ornn_169.ogg",
+					"text": "\"(Grunts)\"",
+					"trigger": "Movement"
+				},
+				"Ornn_170": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/6/6a/Ornn_170.ogg",
+					"text": "\"(Grunts)\"",
+					"trigger": "Movement"
+				},
+				"Ornn_171": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/7a/Ornn_171.ogg",
+					"text": "\"(Grunts)\"",
+					"trigger": "Movement"
+				},
+				"Ornn_172": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/df/Ornn_172.ogg",
+					"text": "\"(Grumbles)\"",
+					"trigger": "Movement"
+				},
+				"Ornn_173": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/c3/Ornn_173.ogg",
+					"text": "\"(Grumbles)\"",
+					"trigger": "Movement"
+				},
+				"Ornn_174": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/fd/Ornn_174.ogg",
+					"text": "\"(Grumbles)\"",
+					"trigger": "Movement"
+				},
+				"Ornn_175": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8f/Ornn_175.ogg",
+					"text": "\"(Grumbles)\"",
+					"trigger": "Movement"
+				},
+				"Ornn_176": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f3/Ornn_176.ogg",
+					"text": "\"(Grunts)\"",
+					"trigger": "Movement"
+				},
+				"Ornn_177": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8b/Ornn_177.ogg",
+					"text": "\"(Grumbles)\"",
+					"trigger": "Movement"
+				},
+				"Ornn_178": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b5/Ornn_178.ogg",
+					"text": "\"(Grunts)\"",
+					"trigger": "Movement"
+				},
+				"Ornn_100": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a8/Ornn_100.ogg",
+					"text": "\"The best meal is a herd of cattle, with dark beer, and cherries... Mmm...\"",
+					"trigger": "Moving for the first time"
+				},
+				"Ornn_101": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/ca/Ornn_101.ogg",
+					"text": "\"I'm going this way. Do not follow me. Please.\"",
+					"trigger": "Moving for the first time"
+				},
+				"Ornn_102": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/40/Ornn_102.ogg",
+					"text": "\"I made this hammer. It was so good I named it... Hammer.\"",
+					"trigger": "Moving for the first time"
+				},
+				"Ornn_103": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9a/Ornn_103.ogg",
+					"text": "\"I will go over there, it looks quiet, it will be nice.\"",
+					"trigger": "Moving for the first time"
+				},
+				"Ornn_104": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/c9/Ornn_104.ogg",
+					"text": "\"Name's Ornn, no further pleasantries needed.\"",
+					"trigger": "Moving for the first time"
+				},
+				"Ornn_105": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/03/Ornn_105.ogg",
+					"text": "\"I have fur. It is soft. Do not hug me.\"",
+					"trigger": "Moving for the first time"
+				},
+				"Ornn_106": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/ec/Ornn_106.ogg",
+					"text": "\"The Freljord is a place for building, fighting, and eating. Home, sweet home.\"",
+					"trigger": "Moving for the first time"
+				},
+				"Ornn_107": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9f/Ornn_107.ogg",
+					"text": "\"If all goes well, our paths will never cross again. It never goes well.\"",
+					"trigger": "Moving for the first time"
+				},
+				"Ornn_267": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4c/Ornn_267.ogg",
+					"text": "\"(Sniffs) Singed fur... Jealous blood... My brother is near!\"",
+					"trigger": "Moving for the first time near Volibear"
+				},
+				"Ornn_268": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8b/Ornn_268.ogg",
+					"text": "\"Volibear is near... Everyone seek shelter!\"",
+					"trigger": "Moving for the first time near Volibear"
+				},
+				"Ornn_269": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/19/Ornn_269.ogg",
+					"text": "\"I cannot choose my brother, only the weapons to slay my brother.\"",
+					"trigger": "Moving for the first time near Volibear"
+				},
+				"Ornn_179": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/81/Ornn_179.ogg",
+					"text": "\"Hmm... Noxian Granite. Respectable choice.\"",
+					"trigger": "Moving in Base"
+				},
+				"Ornn_180": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/78/Ornn_180.ogg",
+					"text": "\"Walls are fine.\"",
+					"trigger": "Moving in Base"
+				},
+				"Ornn_181": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/bc/Ornn_181.ogg",
+					"text": "\"Could do without the statues.\"",
+					"trigger": "Moving in Base"
+				},
+				"Ornn_182": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/39/Ornn_182.ogg",
+					"text": "\"Decent stonework.\"",
+					"trigger": "Moving in Base"
+				},
+				"Ornn_183": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/45/Ornn_183.ogg",
+					"text": "\"Huh, loose cobblestone. We'll fix later.\"",
+					"trigger": "Moving in Base"
+				},
+				"Ornn_184": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/40/Ornn_184.ogg",
+					"text": "\"The architecture here is not wholly terrible.\"",
+					"trigger": "Moving in Base"
+				},
+				"Ornn_185": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5f/Ornn_185.ogg",
+					"text": "\"Hmm, this river needs a dam.\"",
+					"trigger": "Moving in River"
+				},
+				"Ornn_186": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a2/Ornn_186.ogg",
+					"text": "\"I did not want to cool off, but this feels nice.\"",
+					"trigger": "Moving in River"
+				},
+				"Ornn_187": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/81/Ornn_187.ogg",
+					"text": "\"Volibear made the first river. You do not want to know how.\"",
+					"trigger": "Moving in River"
+				},
+				"Ornn_224": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/37/Ornn_224.ogg",
+					"text": "\"Your job is not dying.\"",
+					"trigger": "A Nearby Ally"
+				},
+				"Ornn_225": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f7/Ornn_225.ogg",
+					"text": "\"You remind me of a young me, who is less impressive.\"",
+					"trigger": "A Nearby Ally"
+				},
+				"Ornn_226": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/07/Ornn_226.ogg",
+					"text": "\"Huh, you are not entirely an arse.\"",
+					"trigger": "A Nearby Ally"
+				},
+				"Ornn_227": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5a/Ornn_227.ogg",
+					"text": "\"Working with you is almost like working alone. Almost.\"",
+					"trigger": "A Nearby Ally"
+				},
+				"Ornn_228": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/0e/Ornn_228.ogg",
+					"text": "\"Something you should know about me...(Long grumble).\"",
+					"trigger": "A Nearby Ally"
+				},
+				"Ornn_229": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5e/Ornn_229.ogg",
+					"text": "\"I do not care at all.\"",
+					"trigger": "Response to Taunt"
+				},
+				"Ornn_230": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/33/Ornn_230.ogg",
+					"text": "\"This is a waste of my time.\"",
+					"trigger": "Response to Taunt"
+				},
+				"Ornn_231": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/3d/Ornn_231.ogg",
+					"text": "\"(Annoyed grunt)\"",
+					"trigger": "Response to Taunt"
+				},
+				"Ornn_232": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/6/6c/Ornn_232.ogg",
+					"text": "\"(Sigh) I do not care at all.\"",
+					"trigger": "Response to Taunt"
+				},
+				"Ornn_115": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4d/Ornn_115.ogg",
+					"text": "\"(Hums)\"",
+					"trigger": "Joke"
+				},
+				"Ornn_116": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b9/Ornn_116.ogg",
+					"text": "\"Buy a joke book. And a clown.\"",
+					"trigger": "Response to Joke"
+				},
+				"Ornn_117": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/ba/Ornn_117.ogg",
+					"text": "\"(Grunts)\"",
+					"trigger": "Response to Joke"
+				},
+				"Ornn_118": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/78/Ornn_118.ogg",
+					"text": "\"(Grunts)\"",
+					"trigger": "Response to Joke"
+				},
+				"Ornn_119": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/0e/Ornn_119.ogg",
+					"text": "\"I now like you less, I did not think that was possible.\"",
+					"trigger": "Response to Joke"
+				},
+				"Ornn_120": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d9/Ornn_120.ogg",
+					"text": "\"Stop it.\"",
+					"trigger": "Response to Joke"
+				},
+				"Ornn_121": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/43/Ornn_121.ogg",
+					"text": "\"No.\"",
+					"trigger": "Response to Joke"
+				},
+				"Ornn_109": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/96/Ornn_109.ogg",
+					"text": "\"(Hums)\"",
+					"trigger": "Upon Forging an Item with Living Forge"
+				},
+				"Ornn_110": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/ad/Ornn_110.ogg",
+					"text": "\"(Hums)\"",
+					"trigger": "Upon Forging an Item with Living Forge"
+				},
+				"Ornn_111": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/15/Ornn_111.ogg",
+					"text": "\"(Hums)\"",
+					"trigger": "Upon Forging an Item with Living Forge"
+				},
+				"Ornn_112": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/0b/Ornn_112.ogg",
+					"text": "\"(Hums)\"",
+					"trigger": "Upon Forging an Item with Living Forge"
+				},
+				"Ornn_113": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/22/Ornn_113.ogg",
+					"text": "\"(Hums)\"",
+					"trigger": "Upon Forging an Item with Living Forge"
+				},
+				"Ornn_114": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/aa/Ornn_114.ogg",
+					"text": "\"(Hums)\"",
+					"trigger": "Upon Forging an Item with Living Forge"
+				},
+				"Ornn_091": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/bc/Ornn_091.ogg",
+					"text": "\"Good... Yes...\"",
+					"trigger": "Upon Finishing Forging an Item"
+				},
+				"Ornn_092": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/39/Ornn_092.ogg",
+					"text": "\"I taught Doran everything he knows.\"",
+					"trigger": "Upon Finishing Forging an Item"
+				},
+				"Ornn_093": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/36/Ornn_093.ogg",
+					"text": "\"(Grunts)\"",
+					"trigger": "Upon Finishing Forging an Item"
+				},
+				"Ornn_094": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/91/Ornn_094.ogg",
+					"text": "\"(Grunts)\"",
+					"trigger": "Upon Finishing Forging an Item"
+				},
+				"Ornn_095": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/12/Ornn_095.ogg",
+					"text": "\"(Grunts)\"",
+					"trigger": "Upon Finishing Forging an Item"
+				},
+				"Ornn_096": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/6/60/Ornn_096.ogg",
+					"text": "\"(Grunts)\"",
+					"trigger": "Upon Finishing Forging an Item"
+				},
+				"Ornn_097": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/26/Ornn_097.ogg",
+					"text": "\"(Grunts)\"",
+					"trigger": "Upon Finishing Forging an Item"
+				},
+				"Ornn_098": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/36/Ornn_098.ogg",
+					"text": "\"(Grunts)\"",
+					"trigger": "Upon Finishing Forging an Item"
+				},
+				"Ornn_099": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/11/Ornn_099.ogg",
+					"text": "\"Ahh.\"",
+					"trigger": "Upon Finishing Forging an Item"
+				},
+				"Ornn_item1": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/05/Ornn_item1.ogg",
+					"text": "\"Hey... You... Go to the store.\"",
+					"trigger": "When an Item Upgrade is Ready"
+				},
+				"Ornn_108": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/04/Ornn_108.ogg",
+					"text": "\"You're welcome.",
+					"trigger": "When an Item Upgrade is Ready"
+				},
+				"Ornn_item3": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2d/Ornn_item3.ogg",
+					"text": "\"I made you something.\"",
+					"trigger": "When an Item Upgrade is Ready"
+				},
+				"Ornn_item4": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/fb/Ornn_item4.ogg",
+					"text": "\"My work is ready.\"",
+					"trigger": "When an Item Upgrade is Ready"
+				},
+				"Ornn_item5": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9b/Ornn_item5.ogg",
+					"text": "\"My handiwork is for sale.\"",
+					"trigger": "When an Item Upgrade is Ready"
+				},
+				"Ornn_item6": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/98/Ornn_item6.ogg",
+					"text": "\"Come. See what I built.\"",
+					"trigger": "When an Item Upgrade is Ready"
+				},
+				"Ornn_001": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/40/Ornn_001.ogg",
+					"text": "\"Do not hang that on a wall.\"",
+					"trigger": "When an Ally Purchases an Item Upgrade"
+				},
+				"Ornn_002": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8e/Ornn_002.ogg",
+					"text": "\"I trust you know how to use that.\"",
+					"trigger": "When an Ally Purchases an Item Upgrade"
+				},
+				"Ornn_003": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5e/Ornn_003.ogg",
+					"text": "\"No exchanges.\"",
+					"trigger": "When an Ally Purchases an Item Upgrade"
+				},
+				"Ornn_004": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/bc/Ornn_004.ogg",
+					"text": "\"If you want a weapon, here's a weapon. If you want conversation, here's a weapon.\"",
+					"trigger": "When an Ally Purchases an Item Upgrade"
+				},
+				"Ornn_005": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/6/61/Ornn_005.ogg",
+					"text": "\"Do not waste that.\"",
+					"trigger": "When an Ally Purchases an Item Upgrade"
+				},
+				"Ornn_006": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/50/Ornn_006.ogg",
+					"text": "\"You will not be disappointed.\"",
+					"trigger": "When an Ally Purchases an Item Upgrade"
+				},
+				"Ornn_007": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/04/Ornn_007.ogg",
+					"text": "\"Ornn tested, Ornn approved.\"",
+					"trigger": "When an Ally Purchases an Item Upgrade"
+				},
+				"Ornn_008": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/23/Ornn_008.ogg",
+					"text": "\"This does not mean we are friends.\"",
+					"trigger": "When an Ally Purchases an Item Upgrade"
+				},
+				"Ornn_009": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/46/Ornn_009.ogg",
+					"text": "\"A good axe will fell a tree, a great axe will fell an army.\"",
+					"trigger": "When an Ally Purchases an Item Upgrade"
+				},
+				"Ornn_010": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/02/Ornn_010.ogg",
+					"text": "\"The weapons I forge do not have names, they have ambitions.\"",
+					"trigger": "When an Ally Purchases an Item Upgrade"
+				},
+				"Ornn_011": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/c9/Ornn_011.ogg",
+					"text": "\"That's a weapon. Y'know, for fighting.\"",
+					"trigger": "When an Ally Purchases an Item Upgrade"
+				},
+				"Ornn_012": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/c6/Ornn_012.ogg",
+					"text": "\"You may be worthy of that. Do not prove me wrong.\"",
+					"trigger": "When an Ally Purchases an Item Upgrade"
+				},
+				"Ornn_013": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/32/Ornn_013.ogg",
+					"text": "\"That is what good looks like.\"",
+					"trigger": "When an Ally Purchases an Item Upgrade"
+				},
+				"Ornn_014": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/19/Ornn_014.ogg",
+					"text": "\"That is for wielding, not for entertaining.\"",
+					"trigger": "When an Ally Purchases an Item Upgrade"
+				},
+				"Ornn_015": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Ornn_015.ogg",
+					"text": "\"I was looking at that one too.\"",
+					"trigger": "When an Ally Purchases an Item Upgrade"
+				},
+				"Ornn_016": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/6/65/Ornn_016.ogg",
+					"text": "\"I didn't make that, you didn't buy it.\"",
+					"trigger": "When an Ally Purchases an Item Upgrade"
+				},
+				"Ornn_065": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a3/Ornn_065.ogg",
+					"text": "\"Heheh, broke that real good.\"",
+					"trigger": "Upon destroying player-made terrain"
+				},
+				"Ornn_066": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/c4/Ornn_066.ogg",
+					"text": "\"Easy build, easy break.\"",
+					"trigger": "Upon destroying player-made terrain"
+				},
+				"Ornn_067": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/49/Ornn_067.ogg",
+					"text": "\"Mortal craftsmanship, please.\"",
+					"trigger": "Upon destroying player-made terrain"
+				},
+				"Ornn_068": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/ef/Ornn_068.ogg",
+					"text": "\"Whoops. Found a flaw.\"",
+					"trigger": "Upon destroying player-made terrain"
+				},
+				"Ornn_069": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/50/Ornn_069.ogg",
+					"text": "\"Shattered and melted.\"",
+					"trigger": "Upon destroying player-made terrain"
+				},
+				"Ornn_070": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a2/Ornn_070.ogg",
+					"text": "\"A strong sneeze would've had the same effect.\"",
+					"trigger": "Upon destroying player-made terrain"
+				},
+				"Ornn_071": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d4/Ornn_071.ogg",
+					"text": "\"Bad workmanship.\"",
+					"trigger": "Upon destroying player-made terrain"
+				},
+				"Ornn_072": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/51/Ornn_072.ogg",
+					"text": "\"Demolished! Easy.\"",
+					"trigger": "Upon destroying player-made terrain"
+				},
+				"Ornn_073": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b1/Ornn_073.ogg",
+					"text": "\"Barely touched it.\"",
+					"trigger": "Upon destroying player-made terrain"
+				},
+				"Ornn_122": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/91/Ornn_122.ogg",
+					"text": "\"That's done.\"",
+					"trigger": "Upon Killing an Enemy Champion"
+				},
+				"Ornn_123": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f5/Ornn_123.ogg",
+					"text": "\"Job complete.\"",
+					"trigger": "Upon Killing an Enemy Champion"
+				},
+				"Ornn_124": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/89/Ornn_124.ogg",
+					"text": "\"Mhmm, yup, dead.\"",
+					"trigger": "Upon Killing an Enemy Champion"
+				},
+				"Ornn_125": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/c3/Ornn_125.ogg",
+					"text": "\"It has not been a pleasure.\"",
+					"trigger": "Upon Killing an Enemy Champion"
+				},
+				"Ornn_126": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1f/Ornn_126.ogg",
+					"text": "\"Character built.\"",
+					"trigger": "Upon Killing an Enemy Champion"
+				},
+				"Ornn_127": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/ef/Ornn_127.ogg",
+					"text": "\"Ahhh.\"",
+					"trigger": "Upon Killing an Enemy Champion"
+				},
+				"Ornn_128": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/3b/Ornn_128.ogg",
+					"text": "\"Well, that happened.\"",
+					"trigger": "Upon Killing an Enemy Champion"
+				},
+				"Ornn_129": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/21/Ornn_129.ogg",
+					"text": "\"Nailed it.\"",
+					"trigger": "Upon Killing an Enemy Champion"
+				},
+				"Ornn_188": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2f/Ornn_188.ogg",
+					"text": "\"Job Done! Time to go home.\"",
+					"trigger": "Upon Scoring a Pentakill"
+				},
+				"Ornn_189": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/c8/Ornn_189.ogg",
+					"text": "\"Back to work.\"",
+					"trigger": "Upon Scoring a Pentakill"
+				},
+				"Ornn_190": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e0/Ornn_190.ogg",
+					"text": "\"That was more fun than I expected.\"",
+					"trigger": "Upon Scoring a Pentakill"
+				},
+				"Ornn_191": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/dc/Ornn_191.ogg",
+					"text": "\"Fixed!\"",
+					"trigger": "Upon Scoring a Pentakill"
+				},
+				"Ornn_192": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/80/Ornn_192.ogg",
+					"text": "\"That fixed everything.\"",
+					"trigger": "Upon Scoring a Pentakill"
+				},
+				"Ornn_193": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/7f/Ornn_193.ogg",
+					"text": "\"Problems solved.\"",
+					"trigger": "Upon Scoring a Pentakill"
+				},
+				"Ornn_255": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/88/Ornn_255.ogg",
+					"text": "\"Too much sorcery, not enough elbow grease.\"",
+					"trigger": "Upon Killing a Turret"
+				},
+				"Ornn_256": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d5/Ornn_256.ogg",
+					"text": "\"Heh, not one of mine.\"",
+					"trigger": "Upon Killing a Turret"
+				},
+				"Ornn_257": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/aa/Ornn_257.ogg",
+					"text": "\"Build it again. Correctly.\"",
+					"trigger": "Upon Killing a Turret"
+				},
+				"Ornn_258": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/ec/Ornn_258.ogg",
+					"text": "\"Honestly though, I was just leaning on it.\"",
+					"trigger": "Upon Killing a Turret"
+				},
+				"Ornn_259": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/91/Ornn_259.ogg",
+					"text": "\"It's always the magic parts that break.\"",
+					"trigger": "Upon Killing a Turret"
+				},
+				"Ornn_260": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/17/Ornn_260.ogg",
+					"text": "\"I've seen sturdier sandcastles.\"",
+					"trigger": "Upon Killing a Turret"
+				},
+				"Ornn_203": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/75/Ornn_203.ogg",
+					"text": "\"Hmph, nevermind.\"",
+					"trigger": "Cancel Recall"
+				},
+				"Ornn_204": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4a/Ornn_204.ogg",
+					"text": "\"Changed my mind.\"",
+					"trigger": "Cancel Recall"
+				},
+				"Ornn_074": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/85/Ornn_074.ogg",
+					"text": "\"Hmm, cherry flavored. Not bad.\"",
+					"trigger": "Upon Consuming a Potion"
+				},
+				"Ornn_075": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/fd/Ornn_075.ogg",
+					"text": "\"Fuel for the old hearth-fire.\"",
+					"trigger": "Upon Consuming a Potion"
+				},
+				"Ornn_076": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/05/Ornn_076.ogg",
+					"text": "\"Whatever this drink is made of, it is working.\"",
+					"trigger": "Upon Consuming a Potion"
+				},
+				"Ornn_077": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/12/Ornn_077.ogg",
+					"text": "\"That hit the spot.\"",
+					"trigger": "Upon Consuming a Potion"
+				},
+				"Ornn_078": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/88/Ornn_078.ogg",
+					"text": "\"Hey, this is pretty good stuff.\"",
+					"trigger": "Upon Consuming a Potion"
+				},
+				"Ornn_262": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2f/Ornn_262.ogg",
+					"text": "\"Mmm, I do not like surprises.\"",
+					"trigger": "Upon Placing a Ward"
+				},
+				"Ornn_263": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/15/Ornn_263.ogg",
+					"text": "\"Hmm, that all it does? Okay.\"",
+					"trigger": "Upon Placing a Ward"
+				},
+				"Ornn_264": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2f/Ornn_264.ogg",
+					"text": "\"You stay here.\"",
+					"trigger": "Upon Placing a Ward"
+				},
+				"Ornn_265": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/74/Ornn_265.ogg",
+					"text": "\"Is it on?\"",
+					"trigger": "Upon Placing a Ward"
+				},
+				"Ornn_266": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/6/61/Ornn_266.ogg",
+					"text": "\"(Grunts) I do not know how to feel about this thing, but okay.\"",
+					"trigger": "Upon Placing a Ward"
+				},
+				"Ornn_130": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/dc/Ornn_130.ogg",
+					"text": "\"Not on my watch.\"",
+					"trigger": "Upon Killing a Ward"
+				},
+				"Ornn_131": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/0a/Ornn_131.ogg",
+					"text": "\"Spy on that.\"",
+					"trigger": "Upon Killing a Ward"
+				},
+				"Ornn_132": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/6/6b/Ornn_132.ogg",
+					"text": "\"Denied.\"",
+					"trigger": "Upon Killing a Ward"
+				},
+				"Ornn_133": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/bb/Ornn_133.ogg",
+					"text": "\"Heheh, broke it real good.\"",
+					"trigger": "Upon Killing a Ward"
+				},
+				"Ornn_134": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b3/Ornn_134.ogg",
+					"text": "\"There, fixed that for you.\"",
+					"trigger": "Upon Killing a Ward"
+				},
+				"Ornn_135": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9c/Ornn_135.ogg",
+					"text": "\"Early warning is key.\"",
+					"trigger": "Upon Killing a Ward"
+				},
+				"Ornn_136": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/df/Ornn_136.ogg",
+					"text": "\"Was like that when I found it\"",
+					"trigger": "Upon Killing a Ward"
+				},
+				"Ornn_137": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f8/Ornn_137.ogg",
+					"text": "\"(Grumbles) We're ready Ornn... we'll be right behind you...\"",
+					"trigger": "Upon Being the last person alive on the Team"
+				},
+				"Ornn_138": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/30/Ornn_138.ogg",
+					"text": "\"Just leave everything to me as usual.\"",
+					"trigger": "Upon Being the last person alive on the Team"
+				},
+				"Ornn_139": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/41/Ornn_139.ogg",
+					"text": "\"Good job everyone.\"",
+					"trigger": "Upon Being the last person alive on the Team"
+				},
+				"Ornn_140": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/31/Ornn_140.ogg",
+					"text": "\"I'm used to this level of disappointment.\"",
+					"trigger": "Upon Being the last person alive on the Team"
+				},
+				"Ornn_194": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8e/Ornn_194.ogg",
+					"text": "\"Fine! I will intervene!\"",
+					"trigger": "Upon Pinging a Target"
+				},
+				"Ornn_195": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d8/Ornn_195.ogg",
+					"text": "\"Fire up the forge!\"",
+					"trigger": "Upon Pinging a Target"
+				},
+				"Ornn_196": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f8/Ornn_196.ogg",
+					"text": "\"Horns first!\"",
+					"trigger": "Upon Pinging a Target"
+				},
+				"Ornn_197": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/05/Ornn_197.ogg",
+					"text": "\"Into the fray!\"",
+					"trigger": "Upon Pinging a Target"
+				},
+				"Ornn_198": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/ce/Ornn_198.ogg",
+					"text": "\"Turn up the heat.\"",
+					"trigger": "Upon Pinging a Target"
+				},
+				"Ornn_199": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e8/Ornn_199.ogg",
+					"text": "\"Ugh, everyone get behind me!\"",
+					"trigger": "Upon Pinging a Target"
+				},
+				"Ornn_200": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e7/Ornn_200.ogg",
+					"text": "\"We fight now!\"",
+					"trigger": "Upon Pinging a Target"
+				},
+				"Ornn_201": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/ec/Ornn_201.ogg",
+					"text": "\"This will be fun!\"",
+					"trigger": "Upon Pinging a Target"
+				},
+				"Ornn_202": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4b/Ornn_202.ogg",
+					"text": "\"Ready for this?!\"",
+					"trigger": "Upon Pinging a Target"
+				},
+				"Ornn_244": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/87/Ornn_244.ogg",
+					"text": "\"A fight's where I want to be.\"",
+					"trigger": "Upon Teleporting"
+				},
+				"Ornn_245": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/8d/Ornn_245.ogg",
+					"text": "\"A good workman is needed.\"",
+					"trigger": "Upon Teleporting"
+				},
+				"Ornn_246": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1e/Ornn_246.ogg",
+					"text": "\"I swear, if Volibear is there...\"",
+					"trigger": "Upon Teleporting"
+				},
+				"Ornn_247": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/bf/Ornn_247.ogg",
+					"text": "\"Time to show them the horns.\"",
+					"trigger": "Upon Teleporting"
+				},
+				"Ornn_248": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/c9/Ornn_248.ogg",
+					"text": "\"Efficient travel method. I approve.\"",
+					"trigger": "Upon Teleporting"
+				},
+				"Ornn_249": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4f/Ornn_249.ogg",
+					"text": "\"Hmm, this is fast, but it can't be good for you.\"",
+					"trigger": "Upon Teleporting"
+				},
+				"Ornn_250": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/3a/Ornn_250.ogg",
+					"text": "\"I prefer walking... but, fine.\"",
+					"trigger": "Upon Teleporting"
+				},
+				"Ornn_251": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d2/Ornn_251.ogg",
+					"text": "\"I'll just drop by.\"",
+					"trigger": "Upon Teleporting"
+				},
+				"Ornn_252": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/9e/Ornn_252.ogg",
+					"text": "\"They won't be ready for me.\"",
+					"trigger": "Upon Teleporting"
+				},
+				"Ornn_253": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/fd/Ornn_253.ogg",
+					"text": "\"I love a surprise.\"",
+					"trigger": "Upon Teleporting"
+				},
+				"Ornn_254": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/0d/Ornn_254.ogg",
+					"text": "\"Here we go.\"",
+					"trigger": "Upon Teleporting"
+				},
+				"Ornn_233": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e4/Ornn_233.ogg",
+					"text": "\"I'm on my way. Stop asking.\"",
+					"trigger": "Teleporting to an Ally"
+				},
+				"Ornn_234": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b3/Ornn_234.ogg",
+					"text": "\"You requested my aid!\"",
+					"trigger": "Teleporting to an Ally"
+				},
+				"Ornn_235": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4e/Ornn_235.ogg",
+					"text": "\"Hold!\"",
+					"trigger": "Teleporting to an Ally"
+				},
+				"Ornn_236": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/bd/Ornn_236.ogg",
+					"text": "\"Hooooold!\"",
+					"trigger": "Teleporting to an Ally"
+				},
+				"Ornn_237": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5e/Ornn_237.ogg",
+					"text": "\"Hold!\"",
+					"trigger": "Teleporting to an Ally"
+				},
+				"Ornn_238": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b4/Ornn_238.ogg",
+					"text": "\"Hoold!\"",
+					"trigger": "Teleporting to an Ally"
+				},
+				"Ornn_239": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5f/Ornn_239.ogg",
+					"text": "\"My horns are on the way!\"",
+					"trigger": "Teleporting to an Ally"
+				},
+				"Ornn_240": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/25/Ornn_240.ogg",
+					"text": "\"Don't start without me!\"",
+					"trigger": "Teleporting to an Ally"
+				},
+				"Ornn_241": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/58/Ornn_241.ogg",
+					"text": "\"You each owe me a beer!\"",
+					"trigger": "Teleporting to an Ally"
+				},
+				"Ornn_242": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f6/Ornn_242.ogg",
+					"text": "\"Hot stuff!\"",
+					"trigger": "Teleporting to an Ally"
+				},
+				"Ornn_243": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/e/e1/Ornn_243.ogg",
+					"text": "\"Incoming!\"",
+					"trigger": "Teleporting to an Ally"
+				},
+				"Ornn_209": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f2/Ornn_209.ogg",
+					"text": "\"I didn't die, my forge missed me.\"",
+					"trigger": "Upon Respawning"
+				},
+				"Ornn_210": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/77/Ornn_210.ogg",
+					"text": "\"Still no water in the fountain.\"",
+					"trigger": "Upon Respawning"
+				},
+				"Ornn_211": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d8/Ornn_211.ogg",
+					"text": "\"Rekindled the old furnace.\"",
+					"trigger": "Upon Respawning"
+				},
+				"Ornn_079": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/29/Ornn_079.ogg",
+					"text": "\"Well done.\"",
+					"trigger": "Upon Death"
+				},
+				"Ornn_080": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/c/ca/Ornn_080.ogg",
+					"text": "\"I broke my beard!\"",
+					"trigger": "Upon Death"
+				},
+				"Ornn_081": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d4/Ornn_081.ogg",
+					"text": "(Groans)",
+					"trigger": "Upon Death"
+				},
+				"Ornn_048": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/15/Ornn_048.ogg",
+					"text": "Sound Effect",
+					"trigger": "Sound Effect"
+				},
+				"Ornn_049": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/75/Ornn_049.ogg",
+					"text": "Sound Effect",
+					"trigger": "Sound Effect"
+				},
+				"Ornn_050": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/8/83/Ornn_050.ogg",
+					"text": "Sound Effect",
+					"trigger": "Sound Effect"
+				},
+				"Ornn_051": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/0/01/Ornn_051.ogg",
+					"text": "Sound Effect",
+					"trigger": "Sound Effect"
+				},
+				"Ornn_052": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/2/2f/Ornn_052.ogg",
+					"text": "Sound Effect",
+					"trigger": "Sound Effect"
+				},
+				"Ornn_053": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/a/a3/Ornn_053.ogg",
+					"text": "Sound Effect",
+					"trigger": "Sound Effect"
+				},
+				"Ornn_054": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/3/35/Ornn_054.ogg",
+					"text": "Sound Effect",
+					"trigger": "Sound Effect"
+				},
+				"Ornn_055": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/6/64/Ornn_055.ogg",
+					"text": "Sound Effect",
+					"trigger": "Sound Effect"
+				},
+				"Ornn_056": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/55/Ornn_056.ogg",
+					"text": "Sound Effect",
+					"trigger": "Sound Effect"
+				},
+				"Ornn_057": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4a/Ornn_057.ogg",
+					"text": "Sound Effect",
+					"trigger": "Sound Effect"
+				},
+				"Ornn_058": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/13/Ornn_058.ogg",
+					"text": "Sound Effect",
+					"trigger": "Sound Effect"
+				},
+				"Ornn_059": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f0/Ornn_059.ogg",
+					"text": "Sound Effect",
+					"trigger": "Sound Effect"
+				},
+				"Ornn_060": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/4e/Ornn_060.ogg",
+					"text": "Sound Effect",
+					"trigger": "Sound Effect"
+				},
+				"Ornn_061": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/42/Ornn_061.ogg",
+					"text": "Sound Effect",
+					"trigger": "Sound Effect"
+				},
+				"Ornn_062": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/7f/Ornn_062.ogg",
+					"text": "Sound Effect",
+					"trigger": "Sound Effect"
+				},
+				"Ornn_063": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5f/Ornn_063.ogg",
+					"text": "Sound Effect",
+					"trigger": "Sound Effect"
+				},
+				"Ornn_064": {
+					"file": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/97/Ornn_064.ogg",
+					"text": "Sound Effect",
+					"trigger": "Sound Effect"
 				}
 			},
 			"triggers": [
-				"Pick",
-				"Ban"
+				"Upon Starting a Game",
+				"Targeting an Enemy Champion",
+				"Attacking",
+				"Attacking Aatrox",
+				"Attacking Anivia",
+				"Attacking Garen",
+				"Attacking Gragas",
+				"Attacking Heimerdinger",
+				"Attacking Poppy",
+				"Attacking Teemo",
+				"Attacking Volibear",
+				"Movement",
+				"Moving for the first time",
+				"Moving for the first time near Volibear",
+				"Moving in Base",
+				"Moving in River",
+				"A Nearby Ally",
+				"Response to Taunt",
+				"Joke",
+				"Response to Joke",
+				"Upon Forging an Item with Living Forge",
+				"Upon Finishing Forging an Item",
+				"When an Item Upgrade is Ready",
+				"When an Ally Purchases an Item Upgrade",
+				"Upon destroying player-made terrain",
+				"Upon Killing an Enemy Champion",
+				"Upon Scoring a Pentakill",
+				"Upon Killing a Turret",
+				"Cancel Recall",
+				"Upon Consuming a Potion",
+				"Upon Placing a Ward",
+				"Upon Killing a Ward",
+				"Upon Being the last person alive on the Team",
+				"Upon Pinging a Target",
+				"Upon Teleporting",
+				"Teleporting to an Ally",
+				"Upon Respawning",
+				"Upon Death",
+				"Sound Effect"
 			]
 		}
 	},
