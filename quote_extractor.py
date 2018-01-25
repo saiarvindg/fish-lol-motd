@@ -2,7 +2,7 @@ import json
 import re
 
 orig_json_data = open("original_data.json").read()
-extracted_data_file = open("extracted_data.txt","w")
+extracted_data_file = open("lol_champ_quotes.txt","w")
 
 orig_data = json.loads(orig_json_data)
 
@@ -50,5 +50,5 @@ for x in champ_quotes:
 extracted_data_file.close()
 
 # in fish shell this is the command I used to randomly choose a quote
-# string replace -a \t \n (tail -n+(random 1 (wc -l < extracted_data.txt)) extracted_data.txt | head -n1)
+# string replace -a \t \n (tail -n+(random 1 (wc -l < lol_champ_quotes.txt)) lol_champ_quotes.txt | head -n1)
 
