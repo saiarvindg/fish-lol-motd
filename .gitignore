@@ -58,4 +58,4 @@ typings/
 .env
 
 # LeagueOfQuotes repo folder for quote scraping
-LeagueOfQuotes-master/
+**/LeagueOfQuotes-master
