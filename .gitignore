@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# LeagueOfQuotes repo folder for quote scraping
+LeagueOfQuotes-master/
