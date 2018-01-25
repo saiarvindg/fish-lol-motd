@@ -1,0 +1,4004 @@
+"You wanna play too? It'll be fun!" - Annie
+"I want a turn!" - Annie
+"Take that!" - Annie
+"Don't make me hurt you!" - Annie
+"Eeny, meeny, miny, burn!" - Annie
+"Let's count to five!" - Annie
+"Play time!" - Annie
+"Can they do this?" - Annie
+"This is fun!" - Annie
+"Ashes, ashes, they all fall down." - Annie
+"Have you seen my bear Tibbers?" - Annie
+"This way!" - Ezreal
+"Try to keep up!" - Annie
+"Are we there yet?" - Annie
+"I never play with matches." - Annie
+"Don't be a scaredy cat!" - Annie
+"Hop, skip, jump!" - Annie
+"Come out, come out, wherever you are!" - Annie
+"You smell like burning!" - Annie
+"What's your favorite aminal? A bear?" - Annie
+"Beaten by a little girl... ha!" - Annie
+"You can't come to Tibbers' tea party! Bleh!" - Annie
+"I'm rubber and you're... on fire!" - Annie
+"Get 'em, Tibbers!" - Annie
+"Bear hug!" - Annie
+"Tibbers!" - Annie
+"Yay, Tibbers!" - Annie
+"Found him!" - Annie
+"Uh... *cough* Tibbers." - Annie
+"Your bidding, master!" - Fiddlesticks
+"Are you afraid?" - Fiddlesticks
+"To our end." - Fiddlesticks
+"Indeed!" - Fiddlesticks
+"The end is near!" - Fiddlesticks
+"Yes, my master." - Fiddlesticks
+"Fear me." - Fiddlesticks
+"I feel your fear... " - Fiddlesticks
+"I think I'll let you suffer for a while... " - Fiddlesticks
+"I haven't got a brain, and soon... neither will you!" - Fiddlesticks
+"Nothing can hold me back!" - Alistar
+"Now I'm angry." - Alistar
+"You must follow." - Alistar
+"I know the way." - Alistar
+"Nothing can hold me back." - Alistar
+"Stampede!" - Alistar
+"Mess with the bull and you get the horns!" - Alistar
+"You can't milk those." - Alistar
+Alistar hits a cowbell. - Alistar
+A crowd cheers. - Elise
+"A step ahead of cataclysm." - Ryze
+"Fine." - Ryze
+"I find the runes so they won't be found by someone else - or some thing." - Ryze
+"The things I've seen in the dark corners of Runeterra are better left unseen." - Ryze
+"Things to do today: find food, build shelter, fix the world." - Ryze
+"I sense another rune, but where?" - Ryze
+"Can we make this quick? I have some place to be!" - Ryze
+"If I sound rude, it's because I've got a world to save." - Ryze
+"Keep your distance." - Ryze
+"I read the runes. You lose." - Ryze
+"Blood will spill." - Ryze
+"Makers guide me!" - Ryze
+"They come for the scroll." - Ryze
+"Time dwindles." - Ryze
+"Are you following me?" - Ryze
+"You know nothing of loss." - Ryze
+"I am just a vessel." - Ryze
+"A fine edge you dance on." - Ryze
+"By will." - Ryze
+"I don't have time for this!" - Ryze
+"If you insist." - Ryze
+"This ends badly." - Ryze
+"This might burn." - Ryze
+"Hands off the runes." - Ryze
+"They have no idea." - Ryze
+"Leave now." - Ryze
+"Ah, the hard way." - Ryze
+"Stay back." - Ryze
+"Away." - Ryze
+"You've got nothing." - Ryze
+"You won't win this." - Ryze
+"Last chance." - Ryze
+"Let's have it, then." - Ryze
+"These runes are not for eyes such as yours." - Ryze
+"They know so little of the world they traverse." - Ryze
+"Ah, Runeterrans. So endearing, so foolish." - Ryze
+"I work alone. Company weighs me down." - Ryze
+"What's on my back? That's not your concern." - Ryze
+"Knowledge is a real weapon." - Ryze
+"Every rune I find is another day we live." - Ryze
+"Blessing or curse, what's the difference?" - Ryze
+"They have forgotten the fires that forged this world." - Ryze
+"You know what I could use? An ale." - Ryze
+"They want to read my scroll. It'll be the last thing they read." - Ryze
+"I could tell you what's on this scroll, but then I'd have to obliterate you." - Ryze
+"The wise seek to contain power." - Ryze
+"I dream in nightmares of the past." - Ryze
+"None are worthy of my task... even me." - Ryze
+"Everyone is doomed to repeat history. That's where I come in." - Ryze
+"I've heard entire nations go silent." - Ryze
+"I may fail, but I won't quit." - Ryze
+"Trust no-one, especially those who seek power." - Ryze
+"Just once I'd like a good night's sleep." - Ryze
+"Their minds couldn't handle what my eyes have seen." - Ryze
+"I care about these mortals. That's why I keep them at arm's length." - Ryze
+"In an instant, all could be gone." - Ryze
+"I long for the day when this is all over." - Ryze
+"Some stones are best left unturned." - Ryze
+"Everyone wants to chat when you're busy saving the world." - Ryze
+"Terrible things are afoot." - Ryze
+"You know what I miss? Standing still." - Ryze
+"All that binds this world is will." - Ryze
+"Magic dooms us... but perhaps it can save us." - Ryze
+"Do not walk through history. Run." - Ryze
+"Power changes everyone." - Ryze
+"One can only hold all this power for so long." - Ryze
+"If I had a rune for every mile I've run, I'd be done running." - Ryze
+"You want to help? Get out of the way." - Ryze
+"I remember when only one world weighed on my shoulders." - Ryze
+"When I've found them all, I'll fade away." - Ryze
+"If I fall, the scroll must be destroyed." - Ryze
+"I fight so they don't have to." - Ryze
+"Roast duck, warm fire... someday." - Ryze
+"Quickly but carefully." - Ryze
+"The runes decide my path." - Ryze
+"My story? That would take ages to tell." - Ryze
+"Consider yourself lucky for the days you have." - Ryze
+"Take care with this world." - Ryze
+"Fast and lean, that's how I travel." - Ryze
+"Ah, civilization. I remember when I was a part of it." - Ryze
+"No time to talk." - Ryze
+"I like my tragedy narrowly averted." - Ryze
+"All this would be so much easier if I didn't give a damn." - Ryze
+"Hm. I'm hunted by things far worse than you." - Ryze
+"I'm no doctor, but I think there's a spell for what you have." - Ryze
+"To be ignorant is to be free. You must be very free." - Ryze
+"If I had a tattoo that looked like you, I'd get it removed." - Ryze
+"There's gonna be two sounds - me hitting you, and you disintegrating." - Ryze
+"You wage your petty war, Noxian, but the real war is yet to come." - Ryze
+"Even your kind will know death in the cataclysm." - Ryze
+"Your charms are impressive, but I'm not into forest creatures." - Ryze
+"Run along, child, this tome is not a bedtime story." - Ryze
+"Space called, it wants its arrogant jerk back." - Ryze
+"I don't suppose you'd want to get off your magical rear and help me save this world." - Ryze
+"I have a hard time believing you went to medical school." - Ryze
+"I would chide you for your idiocy, but you seem pretty proud of it." - Ryze
+"Nice tattoos, do they conduct runic energy? No? Oh, that's too bad." - Ryze
+"Magic is more than sunshine and rainbows, girl." - Ryze
+"Hey, you're the one who summons bloodthirsty Void creatures, right? Yeah, brilliant work, good thinking." - Ryze
+"Nice card trick, do you do birthday parties?" - Ryze
+"That remarkable arcane energy doesn't run through your entire body, does it?" - Ryze
+"We'll see how smart your mouth is when the world collapses." - Ryze
+"I'm surprised you can string enough words together for that one. You need a break?" - Ryze
+"So that's what you people do with your spare time." - Ryze
+"Not going to dignify that with a response." - Ryze
+"You should read more, expand your vocabulary." - Ryze
+"What? You want to see a magic trick? Fine... tada." - Ryze
+"Okay, fine, here's a magic trick. Tada." - Ryze
+"There it is." - Ryze
+"Release." - Ryze
+"Zap." - Ryze
+"Back." - Ryze
+"Push." - Ryze
+"Out." - Ryze
+"Right." - Caitlyn
+"Like dominoes!" - Ryze
+"Compounded!" - Ryze
+"Expand!" - Ryze
+"Trap!" - Ryze
+"Catch!" - Ryze
+"Hold!" - Ornn
+"Root!" - Ryze
+"Cease!" - Ryze
+"Gotcha!" - Xayah
+"Be still!" - Ryze
+"Steadfast!" - Ryze
+"Locked up tight!" - Ryze
+"Mark!" - Ryze
+"Fix!" - Ryze
+"Target!" - Ryze
+"There!" - Ryze
+"Our fight is elsewhere." - Ryze
+"A rune mage must keep moving." - Ryze
+"Come. The runes beckon." - Ryze
+"Flee if you want to live." - Ryze
+"Let's go, let's go!" - Ryze
+An eagle screech is heard. - Ryze
+"That's gonna' load me down." - Ryze
+"Great, more things to carry." - Ryze
+"This better work." - Ryze
+"Provisions purchased." - Ryze
+"Fuel for the rune race." - Ryze
+"Now I'll never tire." - Ryze
+"Sweet rune juice." - Ryze
+"It's a start." - Ryze
+"Fundamental." - Ryze
+"Brings out my colour." - Ryze
+"Even the gods can weep." - Ryze
+"Now we're talking." - Ryze
+"I remember when such tears were shed." - Ryze
+"I can feel its power surging." - Ryze
+"I'd destroy it - if I didn't need it." - Ryze
+"Such a weapon must be treated with respect." - Ryze
+"I defy swords and arrows." - Ryze
+"Their weapons will fail to scratch." - Ryze
+"Protection from primitive arms." - Ryze
+"An object of foul origins." - Ryze
+"Many lives it's taken, and many souls." - Ryze
+"Strange how it beckons." - Ryze
+"Such a vile text - but useful." - Ryze
+"Not a book for the faint of heart." - Ryze
+"A sordid relic from a brutal time." - Ryze
+"To cover my bald spot." - Ryze
+"A hat with a face, huh? Sure, why not?" - Ryze
+"A potent haberdashery." - Ryze
+"In case my head gets cold." - Ryze
+"I thought that guy would never stop talking." - Ryze
+"Always learning, always seeking." - Ryze
+"Those who seek improvement, improve." - Ryze
+"To the next one." - Ryze
+"This power continues to build." - Ryze
+"Another joins the energy pool." - Ryze
+"Better you than me." - Ryze
+"They never learn." - Kled
+"Another dead fool." - Ryze
+"One more needless death." - Ryze
+"Learn from your mistakes." - Ryze
+"Won't be the last." - Ryze
+"That's what happens when you piss off an archmage!" - Ryze
+"Better a few perish than the entire world." - Ryze
+"I tried to warn them, I really did." - Ryze
+"They make the same mistakes again and again." - Ryze
+"Too many have met the same fate." - Ryze
+"One less thing to kill me." - Ryze
+"Another barrier down." - Ryze
+"Let's move, the path is clear." - Ryze
+"One less impediment." - Ryze
+"Reduced to rubble." - Ryze
+"What is made can be unmade." - Ryze
+"Sight is better than swords." - Ryze
+"For whatever lurks behind me." - Ryze
+"If I can see it, I can beat it." - Ryze
+"They come for what I know." - Ryze
+"Sight makes might." - Ryze
+"Watching the watchers." - Ryze
+"I never liked surprises." - Ryze
+"Dark corners made bright." - Ryze
+"I'd like to see them try." - Ryze
+"Dark shadows hide dark forces." - Ryze
+"A pause in the chaos. Let's make it count." - Ryze
+"I'll return stronger. Count on it." - Ryze
+"I'm not running away. I'm running at you the long way around." - Ryze
+"Hang on, archmage business." - Ryze
+"Time to reflect on what we have learned." - Ryze
+"A moment to gather our runes." - Ryze
+"The scroll... burn it... " - Ryze
+"Hide... them... " - Ryze
+"They will not... take them... " - Ryze
+"Thank the gods, the world's still here." - Ryze
+"A stupid mistake, one I won't make again." - Ryze
+"I still live, but for how much longer?" - Ryze
+"Let's try again, and this time do it right." - Ryze
+"Ugh, being dead wastes precious time!" - Ryze
+"Blood runs... they all run." - Warwick
+"They fear me. They should." - Warwick
+"All the world on one arrow." - Ashe
+"Take a good look; it's the last you'll get." - Ashe
+"The fate of our people hangs in the balance." - Ashe
+"The Freljord unites!" - Ashe
+"You know you want me." - Evelynn
+"Once again... a woman is left unsatisfied." - Evelynn
+"Let's find your spot, love." - Evelynn
+"Ooh, you're so hot when you're hurt." - Evelynn
+"Sealed with a kiss." - Evelynn
+"Come on, let's see those tears." - Evelynn
+"Scream! It makes it better." - Evelynn
+"Enough foreplay!" - Evelynn
+"Let me in!" - Evelynn
+"Like what you see? I'll rip off your eyelids!" - Evelynn
+"Hurting is yummy." - Evelynn
+"We're done when I'm done." - Evelynn
+"I can't wait to see your pain face." - Evelynn
+"Ohh, yes... Cry for me honey." - Evelynn
+"My pleasure, your pain." - Evelynn
+"Make me feel..." - Evelynn
+"Yes... Yes...!" - Evelynn
+"I know you're hurting, but I can't feel without this." - Evelynn
+"Everyone's pain tastes different. What flavor is yours?" - Evelynn
+"Awww, you thought you were getting lucky!" - Evelynn
+"They're just so... stabbable!" - Evelynn
+"Your fear is delightful." - Evelynn
+"Ooh la la!" - Evelynn
+"Hey there." - Evelynn
+"Whimper." - Evelynn
+"Don't be shy." - Evelynn
+"Harder? Okay." - Evelynn
+"Careful. I'm a biter." - Evelynn
+"I hope this hurts." - Evelynn
+"Hello, love." - Evelynn
+"Let me see you hurt." - Evelynn
+"Beg me to stop." - Evelynn
+(mockingly) "No...! Don't...! Stop...!" (Laughs) - Evelynn
+"Shut up and scream." - Evelynn
+"Wanna get outta here?" - Evelynn
+"Love at first sight... And last." - Evelynn
+"Don't die wishing you'd had this." - Evelynn
+"Hope you like it rough." - Evelynn
+"Love me." - Evelynn
+"Nothing personal, I just need you to suffer horribly." - Evelynn
+"The more I cut away, the closer we'll get." - Evelynn
+"That's it...!" - Evelynn
+"Not the first time I've had dragon." - Evelynn
+"What a magnificent creature... Let's kill it slowly!" - Evelynn
+"Don't worry honey, I'm open to all types." - Evelynn
+"Cold blooded. Just like me." - Evelynn
+"You're a lot to love." - Evelynn
+"My... That's a lot of pain." - Evelynn
+"The bigger they are, the more places you can hurt them." - Evelynn
+"Finally! A man who can satisfy me." - Evelynn
+"Hate? No! I hurt them out of love." - Evelynn
+"I feel their looks like hot breath. They feel my claws like hot knives." - Evelynn
+"Keep them longing, make them plead." - Evelynn
+"I only do one night stands." - Evelynn
+"Just looking for that special someone to torment." - Evelynn
+"I can't feel anything... until they do." - Evelynn
+"Every smile is just a frown waiting to be turned upside down." - Evelynn
+"The height of their happiness is the depth of their pain." - Evelynn
+"This craving will soon be sated." - Evelynn
+"Hate and love are just two words for passion." - Evelynn
+"I was born of a thousand screams. What's one more?" - Evelynn
+"Their mouths say no, but their bodies say "flay me alive."" - Evelynn
+"Drink the pain, toss away the rest." - Evelynn
+"Once I was overwhelmed by the agony. Now I can't get enough." - Evelynn
+"You really don't know someone 'til you've seen them beg for mercy." - Evelynn
+"I like the happy ones. They have so much farther to fall." - Evelynn
+"Without pain, how would they know pleasure?" - Evelynn
+"I hurt them 'til they hurt no more." - Evelynn
+"Misery loves whatever I tell it to." - Evelynn
+"One touch, with desire... that's all I need." - Evelynn
+"Someday they'll love me for who I really am." - Evelynn
+"My love cuts to the quick." - Evelynn
+"Suffering is the meaning of life. Well... their lives." - Evelynn
+"Let's see... something to fill the emptiness..." - Evelynn
+"I remember when just a little pain did the trick." - Evelynn
+"Rend their flesh, flay them head to toe." - Evelynn
+"Girls just wanna tear your throat out with their teeth." - Evelynn
+"All my exes are dead." - Evelynn
+"Need to find me? Just follow the trail of widows." - Evelynn
+"I use every part of their torment. Nothing is wasted." - Evelynn
+"I don't break hearts. I just tear them from rib cages." - Evelynn
+"They're all my favorites... until they break." - Evelynn
+"Through suffering they come to love me. Every. Single. One." - Evelynn
+"Human. Agony. My two favorite words." - Evelynn
+"These curves are real." - Evelynn
+"A man once told me to put on some clothes. So I wore his skin." - Evelynn
+"Who does a girl have to kill to start another Rune War?" - Evelynn
+"They love to watch me leave." - Evelynn
+"Always dress like you're seducing your next victim." - Evelynn
+"Ah, how their screams make me tingle." - Evelynn
+"Don't try to tell me I'm not gorgeous." - Evelynn
+"Every kill is just a lover who didn't work out." - Evelynn
+"People have too many emotions. What am I supposed to do with "empathy?"" - Evelynn
+"I tasted peace once. Didn't do it for me." - Evelynn
+"Let's see... whose life shall I ruin today?" - Evelynn
+"The moment they think they have me..." Evelynn laughs. "Yeah, that's what I live for." - Evelynn
+"This place is so bland. It needs a splash of red." - Evelynn
+"Show me the man who has everything, and I'll show you my next victim." - Evelynn
+"Oooh, so many joyful people to hurt." - Evelynn
+"I love it when they talk dirty. "No! Please! Stop torturing me!"" Evelynn laughs. - Evelynn
+"Know what else is funny? Pulling your tongue out through your neck." - Evelynn
+"I've had my eye on you. Now I'm gonna rip yours out." - Evelynn
+"First time being tortured? Don't worry, I'll do everything." - Evelynn
+"I'll suck every last drop of joy from your heart." - Evelynn
+"That skin looks good on you, but it would look better on my bedroom floor." - Evelynn
+"Naughty, naughty. That gets you a lashing." - Evelynn
+"Pfft, pillow talk." - Evelynn
+"I don't really have friends. Just people I haven't eviscerated yet." - Evelynn
+"What's the point of torturing you?" - Evelynn
+"Ugh. I wouldn't torture you if you were the last person on earth." - Evelynn
+"With infinite power comes an infinite capacity for pain." - Evelynn
+"I can make you do a lot more than jingle, space man." - Evelynn
+"Does that... hurt?" - Evelynn
+"So, you're a masochist? Whatcha doing later?" - Evelynn
+"Blindfolds, huh? Whatever does it for ya." - Evelynn
+"Can your kind even feel? I don't want to waste my time." - Evelynn
+"I've seen your wife. You can do better." - Evelynn
+"You seem happy. Let's fix that." - Evelynn
+"Just the way I like 'em. Big and stupid." - Evelynn
+"Why don't we leave the lights on for this?" - Evelynn
+"So how are you, River King? I see you haven't missed a meal." - Evelynn
+"I like your style, Kench, but stay out of my territory." - Evelynn
+"You look like someone I could hurt for days." - Evelynn
+"Ooh, I love watching you work." - Evelynn
+"How do you kill them so slowly? You have to teach me." - Evelynn
+"Have I told you how your parents cried with their final breaths?" - Evelynn
+"Don't worry, love. You'll join them soon." - Evelynn
+"Love 'em and leave 'em." - Evelynn
+"Always leave them wanting more." - Evelynn
+"Mind if I slip into something a little more... painful?" - Evelynn
+"It's better in the dark." - Evelynn
+"Lights out." - Evelynn
+"Stalk and seduce." - Evelynn
+"The things we whisper in the dark." - Evelynn
+"Oooh, I like to watch." - Evelynn
+"Let's sneak around." - Evelynn
+"They can touch, but they can't look." - Evelynn
+"They all look the same in the dark." - Evelynn
+"What they don't know won't hurt them... yet." - Evelynn
+"Let's play hard to get." - Evelynn
+"The night is my veil." - Evelynn
+"The things I'm going to do to you." - Evelynn
+"That's it, love. Let your guard down." - Evelynn
+"Come on, touch me." - Evelynn
+"You need to relax." - Evelynn
+"Ooh, are you lonely? I can help." - Evelynn
+"A little bit of heaven before the hell." - Evelynn
+"How 'bout a kiss?" - Evelynn
+"Don't go anywhere." - Evelynn
+"I'm not done yet." - Evelynn
+"Not yet, honey." - Evelynn
+"Play more later?" - Evelynn
+"Stay right there, love." - Evelynn
+"Wait for me, sweetie." - Evelynn
+"Aw, playtime's over." - Evelynn
+Evelynn makes a noise of disappointment. "I hate it when they don't last." - Evelynn
+"It's okay hun, happens to everyone." - Evelynn
+"Look at me! I need to watch you go." - Evelynn
+"No, no! Don't die yet!" - Evelynn
+"Ugh... I think we should break up." - Evelynn
+"Oh well... Time to find a new toy." - Evelynn
+"Once again, a woman's left unsatisfied." - Evelynn
+"That was fast." - Evelynn
+"That was hot." - Evelynn
+"Ugh, I thought you'd last longer." - Evelynn
+"Was it as good for you as it was for me? No? Too bad!" - Evelynn
+"Wanna do it again?" - Evelynn
+"We need to talk. I want to kill other people." - Evelynn
+"I prefer going naked but... Okay." - Evelynn
+"It's a sin to cover something so perfect." - Evelynn
+"Why not give them something to take off?" - Evelynn
+"Hello, hat. Ready to feast on the pain of others?" - Evelynn
+"This land will become a sea of torment." - Evelynn
+"Even a lich can suffer." - Evelynn
+"The pain of a lich is eternal." - Evelynn
+"Imagine what we can do with this." - Evelynn
+"It's so... big." - Evelynn
+"Think of all the places this can go." - Evelynn
+"Aahh, still wet with the tears of Liandry herself." - Evelynn
+"I do like your style Liandry, whoever you were." - Evelynn
+"Now they will all know true pain." - Evelynn
+"A girl's gotta know when to disappear." - Evelynn
+"Be right back. Gotta put my face on." - Evelynn
+"Show's over, boys." - Evelynn
+"And by love..." - Evelynn
+"I thought we had something el..." - Evelynn
+"One last kiss..." - Evelynn
+"So this is pain?" - Evelynn
+"Guess who's back for more?" - Evelynn
+"Okay. My turn." - Evelynn
+"So, they like it rough." - Evelynn
+"Ugh, dying is such a turn-off." - Evelynn
+"You have stains upon your soul... perfect." - Cho'Gath
+"Who will be eaten first?" - Cho'Gath
+"Your souls will feed the Void!" - Cho'Gath
+"There will be no end to your suffering!" - Cho'Gath
+"You shall not escape!" - Cho'Gath
+"You are such... hideous creatures!" - Cho'Gath
+"No! I do not live under a bed! Fool!" - Cho'Gath
+"The daylight! It burns!" - Cho'Gath
+"For the darkness!" - Cho'Gath
+"Summoner, your darkness beckons." - Cho'Gath
+"Afraid of the dark? Wise!" - Cho'Gath
+"Your races are a scourge upon the world!" - Cho'Gath
+"I shall bring them terror!" - Cho'Gath
+"You... are a scourge upon the world." - Cho'Gath
+"Death is not the end for you, I have seen to it. For eternity, you are mine!" - Cho'Gath
+"Ah, the tangled webs we weave..." - Cho'Gath
+"Nom nom nom nom nom nom nom!" - Cho'Gath
+Fast "Nom nom nom nom nom nom nom!" - Cho'Gath
+"Okay." - Amumu
+"Aww." - Amumu
+"Where are we going?" - Amumu
+"Hey, come back." - Amumu
+"Let's find some friends." - Amumu
+"Come play with me." - Amumu
+"Let me give you a hug." - Amumu
+"Let's be friends forever." - Amumu
+"Find peace." - Anivia
+"Life passes so swiftly." - Anivia
+"I bring the storm." - Anivia
+"I shall endure." - Anivia
+"A great darkness approaches." - Anivia
+"The Freljord awakens." - Anivia
+"Do not tempt the blizzard." - Anivia
+"I will not forsake my home." - Anivia
+"I am the snow, wind, and ice." - Anivia
+"The cycle closes." - Anivia
+"Meaning, in every snowflake." - Anivia
+"Something ancient stirs." - Anivia
+"I am neither the first, nor the last." - Anivia
+"What change will this wind bring?" - Anivia
+"Take time to reflect." - Anivia
+"I dream of eras past." - Anivia
+"Think beyond one lifetime." - Anivia
+"We are all connected." - Anivia
+"I will be reborn." - Azir
+"Forever watchful." - Anivia
+"Winter wind, guide me." - Anivia
+"A thousand lives will I give for the Freljord." - Anivia
+"Let's soar." - Anivia
+"I have felt this corruption before." - Anivia
+"So young, so nave!" - Anivia
+"Poor creatures, so confined by a single life!" - Anivia
+"Laying an egg isn't as easy as it looks." - Anivia
+"The chicken or the egg? Actually I came first." - Anivia
+Samba music plays. - Anivia
+Anivia dances to Samba music. - Anivia
+"Mundo (slurps) smash!" - Dr. Mundo
+"Mundo too strong for you!" - Dr. Mundo
+"Rawr!" - Dr. Mundo
+"Mundo will go where he pleases!" (slurps) - Dr. Mundo
+"Come to Mundo!" - Dr. Mundo
+"Blah!" - Dr. Mundo
+"Mundo go this way!" - Dr. Mundo
+"Mundo think you a big sissy!" *laughs* - Dr. Mundo
+"Mundo say his own name a lot, or else he forget! Has happened before." - Dr. Mundo
+"Mundo...!" - Dr. Mundo
+"Allegrissimo." - Sona
+"Order through music." - Sona
+"Brioso! Brioso!" - Sona
+"Shall we resolve this dissonance?" - Sona
+"The fanfare ascends." - Sona
+"A symphony of justice." - Sona
+"From my mind to yours." - Sona
+"Adagio, summoner." - Sona
+"Harmoniously." - Sona
+"Delicately." - Sona
+"With perfect tempo." - Sona
+"A sublime duet." - Sona
+"Quarter time!" - Sona
+"Accurate, like a metronome." - Sona
+"Accelerated movement, I concur." - Sona
+Sona smacks her hands on her etwahl. - Sona
+Sona plays an electric guitar riff. - Sona
+Sona plays a measure from 'Deck the Halls'. - Sona
+Sona plays an 8-bit electric guitar riff. - Sona
+Sona plays a melody. - Sona
+Sona plays a melody on her Etwhal. - Sona
+Sona plays a tune on her Ethwal. - Sona
+"The tempest is upon them." - Janna
+"The storm approaches." - Janna
+"Gale winds unleashed." - Janna
+"For tranquility." - Janna
+"By your command." - Janna
+"At once." - Fiora
+"As you wish." - Janna
+"With ease." - Janna
+"Swiftly!" - Janna
+"Breathlessly." - Janna
+"In harmony." - Janna
+"Upon the wind." - Janna
+"And you thought it was just a harmless breeze!" - Janna
+"Yes, it's true. For only $2.95 a minute, I will leave you breathless." - Janna
+"Say hello to the winds of--- (double cough, clears throat) I don't know what came over me." - Janna
+A voice plays. - Ezreal
+"I'm up to snuff, and gots me an ace machine!" - Corki
+"That just goes to show you you're nothin' but a Whiskey Delta!" - Corki
+"Delta Sierra at 12 o'clock!" - Corki
+"Incomin'!" - Corki
+"It's a Charlie Foxtrot!" - Corki
+"I've got a bogey on my tail!" - Corki
+"Bombs away!" - Corki
+"Consider yourself spanked, nugget!" - Corki
+"I'm on it, blackshoe!" - Corki
+"Speed of heat!" - Corki
+"Another fine sortie!" - Corki
+"Now, I'm all spooled up!" - Corki
+"Ready to fly!" - Corki
+"Zoooom...!" - Corki
+"This is Major Tom to ground control!" - Corki
+"Lima Oscar Lima!" - Corki
+"That glimmer of hope you see, that's me." - Taric
+"Your judgement is clouded. Seek clarity." - Taric
+"There's nowhere left to go but up." - Taric
+"I have risen beyond the call of banners and kings." - Taric
+"There is great power in the stars. Great danger as well." - Taric
+"The most precious jewel is the one we hold in our heart." - Taric
+"The climb may be long, but the view is worth it." - Taric
+"Crash the mountain upon them." - Taric
+"The heavens guide me." - Taric
+"Let me make myself crystal clear." - Taric
+"The heavens strike swiftly." - Taric
+"To protect all." - Taric
+"I serve life, but deal death." - Taric
+"Beauty can stir one's heart... or stop it." - Taric
+"Gems always hold their edge." - Taric
+"Beauty and life." - Taric
+"I will shatter them." - Taric
+"The stars care not." - Taric
+"Memories are my worst enemies." - Taric
+"This crystal will never crack." - Taric
+"Wither in my radiance." - Taric
+"These gems aren't just for show." - Taric
+"I climbed Mount Targon. You did not." - Taric
+"Targon weeps for you." - Taric
+"I find all life beautiful... except yours." - Taric
+"This world's fragile beauty must be preserved." - Taric
+"The stars keep the darkness at bay." - Taric
+"The mountain endures." - Taric
+"Don't worry, I am here." - Taric
+"You seem to have too many heads. Let's see if I can help you with that." - Taric
+"I know I'm supposed to cherish all life, but come on." - Taric
+"The taint of the Void is upon you." - Taric
+"Nothing personal, but you've got to go." - Taric
+"Let's see how hot things get." - Taric
+"Greedy beast." - Taric
+"I may be merciful, but Targon isn't." - Taric
+"The best weapons are beautiful." - Taric
+"Sometimes, life is worth dying for." - Taric
+"The stars were the question. I was the answer." - Taric
+"The mountain's mysteries are known to me." - Taric
+"Why is it always the ugly ones?" - Taric
+"Easy on the eyes? Don't I know it." - Taric
+"The Protector speaks through me." - Taric
+"I am no longer the man I once was." - Taric
+"We're all headed toward the same inevitable end. No need to rush." - Taric
+"Demacia was my home, but the stars are my destination." - Taric
+"I have seen the light too clearly to ever fear the darkness." - Taric
+"The mountain reveals the harshest truths in our souls." - Taric
+"Human life is fleeting, a mountain's life less so, but stars... stars are eternal." - Taric
+"The stars freed me from myself." - Taric
+"My heart is filled with starlight. I give it freely to all." - Taric
+"The mountain showed me my path." - Taric
+"Truth is worth fighting for, but beauty is worth dying for." - Taric
+"True gems sparkle even in the absence of light." - Taric
+"Elegance never helped win a fight, but it never hurt." - Taric
+"Love is simply beauty crystallized." - Taric
+"To truly see the stars, I climbed." - Taric
+"We see beauty in the stars, and they see beauty in us." - Taric
+"Just as the mountain is eternal, so is hope." - Taric
+"Each life is a rare jewel." - Taric
+"The mountain's question is unique for each of us." - Taric
+"I answered for my crimes. Now it's your turn." - Taric
+"Let me broaden your worldview." - Taric
+"I bested the mountain. Now it's your turn." - Taric
+"That bow is of the stars, as is its mistress." - Taric
+"No star should be bound." - Taric
+"Own your destiny, or it will own you." - Taric
+"Who could have guessed the Aspect of the Moon would be so beautiful?" - Taric
+"I will never turn my back on Demacia." - Taric
+"Good to see you again, old friend." - Taric
+"I bend knee to no king." - Taric
+"I will purge the Void from this world." - Taric
+"They say beauty is in the eye of the beholder." - Taric
+"I will enjoy sending you back to the Void. In pieces." - Taric
+"Shine on, you crazy diamond." - Taric
+"The heavens see all you have done." - Taric
+"The sun is but a traveller through the kingdom of the stars." - Taric
+"Ah, the Aspect everyone hates." - Taric
+"You are weighed down by your petty hungers." - Taric
+"I like the cut of your gem." - Taric
+"Are you even wearing pants?" - Taric
+"I've been to the top of the mountain... and the bottom of the gutter. There's much to learn from both." - Taric
+"Beauty can be deadly... and manly. Very manly." - Taric
+"What did I see upon the mountain? Rocks. Lots of rocks." - Taric
+"Much like a fine gem, I'm multifaceted." - Taric
+"You know what they say about big gems, right?" - Taric
+"My gems aren't merely outrageous, they're fabulous." - Taric
+"It's okay if you're impressed. The Protector was too." - Taric
+"I'm much more than a pretty face." - Taric
+"Two tickets to the gem show." - Taric
+"Gems are truly, truly, truly outrageous." - Taric
+"We must serve life." - Taric
+"Bask in the glow." - Taric
+"A little something from Targon." - Taric
+"Rest easy." - Taric
+"Fight on." - Taric
+"Stand against them." - Taric
+"Never submit." - Taric
+"For beauty." - Taric
+"Honor the mountain." - Taric
+"Always forward." - Taric
+"Up the mountain we go." - Taric
+"Vigor." - Taric
+"Crack their resolve." - Taric
+"The fight never ends." - Taric
+"A little glimmer in their eyes." - Taric
+"For Targon." - Taric
+"Let me show you something." - Taric
+"Gems are wonderful distractions." - Taric
+"Clarity." - Taric
+"Blind them with our light." - Taric
+"Say hello to my little gems." - Taric
+"Gems hurt, don't they?" - Taric
+"Embrace the cosmos." - Taric
+"Shake the pillars of heaven." - Taric
+"Money well spent." - Taric
+"A fine addition." - Taric
+"Always useful." - Taric
+"And one of these..." - Taric
+"Natural gem enhancement." - Taric
+"A thing of beauty is a joy forever." - Taric
+"One can always use extra clarity." - Taric
+"I can see my mountain from here." - Taric
+"Oh, the sights we'll see..." - Taric
+"Ruby for vigor, eh?" - Taric
+"Can't say no to a ruby." - Taric
+"My kind of stone." - Taric
+"Work of an artisan." - Taric
+"A cold shoulder indeed." - Taric
+"Frozen beauty is still beauty." - Taric
+"Wish I'd had this on the mountain." - Taric
+"Can never be too warm... or too beautiful." - Taric
+"The sun's embrace is welcome." - Taric
+"You can always use a little extra protection." - Taric
+"What's a 'mog' anyway?" - Taric
+"This will match nicely." - Taric
+"Something to accent my chest." - Taric
+"Shuriman, eh?" - Taric
+"Fits well." - Taric
+"The finest craftsmanship." - Taric
+"I thank the mountain for its gifts." - Taric
+"Just like the old days." - Taric
+"Memories of Demacia." - Taric
+"Fight fire with fire." - Taric
+"I will hurl them back with their own weapons." - Taric
+"Divination indeed." - Taric
+"Better safe than sorry." - Taliyah
+"The sands of life." - Taric
+"Not true Targonian. Still nice, though." - Taric
+"So misguided, those Solari." - Taric
+"Feels right." - Taric
+"That's a face I'll never forget." - Taric
+"The mountain makes beautiful things." - Taric
+"Targon is always with me." - Taric
+"Not that I'll need this." - Taric
+"Good armor, bad name." - Taric
+"Let's test this promise." - Taric
+"Smooth." - Draven
+"An Aspect still needs help now and again." - Taric
+"Fade and begone." - Taric
+"Never a dull day." - Taric
+"Well, that was refreshing." - Taric
+"Beauty is a job well done." - Taric
+"In the end, we only regret the chances we didn't take." - Taric
+"Looks like a mountain fell on them." - Taric
+"Just in case." - Taric
+"Look sharp." - Taric
+"Mind your step." - Taric
+"An Aspect's work is never done." - Taric
+"Let's climb that mountain, shall we?" - Taric
+"Challenges await." - Taric
+"Failure has always been my greatest mentor." - Taric
+"No rest for the chosen of Targon." - Taric
+"No, I didn't see stars." - Taric
+"My light never dims... " - Taric
+"I'm on the case." - Caitlyn
+"Fired up and ready to serve." - Blitzcrank
+"Bone is a poor alternative." - Blitzcrank
+"I know what lurks in the shadows." - Elise
+"I know the true path." - Elise
+"There's nothing to fear." - Elise
+"Pull the strings. Watch them dance." - Elise
+"We must all make sacrifices." - Elise
+"I can show them the way to divinity." - Elise
+"My true beauty is beneath the skin." - Elise
+"They need... guidance." - Elise
+"Every web, a masterpiece." - Elise
+"I have... refined tastes." - Elise
+" The spider demands sacrifice." - Elise
+"Ah, the tangled webs we weave." - Elise
+"Dangling by a thread." - Elise
+"Weak willed fools!" - Elise
+"It will all be over soon." - Elise
+"I hear a man likes a lady with legs." - Elise
+"Hmm, why so tense? Relax." - Elise
+"Come closer, I don't bite!" - Elise
+"The spider, I. And you, the fly." - Elise
+Elise plays on an instrument. - Elise
+"The inferno begins." - Brand
+"The fires of vengeance." - Brand
+"I purify this one!" - Brand
+"Forged in pain!" - Brand
+"Their scars will be warning." - Brand
+"Some say the world will end in fire." - Brand
+"Going." - Brand
+"I'm on a short fuse." - Brand
+"Like wildfire." - Brand
+"Yes..." - Brand
+"I will blaze a trail." - Brand
+"You can't contain me, summoner." - Brand
+"After millennia, I am free!" - Brand
+"This body is just one of many!" - Brand
+"I am the fire that cleanses the world!" - Brand
+"Is that fireproof?" - Brand
+"Is it hot in here or is it just me?!" - Brand
+"Burn! Hahaha!" - Brand
+"There is no antidote for me." - Cassiopeia
+"Think what I could offer." - Cassiopeia
+"It's all skill!" - Ezreal
+"I'll handle it!" - Ezreal
+"No problem!" - Ezreal
+"Time to strike!" - Ezreal
+"Sounds dangerous... I'm in!" - Ezreal
+"Time to get our hands dirty." - Ezreal
+"Over here!" - Ezreal
+"Let's go!" - Ezreal
+"Know your environment." - Ezreal
+"Careful!" - Xayah
+"Got it!" - Ezreal
+"Agreed!" - Ezreal
+"No time to waste!" - Ezreal
+"Who needs a map?!" - Ezreal
+"You belong in a museum!" - Ezreal
+"Noxians... I hate those guys..." - Ezreal
+RPG styled music plays as Ezreal fights a dragon. - Ezreal
+"Fear not... I will make use of your corpse." - Yorick
+"It's your funeral." - Yorick
+"I once had honor before the Ruination." - Yorick
+"This land will never heal. But I will lay it to rest." - Yorick
+"Tired, ancient, and half-dead. Still, I come for you." - Yorick
+"I am the rift between life and death. The thin divide between breath and grave." - Yorick
+Maiden:   "Yorick, look what you've become."	 Yorick: "I've become what I must be." - Yorick
+Maiden:   "Let us in, remove your chains."	 Yorick: "I think not." - Yorick
+Maiden:   "Your human form is so confining. You could be infinite."	 Yorick: "I am enough." - Yorick
+Maiden:   "There is no hope."	 Yorick: "There is some." - Yorick
+Maiden:   "We see you, Yorick. We know your weakness."	 Yorick: "You know nothing." - Yorick
+Maiden:   "Join us in eternity, Yorick."	 Yorick: "In the beyond, once you're free." - Yorick
+The hole I dig, it is for you. - Yorick
+So many souls to liberate." - Yorick
+"To death." - Yorick
+"The beyond awaits you." - Yorick
+"To dirt, you return." - Yorick
+"I'll mourn for you." - Yorick
+"Respects to the dying." - Yorick
+"Scatter their remains." - Yorick
+"You are beyond saving." - Yorick
+"The mist comes for you." - Yorick
+"Your tomb awaits." - Yorick
+"You decay and do not know it." - Yorick
+"You are to die." - Yorick
+"You will rot." - Yorick
+"I will not damn you. I will end you." - Yorick
+"Your end is nigh." - Yorick
+"No eulogy for you." - Yorick
+"Prepare your epitaph." - Yorick
+"I am to bury you." - Yorick
+"Die to rise again." - Yorick
+"The grave is your home." - Yorick
+"Flesh that will soon find earth." - Yorick
+"The isles remember!" - Yorick
+"I must dig!" - Yorick
+"What's one more grave?!" - Yorick
+"I shall perform your rites!" - Yorick
+"That is a lot of flesh to raise." - Yorick
+"Even your kind will join the mist." - Yorick
+"Yours will be the largest coffin." - Yorick
+"Your kind is supposed to live long. I am sorry." - Yorick
+"I need your essence, great beast." - Yorick
+"What I do is just. Every horrid piece of it." - Yorick
+"The Mist writhes, searching for a place to take root." - Yorick
+"Death is not to be feared." - Yorick
+"We're dead much longer than we are alive." - Yorick
+"What hell is worse than this limbo?" - Yorick
+"Everyone I knew is dead. How are things with you?" - Yorick
+"They once called these isles undying. Yet die, they will." - Yorick
+"How quick the turn from blessed to cursed." - Yorick
+"These isles... how they scream." - Yorick
+"Soon, this depravity will end." - Yorick
+"The beyond is waiting. Strive to meet it." - Yorick
+"I am no tyrant. These souls act on their own." - Yorick
+"This mist has become skin." - Yorick
+"The isles were once paradise; now they're a prison." - Yorick
+"I go wherever souls are adrift." - Yorick
+"The constant wailing of souls in torment." - Yorick
+"I cling to life by the thinnest thread." - Yorick
+"If they could see what I see, they'd long for death." - Yorick
+"But for the waters, the mist would take me." - Yorick
+"The Ruined King will soon meet the victims of his curse." - Yorick
+"From the ground they come, and to it, they return." - Yorick
+"Ours is a fate worse than death." - Yorick
+"I carry these souls to their end... wherever it may be." - Yorick
+"Water for the living, shovel for the dead." - Yorick
+"Our souls are a small price to pay to cleanse this land." - Yorick
+"I am the first and last of my order." - Yorick
+"My curse is our only hope." - Yorick
+"I remember when I put them in the ground." - Yorick
+"So many souls, so few bodies." - Yorick
+"To most, life is fleeting; to me, it is quagmire." - Yorick
+"Death is not always a release." - Yorick
+"Death used to mean something." - Yorick
+"Tell me of the beyond... in case I never make it." - Yorick
+"Tears of life preserve me." - Yorick
+"The Ruined King's allies shall fall with him." - Yorick
+"One can stare into the grave too long." - Yorick
+"This journey is long, but I will complete it." - Yorick
+"I do not live in hope. I work to return it." - Yorick
+"It hurts to remember." - Yorick
+"Do you hear that? It is the end." - Yorick
+"The dead have not forgotten." - Yorick
+"Hallowed or profane... I no longer know." - Yorick
+"All things fade... but me." - Yorick
+"It is to the grave, we go." - Yorick
+"What a beautiful dream is life." - Yorick
+"Remember my name. For one day, I will not." - Yorick
+"I do not know what lies beyond. But it is better than this." - Yorick
+"The dead don't hear you, no matter how you cry." - Yorick
+"The dead shall forgive me. I hope." - Yorick
+"We shall prevail. We have eternity." - Yorick
+"Life is but a brief disinterment." - Yorick
+"Ah, missed it. There it goes! Where is it at? - ah! Yes!" - Yorick
+"Ah, would you like some friends? Nope, cant have 'em." - Yorick
+"I suppose I have eternity to think about that one." - Yorick
+"You'll make a fine addition to my cloak." - Yorick
+"For you, I won't dig too deep." - Yorick
+"I pity what you have become. Shall I end your suffering?" - Yorick
+"I have nothing but time. Show me something else." - Yorick
+"Yours is an easy grave to dig, small one." - Yorick
+"They say I was once your age, though I can't quite recall." - Yorick
+"Your corpses against mine. May the best win." - Yorick
+"Those you ride down will soon rise against you." - Yorick
+"You and I share a common goal. The similarities end there." - Yorick
+"Enjoy this limbo while you can, for I will soon end it." - Yorick
+"I know you. And I see you always." - Yorick
+"One day, you will take me. May it be soon." - Yorick
+"No, Lucian, I haven't seen your wife." - Yorick
+"You remind me that the world is sometimes good - and very naive." - Yorick
+"I fight to free you as well - though a hatchet would suffice." - Yorick
+"My army will soon storm your gates, revenant." - Yorick
+"Yours is a fool's errand. The world must be allowed to die." - Yorick
+"You think you want immortality. I'll gladly give you mine." - Yorick
+"Those souls are not yours to keep." - Yorick
+"I've endured more pain than any words can bring." - Yorick
+"I no longer feel insults." - Yorick
+"I'm just happy to have company." - Yorick
+"Ah yes, I remember spewing idle words." - Yorick
+Yorick plays a bass tune. - Yorick
+"Ah yes, I remember what laughter sounds like." - Yorick
+"Kill, and use its form." - Yorick
+"Rest in your rightful place." - Yorick
+"Return, and fight." - Yorick
+"This horde consumes all." - Yorick
+"A little longer, friend, then rest." - Yorick
+"Join me, brother." - Yorick
+"Some of these faces I know well." - Yorick
+"Arise and return to this world." - Yorick
+"They rise, they fight, they rot." - Yorick
+"Wake up. You have a new task." - Yorick
+"Die with me brothers, and be free." - Yorick
+"Walk once more." - Yorick
+"I thank you for your service." - Yorick
+"Welcome back, you won't be here long." - Yorick
+"It's good to see you." - Yorick
+"Allies from below." - Yorick
+"Hello, friends." - Yorick
+"Ah yes, I remember you." - Yorick
+"Won't you join them?" - Yorick
+"The damned resist their fate." - Yorick
+"The ruins of these isles rise to smite you." - Yorick
+"This never ends." - Yorick
+"To destroy the curse, I use it." - Yorick
+"Take shape." - Yorick
+"An eternal ring." - Yorick
+"It's you they seek." - Yorick
+"They reach for you." - Yorick
+"Watch them squirm." - Yorick
+"An unholy mark upon you." - Yorick
+"A curse upon the ground." - Yorick
+"A profane sacrament." - Yorick
+"It fouls upon touch." - Yorick
+"Feel its pull." - Yorick
+"It claims you." - Yorick
+Maiden:   "One more step toward domination!"	 Yorick: "One more step toward the end." - Yorick
+Maiden:   "We are stronger. We shall take all!" - Yorick
+Maiden:   "Do you feel it? I am more!" - Yorick
+Maiden:   "We feed, we grow!" - Yorick
+"Behold the horrors of the isles!" - Yorick
+"Go, take what you will." - Yorick
+"See the  Maiden? She comes for you." - Yorick
+"Submit. Surrender." - Yorick
+"Do not resist." - Yorick
+"All will join." - Yorick
+"The mist takes all!" - Yorick
+"We devour it. It becomes us!" - Yorick
+"We are not corruption. We are strength!" - Yorick
+"More, more for the black maw of the mist!" - Yorick
+A tune plays. - Yorick
+"Don't bury me with it. You can't take it with you." - Yorick
+"Even a monk needs bread and water." - Yorick
+"Material items, for the material world." - Yorick
+"It pulses with life, as the isles once did." - Yorick
+"Red is the heart that barely beats in me." - Yorick
+"A vital ornament." - Yorick
+"I wouldn't be caught dead in that." - Yorick
+"Mere rags, soon to fade." - Yorick
+"A sack to cover flesh and bone." - Yorick
+"The armor of someone soon to die." - Yorick
+"As cold as the hand of death." - Yorick
+"Cold, even to my touch." - Yorick
+"To slow the fleet of foot." - Yorick
+"A gauntlet to throw before the king." - Yorick
+"They'll find me hard to bury." - Yorick
+"Gives life when death is near." - Yorick
+"A ghastly armament." - Yorick
+"A gift from kind specters." - Yorick
+"Sometimes the dead can give life." - Yorick
+"Stay with me, spirit." - Yorick
+"The only warmth I've found." - Yorick
+"To cremate my foes." - Yorick
+"The fire of life burns within." - Yorick
+Maiden:   "The sword of a great man."	 Yorick: "The sword of a fool." - Yorick
+Maiden:   "The king will return for it."	 Yorick: "Then I will strike him down." - Yorick
+Maiden:   "The blade of the father."	 Yorick: "A tyrant who will pay for his crimes." - Yorick
+Maiden:   "This blade has performed great feats."	 Yorick: "And I will use it to undo them." - Yorick
+"It fits me to perfection." - Yorick
+"Taken from one who can no longer use it." - Yorick
+"The dead need no armor, but I do." - Yorick
+"Too valuable to bury." - Yorick
+"Another voice in the cacophony of wails." - Yorick
+"Flesh torn asunder, flesh reborn." - Yorick
+"We all end the same." - Yorick
+Maiden:   "Look at the wrong you do!"	 Yorick: "It is necessary." - Yorick
+"Your remains will serve a purpose." - Yorick
+"One more nail in the coffin of the isles." - Yorick
+"I can't bury them all." - Yorick
+"My army grows." - Yorick
+"All these bodies going to waste." - Yorick
+"My graveyard is full." - Yorick
+"All things decay." - Yorick
+"Mortar crumbles." - Yorick
+"Everything that stands must fall." - Yorick
+"Forward, we press." - Yorick
+"It falls, like all things." - Yorick
+"Makes its own tomb." - Yorick
+"To delay the end." - Yorick
+"To life." - Yorick
+"I still draw breath." - Yorick
+"Even a monk needs respite." - Yorick
+"We all return to our origin." - Yorick
+"A breath between rites." - Yorick
+"My path is a circle, my work never-ending." - Yorick
+Maiden:   "You retreat like a coward."	 Yorick: "I will return anon." - Yorick
+"The bells toll and I respond." - Yorick
+"Do not grieve." - Yorick
+"I grow cold." - Yorick
+"At last." - Yorick
+"I see the  wolf." - Yorick
+"The shock of resurrection quickly passes." - Yorick
+"I've come too far to stay dead." - Yorick
+"We do not die, and so we fight on." - Yorick
+"When we end, we begin again." - Yorick
+"Revived by the tears of life." - Yorick
+"One day, I will no longer awaken." - Yorick
+"A fleeting repose." - Yorick
+Maiden:   "A futile act, why do you persist?"	 Yorick: "Because I must." - Yorick
+"The beyond is not given. It is earned." - Yorick
+"Our time has not yet come." - Yorick
+"There will be no requiem. Not yet." - Yorick
+"As balance dictates." - Akali
+"Understood." - Shen
+"Without question." - Akali
+"Whatever's necessary." - Akali
+"Mark acquired." - Akali
+"Another unworthy opponent." - Akali
+"A necessary sacrifice." - Akali
+"Honor is the blade's edge." - Akali
+"Deftly I travel." - Akali
+"Through twilight's veil." - Akali
+"Tread lightly." - Taliyah
+"Agreed." - Akali
+"Remain focused." - Akali
+"Hesitation is the seed of defeat." - Akali
+"Symmetry in all things." - Akali
+"We travel the same path." - Akali
+"I suggest you run... I want to savor this." - Akali
+"So many noobs... will matchmaking ever find true balance?" - Akali
+"My heart and sword always for Demacia." - Garen
+"Fear is the first of many foes." - Garen
+"Victory awaits!" - Garen
+"Accursed villains." - Garen
+"Battle the infamy." - Garen
+"I will lead the charge." - Garen
+"Vile scourge." - Garen
+"The scoundrels will pay!" - Garen
+"I will fight as long as I stand!" - Garen
+"Justice, by law, or by sword." - Garen
+"What we do is right!" - Garen
+"We are the vanguard." - Garen
+"Show them the strength of Demacia!" - Garen
+"Forge onward!" - Garen
+"For Demacia." - Garen
+"In the King's name." - Garen
+"I bring justice." - Garen
+"Fear not, I'm coming." - Garen
+"To protect our land." - Garen
+"I stand ready." - Garen
+"This world needs hope." - Garen
+"Never forget why we fight!" - Garen
+"Demacia marches as one." - Garen
+"We fight for those who cannot." - Garen
+"Our deeds shape the future." - Garen
+"Keep faith in yourself." - Garen
+"Be bold; be just!" - Garen
+"Our courage must never waver." - Garen
+"Come forth, you will find honor in death." - Garen
+"The glory of Demacia will never fade." - Garen
+"No matter your numbers, I will not yield." - Garen
+"Darius, you are a butcher, not a general." - Garen
+"Extend the hand of Noxus, pull back a stump." - Garen
+"I've got a lot of weight on my shoulders!" - Garen
+"Hey, look, I'm holding the world up!" - Garen
+"I could do this for hours. Really." - Garen
+"Darius, eat your heart out." - Garen
+"Seven thousand and two--- oh, I didn't see you standing there." - Garen
+"Demacia... " - Garen
+"Charge!" - Garen
+"Forward!" - Garen
+"Stay resolute!" - Garen
+"Demacia!" - Garen
+"Hold fast!" - Garen
+"Break their ranks!" - Garen
+"I will not falter!" - Garen
+"Justice!" - Garen
+"For the cause!" - Garen
+"Oblivion awaits!" - Malzahar
+"It is done." - Malzahar
+"A demonstration of superior judgement." - Shen
+"So I go." - Shen
+"It must be done." - Shen
+"Enforced equilibrium." - Shen
+"I find them unworthy." - Shen
+"Target marked." - Shen
+"With honor." - Shen
+"With balanced steps." - Shen
+"Our wills align." - Shen
+"Press on." - Shen
+"From the shadows." - Shen
+"Tread carefully." - Shen
+"Without a sound." - Shen
+"There is no dispute." - Shen
+"Immediately." - Shen
+"You're already dead, you just haven't caught up yet." - Shen
+"If light travels so fast, how come it's never caught a ninja?" - Shen
+"Don't you trust me?" - Ahri
+"Play time's over." - Ahri
+"Insolent peasants!" - Fiora
+"Run them through!" - Fiora
+"Prepare to die." - Fiora
+"They dare not strike back." - Fiora
+"To the death." - Fiora
+"I never hold back." - Fiora
+"Strike quickly, strike deftly." - Fiora
+"Precision and grace." - Fiora
+"I have no equal." - Fiora
+"Do not hesitate." - Fiora
+"Sharp blade, sharp mind." - Fiora
+"Others try. I succeed." - Fiora
+"In the blink of an eye." - Fiora
+"Is this supposed to be a challenge?" - Fiora
+"Such unrefined style." - Fiora
+"Talent, honor, discipline, and pretty pictures!" - Fiora
+"I am an artist with a sword, in more ways than one." - Fiora
+"Submit! You have already lost." - Fiora
+"I like you. I hate to kill you." - Fiora
+"En garde!" - Fiora
+"Try me!" - Fiora
+"Your move." - Fiora
+"Stand ready." - Fiora
+"One step ahead!" - Fiora
+"Poor form!" - Fiora
+"Too slow!" - Fiora
+"Try again." - Fiora
+"Stand back." - Taliyah
+"Let's do this." - Draven
+"Watch and learn." - Draven
+"I have the best job." - Draven
+"Hit 'em where it hurts." - Draven
+"Something need killin'?" - Draven
+"This is where Draven shines." - Draven
+"Hear that? Death's knocking." - Draven
+"Seems to be blood everywhere I go." - Draven
+"Man, I'm good." - Draven
+"Don't be jealous." - Draven
+"I've got pain to serve." - Draven
+"Perfection? I got that." - Draven
+"Got axes, need victims." - Draven
+"Now this is how to move." - Draven
+"Places to go, me to see." - Draven
+"Let's admire me for a bit." - Draven
+"Subtle? I don't do subtle." - Draven
+"Doesn't get better than this." - Draven
+"No followin' these footsteps." - Draven
+"Not Draven; Draaaaven." - Draven
+"Draven does it all... with style!" - Draven
+"Who wants some Draven? Heheheh." - Draven
+"Come out and play. Heheheh." - Draven
+"Yeah, yeah! Yeah!" - Draven
+"Yeah! Woo!" - Draven
+"Woo! Yeah! Yeah!" - Draven
+"Too easy." - Draven
+"I'll take that." - Draven
+"Here we go." - Ornn
+"Why, thank you!" - Draven
+"Yoink." - Draven
+"Nice axe, I'll take it." - Draven
+"Draven out!" - Draven
+"Draven's makin' an exit." - Draven
+"They will regret opposing me." - Darius
+"Death by my hand." - Darius
+"With overwhelming force." - Darius
+"Exploit every weakness." - Darius
+"Witness true strength." - Darius
+"Unmatched power!" - Darius
+"Scurry, weakling." - Darius
+"I will not rest." - Darius
+"Strength above all." - Darius
+"Noxus will rise." - Darius
+"I do not tolerate cowardice." - Darius
+"Make no mistakes." - Darius
+"Carve a path." - Darius
+"Never retreat!" - Darius
+"Stay alert." - Darius
+"My destination is clear." - Darius
+"I have my orders." - Darius
+"Noxuuu... oh, woah, oof! How does  he do it?" - Darius
+"Noxuuu... ohhh... ugh. Dizzy." - Darius
+"Don't turn your back, or expose your neck." - Darius
+"Defy Noxus and taste your own blood." - Darius
+"A new moon is rising." - Diana
+"Ignorant thralls!" - Diana
+"This is necessary." - Diana
+"Bring down the sun." - Diana
+"They leave me no choice." - Diana
+"Deny me no longer!" - Diana
+"Blind to the truth." - Diana
+"No more lies." - Diana
+"Chosen of the moon." - Diana
+"They would not listen." - Diana
+"I will be heard." - Diana
+"Dusk approaches." - Diana
+"Follow no false light." - Diana
+"I cannot turn back." - Diana
+"The moon also rises." - Diana
+"My eyes are open." - Diana
+"I speak only truth." - Diana
+"They could not break me." - Diana
+"Embrace the night." - Diana
+"A man, a woman and a yordle walk into the sun. They die! Because it burns them alive? Heh heh heh heh." - Diana
+"Knock, knock. Who's there? The moon... it's far away! You were alone the whole time! Ha ha ha!" - Diana
+"They called me a heretic, now they are dead." - Diana
+"The moon will rise. The night will last forever." - Diana
+"Nightfall!" - Diana
+"Dusk!" - Diana
+"Twilight fades!" - Diana
+"Night approaches." - Diana
+"Naturally." - Aurelion Sol
+"Hmph. Tragic." - Aurelion Sol
+"They call me a comet. They call me a dragon. They have no words for my true form." - Aurelion Sol
+"Cower, worship, beg, they're all valid reactions." - Aurelion Sol
+"In a constantly shifting cosmos, a world this static is... refreshing." - Aurelion Sol
+"There simply are no other dragons like me." - Aurelion Sol
+"The stars look very different today." - Aurelion Sol
+"Hope. Wonder. Insignificance. Imagine what they'll feel when I complete the stars." - Aurelion Sol
+"Now we're playing with star fire!" - Aurelion Sol
+"My, how they stare." - Aurelion Sol
+"Let's end this on a high note!" - Aurelion Sol
+"None shall tread upon the stars." - Aurelion Sol
+"Never stand in the path of a star." - Aurelion Sol
+"Time to give them a show." - Aurelion Sol
+"It's beyond too late to seek cover." - Aurelion Sol
+"You will know your place." - Aurelion Sol
+"Impending doom - exciting, isn't it?" - Aurelion Sol
+"Congratulations, you have earned my contempt." - Aurelion Sol
+"Lighten up, destruction needn't be a maudlin affair." - Aurelion Sol
+"Suns never burn for the benefit of dust." - Aurelion Sol
+"Useless and intolerable. Charming." - Aurelion Sol
+"Plenty more to come." - Aurelion Sol
+"Defending yourself? Adorably futile." - Aurelion Sol
+"Tedious being." - Aurelion Sol
+"Boring me is dangerous." - Aurelion Sol
+"I never bite. Too uncouth." - Aurelion Sol
+"I'm going to throw a star at you now. Good luck." - Aurelion Sol
+"You are more useful as dust." - Aurelion Sol
+"Too bad." - Aurelion Sol
+"I tried to like you." - Aurelion Sol
+"Nothing a little star fire cannot fix." - Aurelion Sol
+"Be useful. Be stardust. I'll help." - Aurelion Sol
+"Why would I spare such mediocrity?" - Aurelion Sol
+"You are woefully underprepared." - Aurelion Sol
+"Bravery is absurd - but admirable." - Aurelion Sol
+"Live through this, and we'll chat." - Aurelion Sol
+"I'll indulge your foolhardy nature." - Aurelion Sol
+"Admire... then die." - Aurelion Sol
+"Oh, you will shine." - Aurelion Sol
+"Defenses? Laughable." - Aurelion Sol
+"Be brighter. I'll help." - Aurelion Sol
+"Think cosmic - like this!" - Aurelion Sol
+"Not everyone shines brightly enough!" - Aurelion Sol
+"Irritating cluster of particles." - Aurelion Sol
+"To atoms!" - Aurelion Sol
+"Return to dust." - Aurelion Sol
+"Smoulder, then implode!" - Aurelion Sol
+"They are merely dust." - Aurelion Sol
+"Illuminate." - Aurelion Sol
+"Melt." - Aurelion Sol
+"What a pity." - Aurelion Sol
+"Dragon's breath it is." - Aurelion Sol
+"Good find." - Aurelion Sol
+"Terrestrial dragons - a study of flawed constitutions." - Aurelion Sol
+"Low dragon, unfitting of the name." - Aurelion Sol
+"You call yourself a dragon? You're low-flame at best." - Aurelion Sol
+"A dragon that still needs wings to fly? Keep trying, you'll get there." - Aurelion Sol
+"I did mean to call you back, but stars needed forging." - Aurelion Sol
+"This world holds the key to Targon's undoing." - Aurelion Sol
+"Targon has used me as its weapon for far too long." - Aurelion Sol
+"The heavens diminish without my attention." - Aurelion Sol
+"I would burn the cosmos to catch Targon in the flames." - Aurelion Sol
+"The depths of space crawl with terrible entities. Pray they ignore this world." - Aurelion Sol
+"There are countless colors, but I suppose a single rainbow was a good start." - Aurelion Sol
+"This sun is off its axis - it's been driving me crazy for eons now." - Aurelion Sol
+"Planetary life... the insufferable byproduct of dim stars." - Aurelion Sol
+"Targon's magic is crude, but potent." - Aurelion Sol
+"Nothing kindles wonder like the beauty of stars." - Aurelion Sol
+"Celestial dragons live and die by our own beautiful rules." - Aurelion Sol
+"Love is as real a force as gravity. Try it once in a while." - Aurelion Sol
+"Stars are not born, they are made... by me." - Aurelion Sol
+"A star's birth is as violent as it is breathtaking." - Aurelion Sol
+"I've waited millennia to watch Targon fall." - Aurelion Sol
+"All beings are made of the same stardust." - Aurelion Sol
+"With a few more basic elements I could really make this place shimmer." - Aurelion Sol
+"The stars are not to thank for any good luck one may experience." - Aurelion Sol
+"This sun could do with a new core." - Aurelion Sol
+"Any relevant species has been knocked back into the Stone Age once or twice." - Aurelion Sol
+"I wouldn't navigate by the stars. They are a work in progress." - Aurelion Sol
+"Each star is one of my hearts." - Aurelion Sol
+"My works are revered by worlds I have never even visited." - Aurelion Sol
+"Wherever I am is the fashionable part of the universe. Even here." - Aurelion Sol
+"Stars are wonder and love ignited." - Aurelion Sol
+"I spark passion into star fire." - Aurelion Sol
+"A star is so much more than a luminous sphere of wonder." - Aurelion Sol
+"If you ask me, we have set the bar too low for sentience." - Aurelion Sol
+"My home is in the cosmos, amongst my stars." - Aurelion Sol
+"The stories they tell about me? They're probably true." - Aurelion Sol
+"All terrestrial dragons are but pale imitations of my kind." - Aurelion Sol
+"Perhaps there is more to this world than I thought - not much, but enough." - Aurelion Sol
+"As Targon's influence wanes, mine grows." - Aurelion Sol
+"Why does anyone wish upon a star?" - Aurelion Sol
+"Stars never align for anyone - except me, of course." - Aurelion Sol
+"Sometimes, the stars gaze back." - Aurelion Sol
+"I kindled the furnaces of wonder." - Aurelion Sol
+"Only when darkness overwhelms the heavens will Targon realise its folly." - Aurelion Sol
+"My stars shine for all." - Aurelion Sol
+"Targon will be the pyre from which I forge a new heaven." - Aurelion Sol
+"I see a universe drained of light and heat, where not even a story will survive." - Aurelion Sol
+"I grieve for every star never born." - Aurelion Sol
+"Darkness is my only true enemy." - Aurelion Sol
+"Whenever I think my work is complete, I end up back here, under this sun." - Aurelion Sol
+"May I enter? Just joking - star dragons don't need permission." - Aurelion Sol
+"Your demise will be sung about for ages to come - only thanks to its proximity to me, of course." - Aurelion Sol
+"Your survival is not impossible, only very... very... very unlikely." - Aurelion Sol
+"I shall be the last thing you see. Lucky you." - Aurelion Sol
+"Make a wish. See if the stars answer. I'll wait." - Aurelion Sol
+"What is the definition of underwhelming? Oh, right! You." - Aurelion Sol
+"I used to wander the stars. Now I'm stuck down here, with you." - Aurelion Sol
+"On other worlds, there is emerging life more complex than you." - Aurelion Sol
+"You aspire to be human? Oh, darling, there are so many other variants on mediocrity!" - Aurelion Sol
+"I am... overwhelmed by an emotion when you are not around. It is called... happiness." - Aurelion Sol
+"Mages are infants grasping at the machinery behind reality. At least you have a plausible excuse." - Aurelion Sol
+"You Ascended certainly know how to pick an animal totem." - Aurelion Sol
+"Your immortality is but a grain of sand in time's vast desert." - Aurelion Sol
+"Pick a dimension, Bard, you're confusing them!" - Aurelion Sol
+"Were you born this flat, or did you work at it?" - Aurelion Sol
+"The funnier the hat, the greater the prestige, right?" - Aurelion Sol
+"Runeterra. Am I right?" - Aurelion Sol
+"You and Leona embody the same light. Typical Targon redundancy." - Aurelion Sol
+"It is always a moon's role to envy the stars." - Aurelion Sol
+"You're out of your league." - Aurelion Sol
+"Oh, come on, have a little self-respect!" - Aurelion Sol
+"You would make an interesting dragon." - Aurelion Sol
+"If dunking is the apex of this primitive sport, then I am the queen of space." - Aurelion Sol
+"Made a mistake? Better rewind and repeat until you achieve mediocrity." - Aurelion Sol
+"Fear? Generic." - Aurelion Sol
+"Idealism? Hilariously outdated." - Aurelion Sol
+"Rage? Cute." - Aurelion Sol
+"Gunpowder and metal sticks. Enchanting." - Aurelion Sol
+"Ah, mankind. Ever fumbling from one brink of cataclysm to the next." - Aurelion Sol
+"Humanity, surprisingly adept in the art of wrestling survival from the clutches of extinction." - Aurelion Sol
+"As far as fauna goes, humans strike a firm... middle." - Aurelion Sol
+"I've seen the main act. You're only a third-rate cover band." - Aurelion Sol
+"You do not understand your god, Illaoi." - Aurelion Sol
+"Imagine what you could do with a larger canvas." - Aurelion Sol
+"Life is short, go crazy once in a while, I get it." - Aurelion Sol
+"The sun? This sun? Oh, darling." - Aurelion Sol
+"You and Diana embody the same light. Typical Targon redundancy." - Aurelion Sol
+"All dazzle, no brilliance." - Aurelion Sol
+"There is a saying on this planet - "Dumb as a rock". It's not a compliment." - Aurelion Sol
+"You are going to kill me? Dressed like that?" - Aurelion Sol
+"Bravo, Nasus, you've ascended yourself into a dog! Now fetch me something more interesting." - Aurelion Sol
+"I could teach an old dog millions of new tricks, but I simply don't like you, Nasus." - Aurelion Sol
+"Your fate was sealed the moment you picked up Targon's spear." - Aurelion Sol
+"Are you burdened by your own monotony? Because I am." - Aurelion Sol
+"That whole practice of Ascension is adorably amusing, like a kitten trying to walk upright." - Aurelion Sol
+"Ah, Ryze, I see you've brought paper to take notes." - Aurelion Sol
+"True magic is beyond language. Writing merely butchers the intent." - Aurelion Sol
+"Magic tattoos? Where did you get those, magic prison?... oh." - Aurelion Sol
+"Almost interesting. Almost." - Aurelion Sol
+"A dragon's loyalty is a priceless gift. Do not waste it in the service of fools." - Aurelion Sol
+"Medium flame, and that is me being generous." - Aurelion Sol
+"Unfitting of the draconic lineage." - Aurelion Sol
+"Twinkle, twinkle, little star, do you wonder what you are?" - Aurelion Sol
+"The heavens drag on endlessly... much like a conversation with you." - Aurelion Sol
+"The Aspect of Targon? Sparks masquerading as lightning." - Aurelion Sol
+"I will cauterize Targon with star fire." - Aurelion Sol
+"You're an Aspect? Let me guess - tackiness." - Aurelion Sol
+"Galaxies exist by my will - but, yes, that is certainly an impressive sword." - Aurelion Sol
+"Hm. Punching?" - Aurelion Sol
+"You are going to punch a star dragon. Good luck with that." - Aurelion Sol
+"Blood magic? How tragically primitive." - Aurelion Sol
+"I empathize with your life as a weapon, but have a little backbone." - Aurelion Sol
+"You bend time the way a child folds origami - cute, but nothing special." - Aurelion Sol
+"Few can impress me. That is a compliment." - Aurelion Sol
+"Which star is your favorite? I made that one." - Aurelion Sol
+"I made the stars... but you inspire me to make more." - Aurelion Sol
+"First you start with some matter, then add star fire and voila! It basically does the rest itself." - Aurelion Sol
+"Runeterra? I mean the name of this world literally means 'magic earth'." - Aurelion Sol
+"I made the stars to illuminate the perpetual nothing, and mortals use them for... relationship advice." - Aurelion Sol
+"A sun is unimaginable celestial power - and thrilled mortals use theirs to coordinate this 'lunch time'." - Aurelion Sol
+"I make entropy look good." - Aurelion Sol
+"Of course I love Runeterra! You have buildings and... more buildings." - Aurelion Sol
+"Hello, Runeterra! Are you ready to rock?" - Aurelion Sol
+"Let's dance!" - Rakan
+"Join me in the dance cosmic!" - Aurelion Sol
+"Boop." - Aurelion Sol
+"Starstruck?" - Aurelion Sol
+"Wrong orbit. Wrong time." - Aurelion Sol
+"The stars weep for you. Just kidding - I already forgot your name." - Aurelion Sol
+"My wish upon a star came true." - Aurelion Sol
+"Nice job, just standing there." - Aurelion Sol
+"Stars are best viewed from a distance." - Aurelion Sol
+"The stars were not in their favor." - Aurelion Sol
+"I guess their fate was written in the stars." - Aurelion Sol
+"Accrete!" - Aurelion Sol
+"Pure star fire!" - Aurelion Sol
+"Time to gather the necessary matter!" - Aurelion Sol
+"Feels good to make things again!" - Aurelion Sol
+"Aim... and ignite!" - Aurelion Sol
+"Anyone want some stardust?" - Aurelion Sol
+"A little dim - but it still works." - Aurelion Sol
+"Beautiful - such a shame." - Aurelion Sol
+"This will be quite the deadly spectacle." - Aurelion Sol
+"And I'm barely trying!" - Aurelion Sol
+"Expanding my horizons." - Aurelion Sol
+"Stellar!" - Aurelion Sol
+"Time for a great expansion." - Aurelion Sol
+"My sphere of influence grows." - Aurelion Sol
+"Put it on my tab. The name's Pantheon, with a P." - Aurelion Sol
+"Put it on Mount Targon's tab." - Aurelion Sol
+"Pay? Do you know who I am?" - Aurelion Sol
+"Just... my... style." - Aurelion Sol
+"Fine, take your gold." - Aurelion Sol
+"Money? How barbaric." - Aurelion Sol
+"I tend to burn through footwear." - Aurelion Sol
+"My feet rarely touch the ground." - Aurelion Sol
+"Some things are simply better with age." - Aurelion Sol
+"Ages? This thing has been around for centuries, tops." - Aurelion Sol
+"It's been around for ages? So... almost new." - Aurelion Sol
+"All things appreciate in value over time." - Aurelion Sol
+"Hats are always fashionable." - Aurelion Sol
+"As long as it's set at a jaunty angle I'm in." - Aurelion Sol
+"A snow globe? Perfect for my collect - to destroy you. Destroy you!" - Aurelion Sol
+"Shiny - but it's no star." - Aurelion Sol
+"Time to slow things down a bit." - Aurelion Sol
+"A bit gaudy for my tastes but exceedingly useful." - Aurelion Sol
+"Liandry's Torment - my benefit." - Aurelion Sol
+"Perfect for the bimillenial celestial masquerade ball." - Aurelion Sol
+"If Bard and Kindred can pull off wearing a mask, so can I." - Aurelion Sol
+"There are no echoes where I'm from." - Aurelion Sol
+"But a shadow of sound." - Aurelion Sol
+"So many magics staves." - Aurelion Sol
+"All towers fall - it's just what they do when I'm around." - Aurelion Sol
+"Nothing they build can endure like the celestial firmament." - Aurelion Sol
+"Towers tend to crumble when I am in the vicinity." - Aurelion Sol
+"Topple, like all things crafted by mortals." - Aurelion Sol
+"The architects of these towers misunderstand object permanence." - Aurelion Sol
+"How many must I knock down before they learn?" - Aurelion Sol
+"You may look forward to more of this." - Aurelion Sol
+"Never stop when you're on a roll." - Aurelion Sol
+"I shall inscribe this moment in the stars." - Aurelion Sol
+"That ought to keep them talking for the next century or so." - Aurelion Sol
+"Cosmic dragon; five. Everyone else; zero. Please, take notes." - Aurelion Sol
+"Well, that was easy." - Aurelion Sol
+"Another mass extinction. So soon?" - Aurelion Sol
+"Always leave them begging for more." - Aurelion Sol
+"Don't miss me too much." - Aurelion Sol
+"I've seen enough." - Aurelion Sol
+"Always know when to make an entrance - and an exit." - Aurelion Sol
+"Alas, I am simply too beautiful for this world." - Aurelion Sol
+"Never said I was infallible." - Aurelion Sol
+"Left an exquisite corpse." - Aurelion Sol
+"The brightest stars shine on long after they're gone." - Aurelion Sol
+"Darling, you have but set my hearts free." - Aurelion Sol
+"With a lifespan as comically brief as yours, I suppose I can allow you to taste triumph at least once." - Aurelion Sol
+"Ah, the joys of lesser organisms rising up to slay their betters! If only they were aware of the impermanence of being... or the permanence of me." - Aurelion Sol
+"Stars never fall." - Aurelion Sol
+"Because I am a star dragon. That's why." - Aurelion Sol
+"It's not a comeback if one was never truly gone." - Aurelion Sol
+"Hello again. Let's have some fun." - Aurelion Sol
+"Energy never dies." - Aurelion Sol
+Kayn: "Will you prove worthy?"	 Rhaast: "Probably not." - Kayn
+Kayn: "The weak fear the shadows."	 Rhaast: "Fear controls them." - Kayn
+Rhaast: "I will survive eternity. They will die today!" - Kayn
+Kayn: "The child is gone, the killer will remain." - Kayn
+Rhaast: "There is fear in your grip, and doubt in your heart!"	 Kayn: "I have no heart. That, you should fear." - Kayn
+Kayn: "The true assassin kills one to save many"	 Rhaast: "Such noble lies. Save no-one, it's so liberating!" - Kayn
+Rhaast: "The undoing draws near."	 Kayn: "Yes, yours." - Kayn
+Rhaast: "Again!"	 Kayn: "Yes!" - Kayn
+Kayn: "Another target!"	 Rhaast: "More, more!" - Kayn
+Rhaast: "They are worthy?"	 Kayn: "To die? Yes." - Kayn
+Kayn: "They're next."	 Rhaast: "Don't wait, slay!" - Kayn
+Kayn: "Shadows cut deep as fear!" - Kayn
+Kayn: "Found you!" - Kayn
+Kayn: "Cowering in the light, how foolish!" - Kayn
+Kayn: "Fear the darkened blade!" - Kayn
+Kayn: "The blade bends to you!" - Kayn
+Kayn: "The shadows find everyone." - Kayn
+Kayn: "You have my undivided attention!" - Kayn
+Rhaast: "Set me free!" - Kayn
+Rhaast: "Drive me into their flesh!" - Kayn
+Rhaast: "Kill them all!" - Kayn
+Rhaast: "From the shadow comes the slaughter." - Kayn
+Rhaast: "Time to reap." - Kayn
+Rhaast: "Every slaughter has humble beginnings." - Kayn
+Rhaast: "Never underestimate hatred." - Kayn
+Rhaast: "Feed me more lives!" - Kayn
+Kayn: "He's with you I assume?"	 Rhaast: "Aatrox ... we have ... history..." - Kayn
+Rhaast: "This is your master? Zed?"	 Kayn: "Leave us to it!" - Kayn
+Rhaast: "Teacher and student... yes?"	 Kayn: "Inevitable." - Kayn
+Kayn: "This brings me no pleasure, Shen."	 Rhaast: "It will for me." - Kayn
+Kayn: "The bigger they are..."	 Rhaast: "The louder they scream." - Kayn
+Kayn: "Such a waste of time." - Kayn
+Kayn: "This will only dull the blade." - Kayn
+Rhaast: "Sure, why not." - Kayn
+Rhaast: "Well... we are here..." - Kayn
+Rhaast: "There is much darkness around you, in you."	 Kayn: "That is my armor." - Kayn
+Kayn: "I let you go and you will die."	 "Rhaast: And you will lose." - Kayn
+Rhaast: "Tell me, was it desperation that led you to me?"	 Kayn: "Audacity." - Kayn
+Kayn: "I am the weapon, you are a tool."	 Rhaast: "Lies sooth the mind, don't they?" - Kayn
+Rhaast: "I see your nightmares, do they trouble you?"	 Kayn: "Not nightmares, plans..." - Kayn
+Rhaast: "I have waited eons to bathe this realm in blood!"	 Kayn: "Talk, talk... You'll do nothing without me." - Kayn
+Rhaast: "Ionians, are they all as confident as you?"	 Kayn: "There is no one like me." - Kayn
+Kayn: "What will be the final lesson?"	 Rhaast: "Give in, and I will show you." - Kayn
+Kayn: "I was born into a nation of despair and I alone am the remedy." - Kayn
+Kayn: "I have chosen you, you will serve me." - Kayn
+Kayn: "I have mastered every weapon of war, no prattling tool will prove an exception." - Kayn
+Kayn: "Who should I obey? Master Zed or the farm implement with delusions of grandure?" - Kayn
+Kayn: "Underestimate me at your peril." - Kayn
+Rhaast: "The rage is in your hands, let it loose!" - Kayn
+Rhaast: "Their screams thrill me." - Kayn
+Rhaast: "Zed's order shackles you, I offer freedom!" - Kayn
+Rhaast: "You are not worthy of the power you hold." - Kayn
+Rhaast: "This is the part I like best, the anticipation. No, it's the killing." - Kayn
+Rhaast: "Such an obsequious pupil, I will be your new master." - Kayn
+Rhaast: "Target the strong, I am a weapon not some accessory." - Kayn
+Rhaast: "Neither time nor violence will end me." - Kayn
+Kayn: "What does Rhaast mean anyway?"	 Rhaast: "Obey." - Kayn
+Kayn: "Kill the body." - Kayn
+Kayn: "Kill the mind." - Kayn
+Kayn: "I learned from a young age to embrace the shadows."	 Rhaast: "Darkness is a start." - Kayn
+Rhaast: "I am no toy Kayn."	 Kayn: "You possess the hubris of a more fearsome weapon." - Kayn
+Kayn: "(Laughs) Their screams will echo in this place" - Kayn
+Rhaast: "Stain this fetid swamp with their blood." - Kayn
+Rhaast: "Oh how I miss the smell of blood in the water"	 Kayn: "Today you will be reminded." - Kayn
+Kayn: "Wait by the river long enough and the enemy dead will float by" - Kayn
+Rhaast: "Oh yeah... Let's turn this river red." - Kayn
+Kayn: "The blood of the fallen will annoint me the new master."	Rhaast:"Everyone does look better in red." - Kayn
+Rhaast: "Rage inside me will not be contained!"	Kayn: "The spade does not dictate the architect's vision." - Kayn
+Kayn: "Lives will be taken, and the real plan revealed"	Rhaast: "Killing is the plan, let me show you." - Kayn
+Kayn: "The true assassin kills one to save many."	Rhaast: "Such noble lies, save no one; It's so liberating!" - Kayn
+Rhaast: "I will survive eternity, they will die today." - Kayn
+Rhaast: "Cast off the yoke of Zed's order."	Kayn: "It is the order that will break you, Rhaast." - Kayn
+Rhaast: "There is fear in your grip and doubt in your heart."	Kayn: "I have no heart, that you should fear." - Kayn
+Rhaast: "The undoing draws near."	Kayn: "Yes, yours." - Kayn
+Rhaast:"Every kill fuels my fury." - Kayn
+Rhaast:"Yes! Slaughter!" - Kayn
+Rhaast:"Just like that and the world will be yours to destroy." - Kayn
+Rhaast:"Tenacity versus fury... Fury always wins." - Kayn
+Rhaast:"Why murder one, when you can slaughter many?" - Kayn
+Rhaast:"Triumph is built on a foundation of death." - Kayn
+Rhaast:"The strong fall so quickly to my blade." - Kayn
+Rhaast:"The only way to kill..." - Kayn
+Rhaast:"These are the strong? Pathetic." - Kayn
+Rhaast:"Worthless foes mock my presence." - Kayn
+Rhaast:"Those who seek balance find only death." - Kayn
+Rhaast:"Balance is weakness." - Kayn
+Rhaast:"This is but a taste of my wrath." - Kayn
+Kayn: "With each kill, the shadows grow deeper." - Kayn
+Kayn: "Death delivered with precision is true power." - Kayn
+Kayn: "What was written in shadow, now in flesh." - Kayn
+Kayn: "Death finds fools quickly." - Kayn
+Kayn: "Cowards hide! But never escape." - Kayn
+Kayn: "Fear is your shadow! You are cloaked in it." - Kayn
+Kayn: "The shadows are my realm and your grave." - Kayn
+Kayn: "Shadows are a shallow grave." - Kayn
+Kayn: "Facing me was a mistake." - Kayn
+Kayn: "That was your destiny... To die." - Kayn
+Kayn: "Those seeking balance, will find death." - Kayn
+Kayn: "Even Zed would be impressed." - Kayn
+Rhaast: "Sorry brother, you were in my way." - Kayn
+Rhaast: "Your skills have not improved, Aatrox." - Kayn
+Rhaast: "Zed is dead baby, Zed is dead." - Kayn
+Kayn: "It should not have come to this, Zed." - Kayn
+Kayn: "You taught me too well master." - Kayn
+Kayn: "Live by the shadow, die by the shadow." - Kayn
+Rhaast: "Zed's final lesson? Don't be him." - Kayn
+Kayn: "Shen, consider this a debt paid to a friend" - Kayn
+Rhaast: "Demon pants had it coming." - Kayn
+Kayn: "Noxian strength is a lie." - Kayn
+Kayn: "No mercy! Right, Noxian?" - Kayn
+Kayn: "That was for Zed." - Kayn
+Kayn: "Merely the first to die. There will be more." - Kayn
+Rhaast: "Ooohhh, that felt gooood." - Kayn
+Rhaast: "You never forget your first kill, nope, that's not right, I've already forgotten it." - Kayn
+Kayn: "That's four by my count." - Kayn
+Rhaast: "Stand back! Kayn doesn't know how deadly this thing gets!" - Kayn
+Kayn: "You wanted mercy? Not from me!" - Kayn
+Rhaast: "Where are the worthy?" - Kayn
+Kayn: "My potential has been realized." - Kayn
+Rhaast: "The reaping has begun." - Kayn
+Kayn: "This is power!"	 Rhaast:"Disgusting... I love it!" - Kayn
+Kayn: "Too late."	 Rhaast:"I'm impressed!" - Kayn
+Kayn: "Hush..." - Kayn
+Kayn: "You let me in... so foolish!" - Kayn
+Rhaast: "Ripped out!" - Kayn
+Rhaast: "Thats one to remember!" - Kayn
+Kayn: "There are a thousand ways to kill you in this moment, I'm planning the right one." - Kayn
+Kayn: "This will be quick, but still painful." - Kayn
+Rhaast: "I was forged to destroy, and you are in my way." - Kayn
+Rhaast: "I will take that pitiful existence you call a life from you." - Kayn
+Kayn: "Your kind go no further!" - Kayn
+Rhaast: "Yordles... uggghhh, you sicken me." - Kayn
+Rhaast: "Death and war, this will be delicious." - Kayn
+Rhaast: "We find Aatrox... and it's a party. Of murder. A murder party!" - Kayn
+Kayn: "Together... we are unstoppable, Zed." - Kayn
+Rhaast: "I find your will to live... Amusing.." - Kayn
+Kayn: "I can see twelve ways to kill you. Ah! Correction! Thirteen. It's thirteen. - Kayn
+Kayn:"I'm holdinga sentient weapon of doom, denied blood for eons. You think I am scared of you?" - Kayn
+Rhaast: "I smell death... no, it's you. You smell... bad." - Kayn
+Rhaast: "A craftsman never blames his tools."	Kayn: "I will make an exception in this case." - Kayn
+Kayn:"No escape." - Kayn
+Kayn:"Here we go!"	Rhaast: "Oh. I do like this" - Kayn
+Kayn:"Fear this!" - Kayn
+Rhaast:"Yes.." - Kayn
+Kayn:"Hu hu ha ha ha ha." - Kayn
+Rhaast: "Retreat?!"	 Kayn: "Do not question me, or my motives." - Kayn
+Rhaast: "The weak run. Stay and fight!"	 Kayn: "Did such foolishness lead to your imprisonment?" - Kayn
+Kayn: "The fight will continue." - Kayn
+Rhaast: "But there's still so much to kill!" - Kayn
+Kayn: "For those who can not see in the dark." - Kayn
+Kayn: "Let there be sight." - Kayn
+Rhaast: "Done. Now can we continue the bloodbath?" - Kayn
+Kayn: "Sight.. A pitiful crutch for the weak." - Kayn
+Rhaast: "These trinkets only annoy me." - Kayn
+Kayn: "Darkness falls." - Kayn
+Rhaast: "Aren't I enough?" - Kayn
+Rhaast: "Well.. You know what you want." - Kayn
+Rhaast: "Not my first choice, but okay." - Kayn
+Rhaast: "You're making me jealous." - Kayn
+Kayn: "This will very much upset the balance" - Kayn
+Kayn: "A match made in shadow." - Kayn
+Rhaast: "Good choice, pairs nicely with wrath and fury." - Kayn
+"Yes! This'll be fun! Right?" - Zoe
+"No, that's not nice!" - Zoe
+"The sun rises... I must go!" - Taliyah
+"A bird's trust is not in the branch." - Taliyah
+"I'm going ahead." - Taliyah
+"Every tapestry begins with a single stitch." - Taliyah
+"The ground here conceals a mighty power." - Taliyah
+"The stone here is amazing!" - Taliyah
+"The wounds of this land run deep." - Taliyah
+"Looks like you're stuck between me and a hard place." - Taliyah
+"Our paths have woven together for a reason." - Taliyah
+"Sometimes, learning hurts." - Taliyah
+"Oh, good, just what I need." - Taliyah
+"I've given up too much to let you stop me." - Taliyah
+"Mastery is a journey. Here's your first lesson." - Taliyah
+"Okay, great, that is actually what I wanted to have happen. For once." - Taliyah
+"My father always said I was a shepherd's nightmare." - Taliyah
+"It will take more than you to break me." - Taliyah
+"Every lesson is a gift." - Taliyah
+"Control, control, control... " - Taliyah
+"Maybe I'm your lesson." - Taliyah
+"Experience is the best teacher." - Taliyah
+"My gift, my responsibility." - Taliyah
+"How's this for throwing stones?" - Taliyah
+"I'm still here." - Taliyah
+"One stone at a time." - Taliyah
+"I meant to do that - mostly." - Taliyah
+"Even rocks can be unpredictable." - Taliyah
+"A rock in my hand is worth two in your face!" - Taliyah
+"Beware falling rocks!" - Taliyah
+"How did I do that?" - Taliyah
+"That looks like it hurt!" - Taliyah
+"Either way, I'm going to learn something from this." - Taliyah
+"Looks like you've got a thing or two to learn yourself." - Taliyah
+"Alright, I've got this." - Taliyah
+"Leave no stone unturned." - Taliyah
+"Like threading a needle." - Taliyah
+"Every rock tells a story. This one might be painful." - Taliyah
+"So anyway... bam!" - Taliyah
+"I'll deal with it." - Taliyah
+"Don't mess with a stoneweaver." - Taliyah
+"I'm... kind of amazing." - Taliyah
+"That was pretty much... amazing." - Taliyah
+"I am the rock!" - Taliyah
+"I am the stone beneath your feet." - Taliyah
+"Courage is stronger than stone." - Taliyah
+"The best defense is a strong foundation." - Taliyah
+"You pulled the wrong thread." - Taliyah
+"You underestimate me." - Taliyah
+"Not all who wander are lost." - Taliyah
+"I'm the rock the river cannot wash away!" - Taliyah
+(Ally) "I guess they learned their lesson?" - Taliyah
+(Enemy) "A stone can't be polished without a little friction." - Taliyah
+"Great, now who am I going to learn from?" - Taliyah
+"Five birds, one stone." - Taliyah
+"That... was... amazing! Let us see if I can do it again!" - Taliyah
+"Some walls were meant to come down." - Taliyah
+"Wow... you're tall." - Taliyah
+"As before, we will stand against you." - Taliyah
+"Your fire is nothing compared to the desert heat." - Taliyah
+"I looked for your kind at the ends of the earth." - Taliyah
+"Yours is a tangled web." - Taliyah
+"My weave is made of sturdier stuff." - Taliyah
+"The sparrow flies against the wind." - Taliyah
+"What magnificent stone." - Taliyah
+"The stone here is so beautiful." - Taliyah
+"The great Weaver says every lesson is a gift." - Taliyah
+"The earth hides many secrets." - Taliyah
+"Hard work polishes the roughest stones." - Taliyah
+"The desert's beauty lies beneath the sand." - Taliyah
+"I must finish my task." - Taliyah
+"Keep your eyes on the horizon and your feet on the ground." - Taliyah
+"My journey is not yet at an end." - Taliyah
+"A tribe without tradition is a flock without a shepherd." - Taliyah
+"It is up to all of us to see beauty in the bare stone." - Taliyah
+"Distance means so little when family means so much." - Taliyah
+"The earth calls, and I must answer." - Taliyah
+"To conquer our fears, we must move forward." - Taliyah
+"So long as the desert blooms, there is hope." - Taliyah
+"Every pebble holds infinite potential." - Taliyah
+"What an interesting pattern." - Taliyah
+"True learning is just a stone's throw away." - Taliyah
+"Oh, look, a rock... and another... and another!" - Taliyah
+"I know all of this will lead me home someday." - Taliyah
+"Every stone weaves a different story." - Taliyah
+"This world is a tapestry of our own making." - Taliyah
+"No use staying in one place." - Taliyah
+"The earth here... such colours." - Taliyah
+"Nothing ventured, nothing learned." - Taliyah
+"I keep moving, but my feet are on solid ground." - Taliyah
+"If I stumble, I have the earth to catch me." - Taliyah
+"The world is my loom, and every stone my thread." - Taliyah
+"This world is frayed, and in need of mending." - Taliyah
+"I think I've learned what I need to here." - Taliyah
+"I must push myself harder next time." - Taliyah
+"The warmth of the desert calls me home." - Taliyah
+"No choice is written in stone." - Taliyah
+"There's no place like home." - Taliyah
+"Feels good to be back." - Taliyah
+"Time to roll up my sleeves." - Taliyah
+"Just when I start to appreciate the view, it is time to move on." - Taliyah
+"Maybe I'm here to teach you something." - Taliyah
+"You're never too old to learn something new." - Taliyah
+"Go ahead, push me. We'll both find out what I'm made of." - Taliyah
+"You're not a problem, you're a learning opportunity." - Taliyah
+"I'm not afraid of you." - Taliyah
+"You are out of your depth." - Taliyah
+(Ally) "The mountains of Ionia taught me much." - Taliyah
+(Ally) "My learning continues." - Taliyah
+(Enemy) "Another test?" - Taliyah
+(Enemy) "Let the training begin again." - Taliyah
+"You're no artist, just a hired gun!" - Taliyah
+"Beauty is no excuse for so much suffering." - Taliyah
+"Master Yasuo, remember me?" - Taliyah
+"I knew we'd meet again." - Taliyah
+"I've learned much since we last met." - Taliyah
+"Let me show you what I've learned." - Taliyah
+"The promises of Noxus are nothing but lies." - Taliyah
+"I will take no part in your war machine." - Taliyah
+"You are nothing but plunderers and poachers." - Taliyah
+"We will not trade the yoke of one empire for another." - Taliyah
+"The earth will rip itself apart before it falls to Noxus." - Taliyah
+"Noxus promised learning, but delivered only bloodshed." - Taliyah
+"The sands have revealed your true form." - Taliyah
+"You have poisoned your own heart." - Taliyah
+"This is how the desert repays thieves." - Taliyah
+"Noxians... why did it have to be Noxians?" - Taliyah
+"Scavengers!" - Taliyah
+"You are not wanted here." - Taliyah
+"We are stronger than you think." - Taliyah
+"Leave our world!" - Taliyah
+"You are the scourge upon our world." - Taliyah
+"Are Icathia's secrets truly the key?" - Taliyah
+"Tell us what we need to stand against those creatures." - Taliyah
+"You have betrayed our people to chaos." - Taliyah
+"The stone of Shurima will stand against those creatures." - Taliyah
+"You will stalk the sands no more." - Taliyah
+"You breed chaos like a rabid ralsiji!" - Taliyah
+"Your pattern weaves nothing but chaos." - Taliyah
+"Want to examine some stone up close?" - Taliyah
+"How's that for dirt in your eye?" - Taliyah
+"Sounds like somebody needs a nap." - Taliyah
+"Playtime is going to get a little rocky." - Taliyah
+"Even the smallest stone can shake the heavens." - Taliyah
+"Remember there is stone beneath your sand." - Taliyah
+"We have prospered without you." - Taliyah
+"Your servants will resist." - Taliyah
+"There is no empire without the people." - Taliyah
+"Close to the ground, the sparrow flies faster than the falcon." - Taliyah
+"Shurima will live on without you." - Taliyah
+"Better to build on stone than sand." - Taliyah
+"You forget your people." - Taliyah
+"Shouldn't you be home polishing your Sun Disc?" - Taliyah
+"Did the earth move for you too? Did I just say that out loud?" - Taliyah
+"Don't be silly. Scarecrows don't talk." - Taliyah
+"Don't worry. I don't stay in one place for long." - Taliyah
+"Life and death are two ends of the same thread." - Taliyah
+(Ally) "Sedimentary, my dear Malphite." - Taliyah
+(Enemy) "I've crushed bigger rocks than you." - Taliyah
+(Enemy) "Even rock gives under the right pressure." - Taliyah
+"Our future is not yet off the loom." - Taliyah
+"Worry is a heavier burden than stone." - Taliyah
+"Do not give up before the journey is finished." - Taliyah
+"Even the most barren desert blooms in time." - Taliyah
+"You sure you're alright?" - Taliyah
+"You sure you're okay?" - Taliyah
+"Your resurrection has twisted your mind." - Taliyah
+"Stone sealed your tomb once. It will again." - Taliyah
+"I will mend what you have sundered." - Taliyah
+"This time, rock beats paper!" - Taliyah
+"He may be your blood, but we are your people." - Taliyah
+"You have a choice, Sivir." - Taliyah
+"Do not turn your back on what is right." - Taliyah
+"I feel your tribe sleeping below the earth." - Taliyah
+"Is it hard to be the protector of so many?" - Taliyah
+"I know the power that lies beneath." - Taliyah
+"Ooh, you're pretty. Guys can be pretty, right?" - Taliyah
+"It is the shepherd's duty to drive the wolf away." - Taliyah
+"You are nothing but a sheep in wolf's clothes." - Taliyah
+"Yours is the ill wind that begat his wrath." - Taliyah
+(Ally) "That was great!" - Taliyah
+(Enemy) "Huh. I guess that's funny where you come from." - Taliyah
+"Problems should be broken up into little pieces." - Taliyah
+"Take this!" - Taliyah
+"Tag, you're it!" - Taliyah
+"If at first you don't succeed, throw another rock!" - Taliyah
+"I told you to stand back!" - Taliyah
+"You've strayed too far!" - Taliyah
+"Up you go!" - Taliyah
+"Burst!" - Taliyah
+"Erupt!" - Taliyah
+"Rise!" - Taliyah
+"Maybe you should go over there!" - Taliyah
+"Away with you!" - Taliyah
+"It's never good to run from your problems." - Taliyah
+"Watch your step." - Taliyah
+"Mind your footing." - Taliyah
+"You're standing on shaky ground." - Taliyah
+"Never dismiss what's beneath your feet." - Taliyah
+"Better to build from the ground up." - Taliyah
+"Time to divide the flock." - Taliyah
+"Let's shake things up." - Taliyah
+"Time to go with the flow." - Taliyah
+"This... is... amazing!" - Taliyah
+"How amazing is this?" - Taliyah
+"You can run from a landslide, I prefer to ride it!" - Taliyah
+"Here I come!" - Xayah
+"You have to try that." - Taliyah
+"That may have gotten away from me." - Taliyah
+"Totally. Epic." - Taliyah
+"Did you see that?" - Taliyah
+"Oh, great, I needed this." - Taliyah
+"Glad they had this in stock." - Taliyah
+"Ooh, I need one of those." - Taliyah
+"Never hurts to be prepared." - Taliyah
+"Glad I could pick this up." - Taliyah
+"This should work." - Taliyah
+"Learning is always faster with the right tools." - Taliyah
+"Every girl needs a good pair of boots." - Taliyah
+"These boots were made for weaving." - Taliyah
+"Clear vision brings hope." - Taliyah
+"This should make the pattern easier to follow." - Taliyah
+"Time to see the pattern in the weave." - Taliyah
+"A rock in the bush is worth five in the hand." - Taliyah
+"Ooh, belts!" - Taliyah
+"Diamonds really are a girl's best friend." - Taliyah
+"This currency carries weight beyond the sands." - Taliyah
+"My father carried one of these." - Taliyah
+"A vision most welcome in the sands." - Taliyah
+"A relic of the old ways." - Taliyah
+"Stick them with the pointy end." - Taliyah
+"I fear no apparitions." - Taliyah
+"Let's see what I can pull out of this hat." - Taliyah
+"Some hats speak louder than words." - Taliyah
+"Huh, towers are stone too. Interesting." - Taliyah
+"One more reason to keep moving." - Taliyah
+"The great Weaver protects me." - Taliyah
+"Time for a sigh of relief." - Taliyah
+"Time to apply what I've learned." - Taliyah
+"I haven't seen this stone before." - Taliyah
+"Time to carry a bigger stick." - Taliyah
+"Time to go big or go home." - Taliyah
+"Time to throw the book at them too." - Taliyah
+"Time to fight magic with more magic." - Taliyah
+"Rocks should really come with an instruction manual." - Taliyah
+"A little chaos should shake things up." - Taliyah
+"That sand reminds me of home." - Taliyah
+"Choices. Those are my only true possessions." - Taliyah
+"The midday toil is the most difficult." - Taliyah
+"Evening is upon us. Let us finish this." - Taliyah
+"Almost better than goat's milk." - Taliyah
+"Refreshing." - Taliyah
+"Tastes like sunshine." - Taliyah
+"Clear vision is best when there are many paths." - Taliyah
+"Action without vision is a nightmare." - Taliyah
+"Vision guides the thread." - Taliyah
+"Big dreams require a lot of vision." - Taliyah
+"Girls with dreams become women with vision." - Taliyah
+"You cannot be what you cannot envision." - Taliyah
+"Shared vision unite the tribe." - Taliyah
+"Time to make vision a reality." - Taliyah
+"Precision is the difference between a butcher and a surgeon." - Camille
+"I will wait for you to be better." - Camille
+"The heart is the strongest muscle." - Braum
+"Think carefully, my friend." - Braum
+"Good times, good friends... what could be better?" - Braum
+"If they insist on a fight, I will oblige them." - Braum
+"Ah! We are about to begin the fighting!" - Braum
+"Now, what can we learn from fighting?" - Braum
+"Ah, new beginnings." - Braum
+"Let's get going." - Braum
+"Shall we begin?" - Braum
+"Today will be exciting day!" - Braum
+"Always bring Braum!" - Braum
+"Follow me, friends!" - Braum
+"They may have many, but you have me." - Braum
+"Is it the moustache? Who knows?" - Braum
+"Why not enjoy some warm milk instead?" - Braum
+"First we fight, then we eat." - Braum
+"My shield is my sword." - Braum
+"Take heart." - Braum
+"When going gets tough, you call Braum." - Braum
+"Let's show our friends the door." - Braum
+"You hit like baby ram! No horns yet!" - Braum
+"Now I give more than harsh talking to!" - Braum
+"Sometimes, shield becomes smashing board." - Braum
+"Troublemaker toss is best game." - Braum
+"Now this is fun!" - Braum
+"Show me your best." - Braum
+"Keep your spirits high." - Braum
+"Put away your worried face!" - Braum
+"Sometimes battle is unavoidable." - Braum
+"Today we fight each other. Tomorrow, we may fight together." - Braum
+"Sometimes icy heart just needs warm smile." - Braum
+"Braum is on the job." - Braum
+"Let us go." - Braum
+"Move like the herd." - Braum
+"You are safe with Braum." - Braum
+"Even heaviest door can be opened." - Braum
+"If you have problem, you come to me first." - Braum
+"Mother always said - don't lose!" - Braum
+"The darker the night, the brighter the stars." - Braum
+"No time for worrying." - Braum
+"Hehe, life is good, no?" - Braum
+"I wonder what's around next corner." - Braum
+"You can always trust Braum." - Braum
+"If at first you do not succeed, please, tell me what it is like." - Braum
+"Don't worry, Braum was trying little bit." - Braum
+"You remind me of Agatha. Best cow back home." - Braum
+"Alistar! I have cow you should meet." - Braum
+"Mother gave me bear as child too, Annie." - Braum
+"Something fishy here? Hehehehehe!" - Braum
+"After this, we share a drink! You like goat's milk?" - Braum
+"What's your poison, Gragas? Mine's milk!" - Braum
+"Your hair... we do not see things like this in the Freljord." - Braum
+"Tryndamere! This is fun, right?" - Braum
+"Are you having fun, my friend?" - Braum
+"When life gives you curdled milk, be patient. You get very good cheese!" - Braum
+"The goats are wise; eat everything, climb everything, and if something kicks you, kick it back!" - Braum
+"Mother always said - float like iceberg, sting like thrown iceberg!" - Braum
+"Strike like ram!" - Braum
+"Not so fast!" - Braum
+"You thought you were in trouble." - Braum
+"Braum is here!" - Braum
+"Stand behind Braum!" - Braum
+"It is easy, see?" - Braum
+"My shield is here for you." - Braum
+"I'm having cold flashes." - Braum
+"Good shot! You'll get them next time." - Braum
+"Look! Your axes bounce right off!" - Braum
+"Ah! A refreshing sea breeze!" - Braum
+"Hm. It is windy today." - Braum
+"Eat, eat and grow strong." - Braum
+"Train hard, little poro, and one day you will be strong like... baby!" - Braum
+"This has the smell of a faraway land. Perhaps I shall see it one day." - Braum
+"These shoes... they're too tight!" - Braum
+"Ha ha! Perfect!" - Braum
+"No sneaking up on Braum this time." - Braum
+"Sight is the key to victory. Also stone." - Braum
+"Fire does the body good." - Braum
+"Ohoohoo, nice and toasty." - Braum
+"I've always wanted an on-fire cloak!" - Braum
+"Ooh! Now I need marshmallow." - Braum
+"To friends, I am snowfall. To enemies, I am avalanche!" - Braum
+"My shield will protect this shield!" - Braum
+"A shield for my shield? I like it!" - Braum
+"Ah... returning home." - Braum
+"Hehe, time for a snack." - Braum
+"Back I go." - Braum
+"See? That wasn't so bad." - Braum
+"Braum lives another day." - Braum
+"Is very important to take time to rest." - Braum
+"Our performance begins." - Jhin
+"The stage is set." - Jhin
+"I suppose I must make do with this tawdry setting." - Jhin
+"This stage is beneath my talent, but I shall elevate it." - Jhin
+"I will bring them an opera of death." - Jhin
+"And now, the curtain rises." - Jhin
+Jhin hums. - Jhin
+"You will be poetry." - Jhin
+"You will be beautiful." - Jhin
+"Watch my puppets dance." - Jhin
+"This is your curtain call." - Jhin
+"Your life had no value before me." - Jhin
+"I feel inspired." - Jhin
+"Art is worth the pain." - Jhin
+"Beauty is pain." - Jhin
+"I will make you famous." - Jhin
+"You will perform." - Jhin
+"This is my love." - Jhin
+"Each bullet is a song." - Jhin
+"Each bullet will be a dance." - Jhin
+"How can we make this fresh?" - Jhin
+"Fabulous." - Jhin
+"Smiles, everyone, smiles!" - Jhin
+"Places, please!" - Jhin
+"Delightful!" - Jhin
+"Alright!" - Xayah
+"Wonderful." - Jhin
+"The composition needs something." - Jhin
+"Sublime." - Jhin
+"Transcendent." - Jhin
+"Divine." - Jhin
+"Darling." - Jhin
+"Precious." - Jhin
+"Symmetry is so boring." - Jhin
+"I've outdone myself this time." - Jhin
+"When they find you, they will cry." - Jhin
+"I will touch your heart." - Jhin
+"They're gonna live, until they die." - Jhin
+"This is my calling." - Jhin
+"Places everyone, places!" - Jhin
+"Shall we dance?" - Jhin
+"Sing for me!" - Jhin
+"I rehearsed this!" - Jhin
+"There is no drama in a peaceful death!" - Jhin
+"Dance for me." - Jhin
+"Right. On. Cue." - Jhin
+"Inspired." - Jhin
+"The show never ends!" - Jhin
+"How lovely!" - Jhin
+"Center stage!" - Jhin
+"I couldn't miss your performance." - Jhin
+"The work is what matters." - Jhin
+"Art requires a certain cruelty." - Jhin
+"The end is important in all things." - Jhin
+"My audience awaits." - Jhin
+"I must wait until a composition is perfect." - Jhin
+"They're puppets. I pull their strings, and then they dance." - Jhin
+"My genius will be understood - eventually." - Jhin
+"Art must exist beyond reason." - Jhin
+"They call me mad. All artists are mad." - Jhin
+"I will not suffer this ugliness." - Jhin
+"I cannot be good. I must be perfection." - Jhin
+"Every element must be in place." - Jhin
+"I'm misunderstood. Beauty can't be evil." - Jhin
+"This performance needs more... zazz." - Jhin
+"It's so difficult to work under these conditions." - Jhin
+"My talent justifies all actions." - Jhin
+"I am at my best only during the performance." - Jhin
+"I am pure. My work is pure." - Jhin
+"My theater is the mind." - Jhin
+"Art should terrify." - Jhin
+"No poet's words could match my craft." - Jhin
+"Death should never be quick. It should be an opera." - Jhin
+"I shall choreograph this affair." - Jhin
+"What sweet sadness is killing?" - Jhin
+"The world is cruel. It does not have to be ugly." - Jhin
+"Everyone wears a mask. I just chose to create my own." - Jhin
+"This art is a compulsion. I cannot resist it." - Jhin
+"Perfection isn't good enough." - Jhin
+"Behind every mask... is another mask." - Jhin
+"There is nothing for me but this." - Jhin
+"I never hurt anyone. It is the performance that kills." - Jhin
+"Until they stop me, I will keep going." - Jhin
+"I am the singer without a voice. The dancer without legs." - Jhin
+"Only to the audience do I show my true face." - Jhin
+"Each bullet is a piece of my soul. Each shot is a piece of me." - Jhin
+"I swear each performance is the last, but I lie every time." - Jhin
+"I am a slave to this passion." - Jhin
+"My work asks questions, it never has answers." - Jhin
+"Which is the lie? The mask, or my face?" - Jhin
+"An icon doesn't have to explain himself." - Jhin
+"I wonder what they think when they see me." - Jhin
+"Yes, the gun is ironic." - Jhin
+"I like a violent composition." - Jhin
+"This would be easier if blood came in more colours." - Jhin
+"Let's start the show." - Jhin
+"The ecstasy of opening night." - Jhin
+"Smiles and screams, I bring both." - Jhin
+"If I keep getting interrupted, how can I be expected to work?" - Jhin
+"I was paid to put on a killer show." - Jhin
+"My clients expect the best." - Jhin
+"They will dance, they will sing, they will die!" - Jhin
+"A costume, some makeup, a spray of blood." - Jhin
+"It's very simple - when I shoot, they dance." - Jhin
+"My critics are... usually short-lived." - Jhin
+"If I get this outfit dirty, I'm going to be so annoyed." - Jhin
+"I serve a discerning clientele." - Jhin
+"Death is certain, but killing doesn't have to be ugly." - Jhin
+"I provide catharsis for my clients, and my victims." - Jhin
+"I... orchestrate death." - Jhin
+"I get nervous before every performance, but I need that feeling." - Jhin
+"The moment before the shot... is painful." - Jhin
+"It is only when the gun fires that I am alive." - Jhin
+"Mmm... the ecstasy of killing." - Jhin
+"The trigger on a loaded weapon... it whispers for us to act." - Jhin
+"I can't live without the euphoria of performance." - Jhin
+"Happiness... is a warm gun." - Jhin
+"I want to feel everything. The gun makes it so I do." - Jhin
+"I envy silence... because I must be loud." - Jhin
+"You lack imagination." - Jhin
+"I have elaborate plans for you." - Jhin
+"Killing you will be one of my finest works." - Jhin
+"You are mediocrity. My genius will supplant you." - Jhin
+"Only my actions will make you memorable." - Jhin
+"It hurts so good..." - Jhin
+"You only understand harmony. Discord is required for contrast." - Jhin
+"My dear countryman, you remind me how little our culture has advanced." - Jhin
+"I am avant-garde - you are stuck in the past." - Jhin
+"The Noxian invasion should be a wake-up call. We need more elaborate productions." - Jhin
+"I do what others will not. That alone is innovation." - Jhin
+"I remember your father! He thought he could censor me." - Jhin
+"I have been planning your final performance for a very... long... time." - Jhin
+"You helped lock me away. You tried to stop my work. My art cannot be contained." - Jhin
+"Your father was a merciful man. Only his failure will be remembered." - Jhin
+"Your father's death denied me a performance. You will be his stand-in." - Jhin
+"You wanted to kill me back then, didn't you? You will learn - art cannot be killed." - Jhin
+"You think you can stop my performance?" - Jhin
+"An understudy can't upstage me." - Jhin
+"I remember your master. He was worth remembering." - Jhin
+"You were wrong to kill your master. I needed him for this performance." - Jhin
+"You belong in the shadows. No audience could love you." - Jhin
+"I offer an exclusive service. You'll find I murder the competition." - Jhin
+"I've been asked to do so many boring performances in your nation." - Jhin
+"Your people mistake loudness for import." - Jhin
+"Noxians treat killing as a sport. It is an art." - Jhin
+"How gauche your nation is." - Jhin
+"Your war was an impressive production, but it lacked soul." - Jhin
+"You shout and throw machetes? How quaint." - Jhin
+"Clearly you've never performed in Ionia." - Jhin
+"I find your work very, very... obvious." - Jhin
+"Wait for your cue! You're only here to herald my entrance." - Jhin
+"What a terrible arrangement." - Jhin
+"The always-enchanting tale of star-crossed lovers." - Jhin
+"When you speak, I don't hear god, I hear an idiot babbling." - Jhin
+"Here's the thing, I don't need your god, I need more time for my production." - Jhin
+"You can take my soul... if you'll shut up." - Jhin
+"There is such a thing as 'too much gold', my dear." - Jhin
+"I thought diamonds were a girl's best friend." - Jhin
+"So many guns, all lacking in meaning or artistry." - Jhin
+"Your finale will be a duet." - Jhin
+"Your story is revenge with guns and ghosts. How droll." - Jhin
+"I suppose you embody a primitive minimalism, but you lack my technique." - Jhin
+"Break a leg! Hehe, oh. 'Break a leg', hehe... ah, delightful. I do cut myself up." - Jhin
+"Your music lacks the cruelty of a masterpiece." - Jhin
+"You should learn the power of silence." - Jhin
+"Step out of my light! They call it background music!" - Jhin
+"Your work will be forgotten. I am ahead of my time!" - Jhin
+"How inelegant your words are. Surely a fool wrote your script." - Jhin
+"You have too many lines." - Jhin
+"Why would anyone listen to a creature so ugly?" - Jhin
+"Heh... hehe... that hat is ridiculous, now... who let you wear that horrible thing?" - Jhin
+"Oh, before you ask, yes, your whole ensemble makes you look fat. Very fat." - Jhin
+"Only perfectio - gah! ... only perfection is acceptable." - Jhin
+"One." - Jhin
+"Two." - Jhin
+"Two!" - Jhin
+"Three." - Jhin
+"Four." - Jhin
+"Four!" - Jhin
+"You... inspire me." - Jhin
+"You will learn what beauty truly is." - Jhin
+"Through my work, you shall transcend." - Jhin
+"Smile! Everyone is watching!" - Jhin
+"Breathe in the atmosphere." - Jhin
+"Bliss comes only in the moment before I fire." - Jhin
+"There is art here, waiting." - Jhin
+"I inspire action." - Jhin
+"One, two, three, four, two, two, three, four." - Jhin
+"This... passion... compels me." - Jhin
+"Now that is what I want to see." - Jhin
+"Art shall blossom from your fear." - Jhin
+"Life has no meaning, but your death shall." - Jhin
+"I live for the applause, you will die for it." - Jhin
+"I knew you would find your mark, eventually." - Jhin
+"You've awoken something deep inside me." - Jhin
+"Face the crowd, and bleed for them." - Jhin
+"The face of your killer is identical to mine." - Jhin
+"With my technique, killing blooms into artwork!" - Jhin
+"Prepare... for your finale." - Jhin
+"Your final scene begins." - Jhin
+"I love to perform, but I hate crowds." - Jhin
+"These were clearly designed by a caveman." - Jhin
+"The essence of a thing is found only in its absence." - Jhin
+"I always execute with style." - Jhin
+"Gold is my power colour." - Jhin
+"We all wear masks. Mine are just better-crafted." - Jhin
+"Ionian footwear. Sadly, so obvious." - Jhin
+"Sometimes, silence is loud." - Jhin
+"I prefer my equipment to make a bang." - Jhin
+"Not sure I needed another mask, but oh well." - Jhin
+"Art is such a fickle thing." - Jhin
+"Start the music. I will make them dance." - Jhin
+"Rapid fire? Huh. Where's the drama in that?" - Jhin
+"The storm is in their hearts. I calm them." - Jhin
+"It is by my will alone I set my mind in motion." - Jhin
+"I do prefer my work to have a brisk tempo." - Jhin
+"Red is a primary color." - Jhin
+"I have a thirst for melodrama." - Jhin
+"In carnage, I bloom, like a flower in the dawn." - Jhin
+"I have risen from the filth and muck. I am the lotus blossom. I am beauty." - Jhin
+"That delightful moment before the curtain goes up." - Jhin
+Jhin dances to a dubstep-like tune. - Jhin
+"I find courage unpredictable, it's total insanity you can rely on!" - Kled
+"Oh, I knew you was all yeller!" - Kled
+"Them's humans!"	 Skaarl growls	   "Naw, they're good eatin'." - Kled
+"What was that? Oh, I should go for the decakill? Uh, if you say so." - Kled
+"It's my property! All sixty gazillion acres of it!" - Kled
+"Holy $%!#, where are we?"	 Skaarl growls	   "Guess we'll have to kill our way out!" - Kled
+"Slow down so I can kill something!" - Kled
+"Get off my lawn!" - Kled
+"They's about to be dead!" - Kled
+"This land is my land!" - Kled
+"Damn trespassers!" - Kled
+"Step on my land again, you're done!" - Kled
+"How about a long axe in your guts?" - Kled
+"You are perturbing my tranquility!" - Kled
+"You should run! Skaarl likes his food lively!" - Kled
+"Don't interrupt me! I'm trying to start a fight!" - Kled
+"Damn city folk!" - Kled
+"I'm Kled, and this here's Skaarl. Prepare to die." - Kled
+"This is how it's gonna work: I kill you, then I take your stuff." - Kled
+"Look, Skaarl! It's dinner time!" - Kled
+"You see my welcome sign back there? No? It was your friend's skull!" - Kled
+"You will salute when you address me!" - Kled
+"Let's get them trespassers!" - Kled
+"Why ain't they saluting me? They should be saluting me! Salute me now!" - Kled
+"You get my invitation to visit? No? 'cause there ain't one!" - Kled
+"Let's do it!" - Kled
+"Oh, it's on!" - Kled
+"I got your welcoming present right here!" - Kled
+"The badgers command your death!" - Kled
+"Only coffin's gonna' be this lizard's belly!" - Kled
+"Let's get 'em, Skaarl!" - Kled
+"I might have to jump off this lizard and put my boot in your watoosie!" - Kled
+"Let's get 'em, 'fore they get us." - Kled
+"I'm gonna murder you to death!" - Kled
+"I will murder your whole family!" - Kled
+"My brain is on fire, my soul is strong, and my lizard is hungry!" - Kled
+"You mocking me?" - Kled
+"He looked at me funny! Get him." - Kled
+"You can't take what's mine!" - Kled
+"You looking at me? 'cause I'm gonna' kill you!" - Kled
+"You can't bushwhack a bushwhacker!" - Kled
+"You just justified a preemptive retaliatory strike!" - Kled
+"They came looking for a fight? Let's oblige 'em." - Kled
+"I am justified, and I am armed!" - Kled
+"Howdy!" Kled laughs. - Kled
+"I'm through running!" - Kled
+"Die!" - Kled
+"I'll kill you!" - Kled
+"Now you done it!" - Kled
+"I'll gut you!" - Kled
+"I'll say something witty after I kill you!" - Kled
+"I'm gonna' cut you open and use your spine for a back scratcher, because it is itchy! Very itchy!" - Kled
+"I can only express myself through violence!" - Kled
+"Who sent you?" - Kled
+"Welcome to Noxus!" - Kled
+"This! Is! Noxus!" - Kled
+"I hate you!" - Kled
+"You's trying my patience!" - Kled
+"Come back here and fight!" - Kled
+"My axe talks for me!" - Kled
+"You thought I was done? Kled ain't never done!" - Kled
+"I can't be reasoned with!" - Kled
+"It's go time!" - Kled
+"I ain't stopping!" - Kled
+"You see, Skaarl? I'm doing it alone!" - Kled
+"I'll kill 'em all!" - Kled
+"See, Skaarl? I don't need help!" - Kled
+"Skaarl! You're missing the fun!" - Kled
+"I'm just beginning to fight!" - Kled
+"I'll kick the crap outta' you!" - Kled
+"No trespassing!" - Kled
+"Intruder!" - Kled
+"You're a cockroach, and it's half-past stomping time!" - Kled
+"My brain is full of weasels!" - Kled
+"Serenity now!" - Kled
+"I don't like sharing!" - Kled
+"Oh, you prancing bastard!" - Kled
+"My blood is piss and vinegar!" - Kled
+Kled laughs. - Kled
+"I'm gonna reach down your throat, and turn your lungs into mittens!" - Kled
+"I'm gonna make you wish you were a hallucination!" - Kled
+"You think I don't hear you laughing?" - Kled
+"There's fixing to be two sounds: me hitting you, and---" Kled curses. - Kled
+"Lord Colonel Major Centurion Kled don't run, no he don't!" - Kled
+"I came here to... well, I don't know what I came here for, but I'm gonna' defend it!" - Kled
+"Vicious!" - Kled
+"Stab!" - Kled
+"Axe!" - Kled
+"This land was made for me - and me alone." - Kled
+"I hate to advocate violence and insanity, but it's worked for me." - Kled
+"Were you just talking, or was it the voices again?" - Kled
+"I do not want my lands tamed. I want them unruly and free." - Kled
+"I'm from all over. It's next to nowhere and shut the hell up!" - Kled
+"I play with guns. I work with an axe." - Kled
+"Mushrooms are healthy! Once you get used to the madness and paranoia." - Kled
+"A man without a weapon ain't worth listening to." - Kled
+"Yeah, I like it out here. Freedom, communing with nature, killing hikers." - Kled
+"They ain't ready for us." - Kled
+"I keep hallucinating that you can talk."	 Skaarl growls	   "Nah, I'm sure it'll pass." - Kled
+"Skaarl! This ain't no time for philosophying!" - Kled
+"Killing a few things might loosen this up." - Kled
+"No more of that! You're upsetting the invisible badgers!" - Kled
+"My land begins where I walk. It ends where the sun don't shine!" - Kled
+"Damn cowards, making me ride over to kill 'em." - Kled
+"Well, maybe I am looking to start a fight!" - Kled
+"I do prefer to ride into battle." - Kled
+"Yeah, but... then how we gonna' invade both bases at once?" - Kled
+"No, I'm positive, I ain't delusional!" Kled mumbles. - Kled
+"Of course I'm paranoid! You tried to kill me yesterday!" - Kled
+"Nah, them we kill them too! Ain't nobody on my team but you." - Kled
+"I came to cut off a piece of that Noxian dream... and I ain't sharing my piece!" - Kled
+"Don't try and understand 'em, just rope, throw and brand 'em." - Kled
+"I grew up mean and now I'm older than murder." - Kled
+"Ain't nothing more beautiful than the Noxian plains... excepting a rich corpse." - Kled
+"All we need is open country, but we gonna' take everything they got!" - Kled
+"I fight better when I've had my... medicine." - Kled
+"No! Planning and strategy? That's city-folk stuff!" - Kled
+"Don't need a plan... long as I got this axe." - Kled
+"Yeah, they just confirming our suspicions, ain't they?" - Kled
+"I don't have trouble communicating. Words is just treacherous bastards." - Kled
+"You ready, Skaarl? This day's gonna' require some mindblowing weirdness." - Kled
+"Are you ready for anything?"	 Skaarl growls	   "Of course you are!" - Kled
+"Hey, it's Forward Admiral Major Kled! I ain't been a Mister since ever!" - Kled
+"Shh! Them brain weasels probably listening for us." - Kled
+"Let's get to killing them interloping intruders!" - Kled
+"Was the battle of Falgrim when I first took the rank of Sergeant General Colonel. Least, I think that's what rank they was. Gotta' remember to ask before killing them." - Kled
+"Ain't nothing like having the wind on your back and blood on your face." - Kled
+"It's your birthday, Skaarl! Let's bake a murder cake!" - Kled
+"Well, my foot wanted to meet your ass, and I'm about to give them a shotgun wedding!" - Kled
+"Shh! It's time to get violent... and weird." - Kled
+"Oh, we find 'em, tie 'em up, then they's like a piata full of meat." - Kled
+"Damnit Skaarl, d'you hide my mushroom juice again?" - Kled
+"After we finish murdering these folks, what do you think? Tacos? Yeah, tacos." - Kled
+"First, we kill 'em, then we make 'em tell us where they came from." - Kled
+"Remember when we sacked Trevail, and that general thought we'd be willing to share the spoils? Pheh! Officers die just as easy as anybody." - Kled
+"There ain't no land that ain't mine. Just land I ain't got around to claiming." - Kled
+"Just 'cause they're our team don't mean we can trust 'em." - Kled
+"They're all trespassers, we're just killing them five first." - Kled
+"Yeah, yeah, invade Ionia you said, it'll be fine you said!"	 Skaarl growls	   "Fine, you said!" - Kled
+"Yeah, reminds me of the siege of Rugg. Lot of men died on its high walls. It was fun." - Kled
+"At the gates of Qualthala, they tried using that boiling oil on us, but you can't deep-fry courage!" - Kled
+"I know, I know." - Kled
+"Would you stop bitching for one minute?" - Kled
+"I am deep-fried courage, and an apple pie of angry!" - Kled
+"Because I know someone is trying to sneak up on us!" - Kled
+"Yeah, they think they so clever! Brains don't win fights, brains is what splatter on you!" - Kled
+"Well, you the only thing I trust." - Kled
+"Yeah, well, that's what I thought." - Kled
+"Shut your hole, you dumb lizard." - Kled
+"Well, just 'cause you're a hallucination and I don't speak lizard don't mean I can't understand you!" - Kled
+"You do come up with the best ideas." - Kled
+"No, it's when I don't drink mushroom juice that I have a problem!" - Kled
+"I am Kled! High Major Commodore of the First Legion Third Multiplication Double Admiral Artillery Vanguard Company! You will respect my authority!" - Kled
+"We was having a nice conversation, then they showed up... uninvited!" - Kled
+"Noxus was created to train the faithful." - Kled
+"What are you whining about? I already fed you half a platoon!" - Kled
+"Don't you bite me again!" - Kled
+"Naw, it's just like the assault on Glorft. You seen one artillery vanguard in a commando fleet action, you seen 'em all." - Kled
+"Noxus ends where I say it ends." - Kled
+"Ain't much I love. Only this big sky, and this dumb lizard." - Kled
+"Let's get some new property." - Kled
+"The sky is my roof, the open plains are my bed, and this lizard is the only company I need." - Kled
+"This big sky, this green land. Now how could I share this with anyone?" - Kled
+"Woo, it's darn pretty round here. Glad it's mine." - Kled
+"You can't be lonely when the land is this beautiful." - Kled
+"This world is rough. You gotta' be tough or die." - Kled
+"Yes, a sane man would run, but I ain't the running kind!" - Kled
+"No-one tells me what to do." - Kled
+"This here land is mine!" - Kled
+"This is just a victory waiting to happen!" - Kled
+"This desert sky's gonna' open up with a rain of heavenly bloodshed and glorious violence!" - Kled
+"I am the brutal instrument of my own destiny!" - Kled
+"Ain't nobody gonna' give you nothing. Gotta' take it yourself." - Kled
+"Impossible ain't a Noxian word." - Kled
+"I didn't become a Rear Forward Brigadier Admiral from running!" - Kled
+"I don't need that lizard! Kled's got his own ideas." - Kled
+"I don't need nothing but this axe... and this gun... and this hat." - Kled
+"Why's all these intruders so far away?" - Kled
+"I know that lizard ain't talking, but I still hear him. Shut up, lizard. Shut up!" - Kled
+"Stop talking, you stupid brain badgers!" - Kled
+"Hey, what was that? Of course I don't need Skaarl... but he helps." - Kled
+"What was that? Run straight into the tower?" - Kled
+"I don't need a team to start a teamfight!" - Kled
+"Sure! I'll kill all of them myself!" - Kled
+"I don't need you Skaarl!" - Kled
+"I said I wasn't not backing off, no how!" - Kled
+"Even if I lose, I win! Just means I get to come back and kill you later!" - Kled
+"I know you're listening, brain weasels! I ain't falling for it!" - Kled
+"I am Sir Admiral Major Kled, and I smell a victory potpourri!" - Kled
+"First thing you learn as a Lieutenant Sergeant Commodore: rely only on yourself." - Kled
+"Skaarl! Come back, buddy! Skaarl?" - Kled
+"Damnit, Skaarl! I hate walking!" - Kled
+"I didn't not earn the rank of Sergeant double Admiral by not running!" - Kled
+"Folks say I got violent tendencies." Kled laughs. - Kled
+"Oh, she'll see, she'll see! She'll come strolling back when I turn them interlopers into a pure." - Kled
+"Ain't nobody tough as Kled! I've got gravel in my guts and a fire in my head!" - Kled
+"Don't worry, them voices ain't telling me to kill you no more...! Yeah, of course we still gonna' kill 'im." - Kled
+"You do realise... you're on my property?" - Kled
+"I figure I'll help you kill 'em... before I kill you." - Kled
+"Usually I find conversation boring and useless. You remind me I'm right." - Kled
+"You feel like arguing about something? It'll make what happens later easier for you." - Kled
+"So... when exactly you planning on getting the hell outta' here?" - Kled
+"Woo, no sir, I ain't gonna' kill you and feed you to my lizard! Them's just... malicious rumours!" - Kled
+"Oh, before I forget, what, uh... rank are you, exactly?" - Kled
+"You may be from Noxus, but you ain't Noxian." - Kled
+"Don't mess with Noxus, brother." - Kled
+"You know, I like you, brother. As much as I can like a lily-livered jungle-sniffer." - Kled
+"You sure you're Noxian? You look a little Ionian to me." - Kled
+"Watch your stepping! That's my land you're gallivanting on!" - Kled
+"Drinking from battle? What kind of dumb crap is that?" - Kled
+"Telling people you're a god? Hell, you're barely a paring knife." - Kled
+"Something caught in your throat? 'cause you sound desperate!" - Kled
+"Say that again! I dare you." - Kled
+"Thems fighting words! See, Skaarl? That's why I don't like people." - Kled
+"Shut your mouth hole! Them badgers are listening." - Kled
+"I'm just a Yordle standing in front of you, asking you to shut the hell up!" - Kled
+"Of course you realize, this means war." - Kled
+"So, that's what considered funny in the city, huh?" - Kled
+"I got a joke too! It's called me kicking your teeth in!" - Kled
+"That it? That was your joke, huh?" - Kled
+"Was you making fun of my Skaarl?" - Kled
+"Real funny! Knew a funny guy in the Draken Campaign - took a javelin in the spine, couldn't walk after that. Used him as a coat rack." - Kled
+"Don't get weird on me!" - Kled
+"Dang nabbit, you're gonna' get us killed!" - Kled
+"Calm down, you damn-!" Kled curses. - Kled
+"Whoa! Whoa! Don't get excited, now!" - Kled
+"Don't get your britches all rumpled!" - Kled
+"Calm down, girl!" - Kled
+"Whoa, Skaarl, whoa!" - Kled
+"Skaarl, I got this!" - Kled
+"Don't you run off on me! Skaarl!" - Kled
+"Easy, girl, easy!" - Kled
+"Quit your worryin'!" - Kled
+"No Skaarl, no! Bad Skaarl!" - Kled
+"Hey! We ain't done!" - Kled
+"Get back here you-!" Kled curses. - Kled
+"Darn nabbit! You lily-livered flea bucket!" - Kled
+Kled curses. "What are you doing?" - Kled
+"I knew you was a coward!" - Kled
+"I ain't never forgiving you, you flea-bitten-!" Kled curses. - Kled
+"Go home, get! I never needed you no how!" - Kled
+"Not again!" - Kled
+"No, no! The other way! Get back here!" - Kled
+"The fighting's this way!" - Kled
+Kled curses. "You stupid, dumb animal!" - Kled
+Kled curses. - Kled
+Kled curses. "Get back here, you---" Kled curses. - Kled
+Kled curses. "I will--- I ain't backing down! I don't back down! Never!" - Kled
+Kled curses. "Where you going? We got 'em right where we want 'em!" - Kled
+Kled curses. "Now I gotta' walk!" - Kled
+"Traitor!" - Kled
+Kled curses. "Fine! I'll kill 'em!" - Kled
+Kled curses. "I'll take 'em alone!" - Kled
+"Yeah!" - Rakan
+"Yahoo!" - Kled
+"Wahoo!" - Kled
+"Now we got 'em!" - Kled
+"If you does that one more time I'll skewer you and roast you myself!" - Kled
+"Where you been?" - Kled
+"Get over here, buddy!" - Kled
+"Woo, good timing!" - Kled
+"I knew you'd be back." - Kled
+"Dang nabbit, I love this lizard!" - Kled
+"Boy am I glad to see you!" - Kled
+"The badgers command it!" - Kled
+"For the brain weasels!" - Kled
+"Yeehaw! I knew you couldn't quit me, Skaarl!" - Kled
+Kled mounting - Kled
+Kled dismounting - Kled
+Kled dismounted theme - Kled
+"Gotcha now!" - Kled
+"How you like that leash?" - Kled
+"Oh, you ain't getting away!" - Kled
+"You ain't running!" - Kled
+"Just try and run!" - Kled
+"You ain't going nowhere!" - Kled
+"Get back here!" - Kled
+"Thought you wanted to visit!" - Kled
+"You think you can run?" - Kled
+"I'm gonna learn you about pain!" - Kled
+"Come back, I gotta' put an axe in your brain!" - Kled
+"Aw, you ain't leaving, are you?" - Kled
+"Oops, bear trap in your neck!" - Kled
+"Get 'em!" - Kled
+"Hyaah!" - Kled
+"Woo!" - Kled
+"Get 'em, Skaarl!" - Kled
+"Yeehaw!" - Kled
+"Yip yip!" - Kled
+"Wowee!" - Kled
+"Ha!" - Kled
+"Whoa!" - Kled
+"Wahah!" - Kled
+"Yah!" - Kled
+"Hee hee!" - Kled
+"Ha ha!" - Kled
+"Chaaaaarge!" - Kled
+"Let's get 'em!" - Kled
+"Yaaaahoooo!" - Kled
+"Yeeeehaaaw!" - Kled
+"Yeaaaaaaah!" - Kled
+"Follow meeeee!" - Kled
+"No prisoneeeers!" - Kled
+Kled charging theme - Kled
+"This is Noxus, son! Winner takes all!" - Kled
+"That'll learn 'em!" - Kled
+"Thought you could take my land, huh? How'd that work out for you?" - Kled
+"How's that dirt taste?" - Kled
+"Don't worry, Skaarl! We'll come back so you can eat 'em later." - Kled
+"Whoops! Looks like I accidentally stabbed you with my long axe - until you were dead!" - Kled
+"You were a visitor, now you're mulch!" - Kled
+"Skaarl, that was what we call a predictable scenario." - Kled
+"I told 'em what was gonna' happen if they came onto my land!" - Kled
+"Next time you visit, bring more stuff I can take!" - Kled
+"I might be a deranged lizard-riding bandito, but I whooped you real good!" - Kled
+"Now, I might have overreacted to you unlawfully entering my property - but I don't think so!" - Kled
+"Ahahahaha! I warned him! I did warn him!" - Kled
+"It's funny, 'cause he died right on the border of my land, and more off my land!" - Kled
+"Glad you could visit!" - Kled
+"Don't let the door hit you on your way to hell!" - Kled
+"Tried to bushwhack a bushwhacker!" - Kled
+"That learned 'em real good." - Kled
+"We didn't come here to teach lessons in humanity!" - Kled
+"Y'all made a nice stabbing bag." - Kled
+"Killing makes me thirsty." - Kled
+"Nothing like a river of blood to send a message." - Kled
+"Y'know, a long time ago, being crazy meant something." - Kled
+"Just 'cause we was kin don't mean I ain't feeding you to Skaarl!" - Kled
+"Hey cous', glad you came to visit!" - Kled
+"A relative's just another unwanted guest." - Kled
+"Afraid I had to cut your visit short." - Kled
+"You ain't cute now!" - Kled
+"Aw, you are so cute... 'fore I ripped your fuzzy head off!" - Kled
+"I could feel bad about killing you, or we could stomp on your corpse!" - Kled
+"You was cute - lousy, but cute." - Kled
+"He died as dumb as he sounded." - Kled
+"And he ain't even had the indignity to call himself a demon." - Kled
+"Never had much to say, but I'm sure glad we shut him up." - Kled
+"Girl was all messed up."	 Skaarl growls	   "I mean, before we killed her. Snake for legs? Crazy!" - Kled
+"I guess it's snake dinner tonight!" - Kled
+"Was that lady half-snake, or that snake half-human? She is... confusing. Dead, but confusing." - Kled
+"Hey, lizard food! What exactly was you general of?" - Kled
+"Nice axe! Learn to use it!" - Kled
+"Death by my hand!" - Kled
+"He wanted to unify Noxus. Guess that makes me a secessionist." - Kled
+"KLEEEEEED... naw, it's just Kled." - Kled
+"Who wants some Kled?" - Kled
+"This is where Kled shines!" - Kled
+"Skaarl? You eatin' good tonight! That girl's got some meat on her!" - Kled
+"And you thought I talked crazy!" - Kled
+"I gotta' stop the mushroom juice... I swear that girl had some tentacles or something!" - Kled
+"Bye bye, fancy pants!" - Kled
+"Hey, fancy pants! Got your cloak dirty!" - Kled
+"I don't know what he was. I just needed him to shut up." - Kled
+"I can respect crazy, but what kind of fool reloads in the middle of a fight?" - Kled
+"A sinister blade? Heck, girl, Skaarl's got farts more sinister than you was." - Kled
+"I like a girl with moxie."	 Skaarl growls	   "No, obviously she didn't have any! That's the darn point!" - Kled
+"Humans is such easy prey." - Kled
+"She had one crazy getup! Them city-folk clothes is getting ridiculous."	 Skaarl growls	   "Yeah, I'll try it on later." - Kled
+"Go back to Noxus Prime!" - Kled
+"All your little city-girl dreams just got stomped." - Kled
+"We wrecked that thing!" - Kled
+"Damn varmint left holes all over the yard." - Kled
+"Queen of what? Darn thing made Skaarl look smart!" - Kled
+"Pure Noxian girl. Almost liked her. Almost." - Kled
+"Seems to have lost your bounce, girl." - Kled
+"All that hippy hop! Getting on my nerves!" - Kled
+"How many times do I gotta' kill him?"	 Skaarl growls	   "I know!" - Kled
+"Too stupid to live, too dumb to die." - Kled
+"I don't think you can eat that one."	 Skaarl growls	   "He looks a little overripe." - Kled
+"Huh. I liked him better when he was alive." - Kled
+"Tactician? More like bird brain." - Kled
+"Master Tactician? He can keep that title." - Kled
+"He gonna' taste good deep-fried." - Kled
+"I figure he gonna' taste like chicken."	 Skaarl growls	   "Sure!" - Kled
+"Well, that shut him up!" - Kled
+"Finally, some silence." - Kled
+"I knew he was a liar, 'cause he used them big words." - Kled
+"I've seem some dumb outfits, Skaarl, but a cape made out of knives? Woo, ha! That took the cake!" - Kled
+"Another dead city boy, thinking he could sneaky-sneak on my land." - Kled
+"Let that be a lesson for all them sneaky-sneaks!" - Kled
+Kled gaining courage theme - Kled
+"I keep my eyes open - all the time." - Kled
+"I ain't paranoid - I'm ready. Real ready." - Kled
+"They's always trying to sneak up on us. Trying, that is." - Kled
+"I know them trespassers is somewhere..." - Kled
+"Them sneaky-sneaks ain't gonna' sneak on us, no sir!" - Kled
+"It's mine, and I got my eye on it!" - Kled
+"Yeah, any of them varmints sneak up on us, we'll know." - Kled
+"It ain't paranoia if everyone is out to get you." - Kled
+"Paranoia... means having all the facts." - Kled
+"There's no such thing as paranoia; your worst fears can come true at any moment." - Kled
+"Paranoia is just another word for ignorance." - Kled
+"Total paranoia is just total awareness!" - Kled
+"Skaarl! Skaarl!" (curses) - Kled
+It's not how much time you have, it's how you use it. - Ekko
+"You used to be cool." - Ekko
+"Cut the courage from them." - Aatrox
+"Every kill brings victory closer." - Aatrox
+"There will be no retreat." - Aatrox
+"Fight or be forgotten." - Aatrox
+"Honor will not save them." - Aatrox
+"Break and fall." - Aatrox
+"Teach them to fear us." - Aatrox
+"Now we turn the tide!" - Aatrox
+"Sow the seeds of strife." - Aatrox
+"Rage against the dying of the light." - Aatrox
+"Violence is elegance." - Aatrox
+"Pain is temporary, victory is forever!" - Aatrox
+"Peace is the greatest lie of all." - Aatrox
+"War reveals what is within us." - Aatrox
+"Surpass the frailty of your form." - Aatrox
+"They will greet you as heroes." - Aatrox
+"True warriors are born in blood!" - Aatrox
+"I am as timeless as war." - Aatrox
+"Let fear become fury!" - Aatrox
+"I know what lurks in the hearts of men." - Aatrox
+"Hesitation is death." - Aatrox
+"Nobody understands me! They called my work a hack job." - Aatrox
+"This is no mere massacre; this is my masterwork!" - Aatrox
+"Fight and be remembered as a hero, or die and be remembered as a coward." - Aatrox
+"Fight as a hero, or die as a coward." - Aatrox
+"Fight and be remembered, or die and be forgotten." - Aatrox
+"Die with fear in your heart, or win with blood on your hands." - Aatrox
+"Even those who have nothing can give their lives." - Aatrox
+"Witness truth!" - Aatrox
+"Behold!" - Illaoi
+"Tryndamere, my greatest creation." - Aatrox
+"This one's rage will shape the world." - Aatrox
+"I decide what the tide will bring." - Nami
+"There's always another wave." - Nami
+"Shurima will once again stretch to the horizon." - Azir
+"Shurima is where all paths converge." - Azir
+"The world is a desert. I am the oasis." - Azir
+"Eventually, the sands claim us all." - Azir
+"I will open their eyes." - Azir
+"The unworthy have no place in history." - Azir
+"See what I see." - Azir
+"Ancient power courses through me." - Azir
+"Fate is in our hands." - Azir
+"They dare defy Shurima?" - Azir
+"With a word, I end you." - Azir
+"Challenge Shurima, challenge fate." - Azir
+"Never cross an emperor." - Azir
+"Shurima will brook no offense." - Azir
+"Behold the desert's wrath." - Azir
+"Mine is the will of Shurima." - Azir
+"They have overstepped." - Azir
+"Give yourselves to Shurima." - Azir
+"You dare oppose me?" - Azir
+"Soon, none will question us." - Azir
+"Who denies our right to rule?" - Azir
+"No dragon can defeat us!" - Azir
+"I have no fear of dragons." - Azir
+"Even dragons look up to the sun." - Azir
+"This spider will be trampled in our march." - Azir
+"You may be large, Vilemaw, but you remain an insect to me." - Azir
+"It is you who are in my web, spider." - Azir
+"No beast will stop us!" - Azir
+"We will overcome this monster!" - Azir
+"What is a baron to an emperor?" - Azir
+"Emperors have no need of barons." - Azir
+"The power of the sun lives in Shurima." - Azir
+"You need not follow, but you must witness." - Azir
+"I will return Shurima to greatness." - Azir
+"Those who follow me follow destiny." - Azir
+"My empire lives in every grain of sand." - Azir
+"Shurima's legacy will endure." - Azir
+"We are the authors of history." - Azir
+"I am Shurima's dawn." - Azir
+"Everyone will know the name Shurima." - Azir
+"No sacrifice is too great." - Azir
+"We are made by our choices." - Azir
+"We will unearth what has been lost." - Azir
+"None know the will of the desert better than I." - Azir
+"We walk a path of radiance." - Azir
+"The Ascended shall guide humanity to greatness." - Azir
+"This slumbering world must awaken." - Azir
+"Shurima lives in me." - Azir
+"Believe in our future." - Azir
+"Loyalty will be rewarded." - Azir
+"A ruler must choose his hour." - Azir
+"There is no future without Shurima." - Azir
+"Join me, and be elevated." - Azir
+"All eyes look to us." - Azir
+"So, a pigeon walks into a bar..." - Azir
+"For emperors, it's all about how you carry yourself." - Azir
+Azir chirps. - Azir
+"There is only Shurima. All else is but a mirage." - Azir
+"What is the desert, but the ashes of my enemies?" - Azir
+"When every trace of you is lost, I will remain." - Azir
+"You must learn respect, Sivir." - Azir
+"Accept your destiny, Sivir." - Azir
+"Rise with Shurima, Sivir, or fall beneath it." - Azir
+"Renekton, once a noble warrior, now naught but a mad beast." - Azir
+"You have forgotten yourself, Renekton." - Azir
+"You are but a grain of sand, Xerath." - Azir
+"Emperors have no rivals, Xerath. Only liabilities." - Azir
+"Xerath, it is time your spark went out." - Azir
+"You have already failed, Xerath. You must now accept it." - Azir
+"Traitor, I cast you to the winds." - Azir
+"You are but my shadow, Xerath." - Azir
+"Xerath, the time of your judgment has come." - Azir
+"Kill." - Azir
+"Conquer." - Azir
+"Soldiers, onward." - Azir
+"The order is given." - Azir
+"Bury them." - Azir
+"My decree is made." - Azir
+"Trust in me." - Azir
+"Shurima is eternal." - Azir
+"Glory to Shurima." - Azir
+"My soldiers march on." - Azir
+"I am Ascended." - Azir
+"My city lives on." - Azir
+"You cannot topple Shurima." - Azir
+"Rise again!" - Azir
+"Return from the sands." - Azir
+"Shurima is never lost." - Azir
+"Return." - Azir
+"Arise." - Azir
+"Serve me." - Azir
+"This now serves Shurima." - Azir
+"Recognize your emperor." - Azir
+"This is Shuriman land." - Azir
+"I claim this for Shurima." - Azir
+"Return!" - Azir
+"Arise!" - Azir
+"I am Shurima's vision." - Azir
+"The light of Shurima." - Azir
+"Trust in my vision." - Azir
+"The bounty of Shurima still flows." - Azir
+"I will shift as the sands." - Azir
+"May the sands of Shurima always be under our feet." - Azir
+"Emperors never die." - Azir
+"An idol of greatness." - Azir
+"Shuriman sands flow ever in our favour." - Azir
+"Time itself serves Shurima." - Azir
+"Your emperor shall return." - Azir
+An instrument plays. - Azir
+"Shurima..." - Azir
+"How...?" - Azir
+"I will reclaim my stolen legacy." - Azir
+"Here, we shall decide the future of Shurima!" - Azir
+"The future will be written by the Ascended!" - Azir
+"Today, you will see the power of Ascension!" - Azir
+"Like the sun, Shurima always rises!" - Azir
+"It has been a long wait, Nasus, but it will be worth it." - Azir
+"Let us return to our rightful place, Nasus." - Azir
+"It is our right to rule, Sivir." - Azir
+"Together, we shall strive toward victory, Sivir." - Azir
+"I am testament to the glory of Shurima!" - Azir
+"It is my time. Put your faith in me." - Azir
+"I will guide us to glory." - Azir
+"You need not follow me... but you cannot stop me." - Azir
+"It is your turn to carry our great legacy." - Azir
+"Teach them to respect Ascension." - Azir
+"This is but one step on a long and glorious path." - Azir
+"At last, Shurima will reach its destiny!" - Azir
+"Shurima will know only victory." - Azir
+"None shall ever question the power of Shurima!" - Azir
+"It is my burden to carry an eye of god. It is my privilege to see the truth." - Illaoi
+"We cannot comprehend the design. A raindrop cannot comprehend a river valley." - Illaoi
+"To die is to drown - so I will swim well, till I can swim no more." - Illaoi
+"You are not in motion." - Illaoi
+"This will be quick." - Illaoi
+"To live... is to fight." - Illaoi
+"You will be tested." - Illaoi
+"We never stop." - Illaoi
+"This is a great day." - Illaoi
+"Reality is brutal." - Illaoi
+"Blessed is motion." - Illaoi
+"I am here to test souls." - Illaoi
+"Ha! Let's begin again!" - Illaoi
+"A good fight." - Illaoi
+"Now... we begin." - Illaoi
+"This is the first lesson." - Illaoi
+"The vortex is all." - Illaoi
+"Ha ha ha, you think you can beat me?" - Illaoi
+"They need wisdom. They don't need teeth." - Illaoi
+"You stagnated." - Illaoi
+"You will be destroyed." - Illaoi
+"I slayed greater serpents as a child." - Illaoi
+"Here they call you a monster. In Buhru, we would call you dinner." - Illaoi
+"If I hate something, I destroy it. If I want something, I take it." - Illaoi
+"I am a teacher. Bilgewater will learn." - Illaoi
+"We are born knowing what to do. We must only act." - Illaoi
+"They must be tested to grow." - Illaoi
+"It is terrible to be satisfied. The world needs us to chase dreams." - Illaoi
+"This ends one of two ways - they run, or I break them." - Illaoi
+"I don't scare, I don't tire, and I don't stop." - Illaoi
+"Good? Evil? Why should we care for such things?" - Illaoi
+"Life is the sweetness of fruit, and the joy of battle!" - Illaoi
+"There is joy in food... and fighting." - Illaoi
+"Motion is all." - Illaoi
+"The sea is ripe for battle." - Illaoi
+"I break hearts. I break spines." - Illaoi
+"Ah, everyone has a plan, until they get punched in the face." - Illaoi
+"Men live, men die. Change is good." - Illaoi
+"They will learn or they will die." - Illaoi
+"There are kind and gentle gods. Mine isn't one of those." - Illaoi
+"The ocean is calm. It is our desires that stir it." - Illaoi
+"Even if I die, I die in motion." - Illaoi
+"The waves will drag you down, unless you fight to shore." - Illaoi
+"How could I love only one man? They break too easily." - Illaoi
+"All of us are born storms." - Illaoi
+"Wisdom is frequently a kick in the head." - Illaoi
+"Life is too short for fear." - Illaoi
+"Chase what is desired." - Illaoi
+"We are not one soul. We are many." - Illaoi
+"Many gods ask for worship. They are weak gods." - Illaoi
+"My god is not love - it is a kick in the pants." - Illaoi
+"Without change, something sleeps inside us, and seldom awakens." - Illaoi
+"Many die. Worthy souls find new forms." - Illaoi
+"Bearded Lady, Nagakabouros, names don't matter! Action does." - Illaoi
+"It is the storm that is life." - Illaoi
+"I value truth - and barbecue." - Illaoi
+"My name is Illaoi." - Illaoi
+"My god doesn't want peace." - Illaoi
+"All that lives... moves." - Illaoi
+"Live your life, chase what you desire, what else matters?" - Illaoi
+"A fool and his spirit are easily parted." - Illaoi
+"Watch your mouth, or I'll slap the soul out of you." - Illaoi
+"Fight me, if you have the spirit." - Illaoi
+"I want you to hit me as hard as you can." - Illaoi
+"Smile, child, or I'll shove your jaw into your brain." - Illaoi
+"You wanted to be a god! Instead, you are a useless antique!" - Illaoi
+"Foul creature, you would stop time when all things must move!" - Illaoi
+"You soul is a fetid, stagnant pool, untouched by the tide!" - Illaoi
+"You are not free from death! You are dead." - Illaoi
+"You powers are stolen from the flow. You have damned your homeland." - Illaoi
+"Abomination! You are without motion." - Illaoi
+"You suffered... but learned nothing." - Illaoi
+"What is truly noble and good would never ask you to serve another!" - Illaoi
+"Duty, honor, nations? These are stagnant falsehoods!" - Illaoi
+"You are slaves enchained by lies when we were born to chase our desires!" - Illaoi
+"Laws, rules, these are falsehoods! Truth is chaos!" - Illaoi
+"I do not challenge you, I bring you the test!" - Illaoi
+"Honor? Duty? Ha! What your heart demands is all that matters." - Illaoi
+"Your people pretend to be strong. I think they are afraid." - Illaoi
+"Your people seek a worthy death. Mine, a worthy life." - Illaoi
+"Foolish spirit, begone!" - Illaoi
+"You, I like." - Illaoi
+"Northman. There are motions I would like to show you." - Illaoi
+"I know you are strong. I wonder if you have stamina." - Illaoi
+"Finally, a man who won't break." - Illaoi
+"You live as Nagakabouros intends. Good." - Illaoi
+"You have followed our ways as if born to them." - Illaoi
+"You are a cycle without purpose. I will end you!" - Illaoi
+"Fiend, I bring you true death." - Illaoi
+"You are a cloud of broken souls, you are an abomination." - Illaoi
+"You will trouble this land no more." - Illaoi
+"You are not welcome here, creature." - Illaoi
+"I am your enemy because you offend my god - because you cannot change." - Illaoi
+"You will challenge me? Ha ha ha ha... even death fears my god." - Illaoi
+"Why would I need a spirit's help? I am guided by Nagakabouros." - Illaoi
+"Little one, I don't need empathy. Seek those who do." - Illaoi
+"Go back to where men are weak, and need your inspiration." - Illaoi
+"We know your true name. We do not fear you." - Illaoi
+"Life is not balance. It is motion!" - Illaoi
+"Your god was forgotten. Mine cannot be ignored." - Illaoi
+"False prophet! You don't even serve a true god!" - Illaoi
+"You move well. Now, you must only find joy in the motion." - Illaoi
+"I broke men's hearts. I broke men's spines. You're the first who's going to get both." - Illaoi
+"You paid your tithe to the mother. Now show me what she taught you." - Illaoi
+"You have learned your lesson, now fight! Kill! Conquer!" - Illaoi
+"You are in motion, love." - Illaoi
+"I do not want excuses. The failure was yours." - Illaoi
+"Did she not show you the way forward? Go!" - Illaoi
+"You want revenge? Take it!" - Illaoi
+"You swim well, Gangplank." - Illaoi
+"Gangplank will find you." - Illaoi
+"The tempest is Nagakabouros. You serve, but are blind." - Illaoi
+"Trust the motion. All spirits are Nagakabouros'." - Illaoi
+"No love is impossible, my god demands you follow your desires." - Illaoi
+"You worship the sun - it is my god that drives it through the sky." - Illaoi
+"Your faith asks for obedience - it is weak." - Illaoi
+"Your god offers light without wisdom." - Illaoi
+"It is you who have shown Gangplank his path. For that, I thank you." - Illaoi
+"Gangplank was drowning. Your actions reminded him to swim." - Illaoi
+"You are in motion - but only as a parasite on a host." - Illaoi
+"Ugly thing. You weren't designed by god, you were made by fools." - Illaoi
+"Creature, you move - but are useless." - Illaoi
+"You are a foul creation - born from ignorance." - Illaoi
+"What kind of stupid god made you?" - Illaoi
+"They have cheated you of rebirth." - Illaoi
+"You move only from hunger that consumes itself." - Illaoi
+"Creature, why would I listen to lies when I can see the truth?" - Illaoi
+"Your fine words don't disguise your foul design." - Illaoi
+"Aw, child, you are cute, but I doubt you will be for long." - Illaoi
+"Change, or feel my god's wrath." - Illaoi
+"Move!" - Illaoi
+"Now!" - Illaoi
+"Learn!" - Illaoi
+"Altak, kaye-sayu. Altak kaye-sayu. Altak kaye-sayu." - Illaoi
+"Uwon shayos kaya. Uwon shayos, kaya." - Illaoi
+"Tua-shak yaoto. Tua-shak, yaoto, homu." - Illaoi
+"Uratu-shak uracheon-mata, rubura-atatufon." - Illaoi
+"Chae-yama oka-shai." - Illaoi
+"Buhru-lalare-shi Nagakabouros-sho, Naga-sho." - Illaoi
+"Behold." - Illaoi
+"Nagakabouros surrounds us." - Illaoi
+"The truth is all around you." - Illaoi
+"This is the motion. All is Nagakabouros." - Illaoi
+"I do not walk alone. I am with my god. It is here." - Illaoi
+"You cannot hide from god. You cannot hide from the test." - Illaoi
+"Live your journey - or die in mine." - Illaoi
+"Your spirit is held - take it if you can." - Illaoi
+"What you desire, you must take." - Illaoi
+"You speak of having a soul. It was never yours. None of them were." - Illaoi
+"Fear is good. Use it." - Illaoi
+"Change, or you will be pulled down." - Illaoi
+"Our mother demands your tithe." - Illaoi
+"You are drowning - I want you to swim." - Illaoi
+"Your soul drowns. Fight." - Illaoi
+"Take back your spirit." - Illaoi
+"Each of your lives has served the vortex." - Illaoi
+"Death is only one outcome." - Illaoi
+"We learn from action. Move, or die." - Illaoi
+"This... is... the test." - Illaoi
+"This will be a good day - if you live." - Illaoi
+"Drive forward - it is destiny that calls you." - Illaoi
+"Love, fight, live." - Illaoi
+"Seize today, and you've earned tomorrow." - Illaoi
+"Fight and die with purpose." - Illaoi
+"My god doesn't want you to kneel. It wants you to fight." - Illaoi
+"You have been given the tools to know your destiny." - Illaoi
+"The failure of your lives is written on your soul." - Illaoi
+"Now... do you see the truth?" - Illaoi
+"We are all free. Seeing the truth only reminds us." - Illaoi
+"Each moment is earned." - Illaoi
+"All of us are lost, all of us are blind. You must swim towards your destiny." - Illaoi
+"Countless lifetimes lead our bodies foward, and drive our spirits towards their true destiny." - Illaoi
+"I don't want you to fail, I want you to learn." - Illaoi
+"Child, you must earn your soul. Prove yourself." - Illaoi
+"The battle is lost only when you surrender. Fight for your soul." - Illaoi
+"You are the tinest sliver of energy held briefly in shape. Where this energy flows is your destiny." - Illaoi
+"This moment is waiting to be seized." - Illaoi
+"Every day is waiting to be taken." - Illaoi
+"I don't want you to worship. I want you to learn." - Illaoi
+"I will break you if that's what it takes." - Illaoi
+"Give up, and your life is nothing." - Illaoi
+"Each lifetime is a spirit. Each lifetime is a chance. Take it." - Illaoi
+"Not bad! At least you're moving." - Illaoi
+"Perhaps you're not hopeless after all." - Illaoi
+"Yes, you are learning." - Illaoi
+"This is how you learn." - Illaoi
+"Don't stop!" - Illaoi
+"Good, this is the lesson." - Illaoi
+"Do not tire, do not slow, push onward." - Illaoi
+"Exactly. If you want your soul, take it." - Illaoi
+"Keep going, keep striving. This is our way." - Illaoi
+"Again. Push onward." - Illaoi
+"Ha! Well done." - Illaoi
+"Better." - Illaoi
+"Your souls wait for you. Take them back if you can." - Illaoi
+"This is the way of Nagakabouros - motion!" - Illaoi
+"Finally, now you are in motion." - Illaoi
+"To challenge, to fight... this pleases Nagakabouros." - Illaoi
+"You have learned the first lesson." - Illaoi
+"Pray I don't have to teach you again." - Illaoi
+"Nagakabouros accepts your tithe." - Illaoi
+"You swim well." - Illaoi
+"Learn well, or you will be tested again." - Illaoi
+"You are in motion." - Illaoi
+"You have been tested. You have done well." - Illaoi
+"Don't make me test you again." - Illaoi
+"Did you blunder into victory, or did you learn?" - Illaoi
+"Kabouros!" - Illaoi
+"Shai!" - Illaoi
+"The truth!" - Illaoi
+"Naga-sho!" - Illaoi
+"Altak!" - Illaoi
+"This is motion!" - Illaoi
+"All is Nagakabouros!" - Illaoi
+"All is motion!" - Illaoi
+"You cannot hide!" - Illaoi
+"It is not what we have, it is what we can throw away." - Illaoi
+"Things should be held only when we need them." - Illaoi
+"Only what moves, only what lives... has value." - Illaoi
+"When I am done with this... it will make a fine offering." - Illaoi
+"I like this. I should buy everyone one of these." - Illaoi
+"I am going to walk all over them." - Illaoi
+"My god is motion, but speed is useful." - Illaoi
+"This fits me better than Gangplank." - Illaoi
+"Who is Randuin? Was she a priestess?" - Illaoi
+"Sterak? It is the fury of the mother I will bring." - Illaoi
+"The Kraken. The Serpent. The Hydra. A god's appearance is limited only by those observing it." - Illaoi
+"It is my god that protects me - but these metal clothes are nice." - Illaoi
+"Tentakill!" - Illaoi
+"Nagakabouros, uki, uki." - Illaoi
+"Buhru-naliata-shok." - Illaoi
+"Sheeyutu Nagakabouros. Nagakabouros-shee-shok." - Illaoi
+"Buhru-latachi." - Illaoi
+"Epoi-Buhru, daliet-shee." - Illaoi
+"My favorite color is spring." - Ivern
+"Happy to sit this one out." - Ivern
+Bard chimes. - Bard
+Bard plays a tune. - Bard
+The meep chimes. - Bard
+Bard sings. - Bard
+"Let's dance." - Rakan
+"Seriously? Seriously? Lame." - Rakan
+"My fellow travelers, you are all about to witness my majestic epicness! ... unless I get killed, but... probably not!" - Rakan
+"Okay, everybody, I'm here, I'm here... the party starts now!" - Rakan
+"Magic is in the heart. Magic is in the rhythm." - Rakan
+"You see this cape? Ha! I say goddamn I'm sexy!" - Rakan
+"I can't wait to get in there. I don't know what I'm going to do, but I am going to get in there!" - Rakan
+"Xayah? Xayah? Crap. What was I supposed to do?" - Rakan
+"Nothing important should be taken seriously." - Rakan
+"War is in the dance." - Rakan
+"Consequences only matter if I don't get away." - Rakan
+"We are seen dancing and thought insane - by those who can't hear the music." - Rakan
+Rakan: "Alright, let's go! This way or that way?"	 Xayah: "Stick to the plan."	 Rakan: "We have a plan?"	 Xayah: "We always have a plan."	 Rakan: "Huh. Really?" - Xayah
+Xayah: "Ugh, I hate everyone today."	 Rakan: "I know what'll make you feel better... "	 Xayah and Rakan: "Murdering everyone!" - Xayah
+Rakan: "Hey, I have a plan."	 Xayah: "You... have a plan?"	 Rakan: "Yeah! I'll go on instinct!"	 Xayah: "That's the opposite of a plan." - Xayah
+Rakan: "You sure about this?"	 Xayah: "It has to be done."	 Rakan: "Be safe."	 Xayah: "Like you can talk." - Xayah
+Xayah: "If things go wrong---"	 Rakan: "They always go wrong."	 Xayah: "They don't always go wrong."	 Rakan: "Mostly?"	 Xayah: "They mostly go wrong."	 Rakan: "That's why I'm here." - Xayah
+Rakan: "So, this mission... are we, uh...?"	 Xayah: "Are you pretending to be dumb?"	 Rakan: "Well, I mean... I don't have to remember the plan if you do." - Xayah
+Rakan: "When are we going to do this?"	 Xayah: "Soon, baby. Slow down." - Xayah
+"Let's get it!" - Rakan
+"I got some moves for you!" - Rakan
+"This is you getting slapped!" - Rakan
+"I'm here to party!" - Rakan
+"Here's what's happening!" - Rakan
+"Damn, this is exciting!" - Rakan
+"I'm gonna' slap all of you!" - Rakan
+"It ain't a party without a fight!" - Rakan
+"What you looking at?" - Rakan
+"Am I not magnificent?" - Rakan
+"Where you going? Where you going?" - Rakan
+"I got one more thing for you!" - Rakan
+"You gonna' feel this one!" - Rakan
+"Be silent and live." - Rakan
+"We will not fade away." - Rakan
+"Time to go to work!" - Rakan
+"Ain't gonna slow me down!" - Rakan
+"Dance or die!" - Rakan
+"Let's get interesting." - Rakan
+"This is the message!" - Rakan
+"You will see my dance!" - Rakan
+"You will see the dance of death." - Rakan
+"This is all so intense!" - Rakan
+"I don't do safe!" - Rakan
+"Woo! You animals are dumb!" - Rakan
+"Yep! I'm amazing!" - Rakan
+"I can't die looking this good!" - Rakan
+"Let's get it started!" - Rakan
+"I got some moves for ya!" - Rakan
+"I need to get in it!" - Rakan
+"Hey! I got a joke for you!" - Rakan
+"I'm right here!" - Rakan
+"I'm gonna' tear this place up!" - Rakan
+"Oh! I need to get in there!" - Rakan
+"Hey, what did the five fingers say to the face?" - Rakan
+"I feel alright!" - Rakan
+"I'm gonna' hit 'em!" - Rakan
+"I'm incorrigible!" - Rakan
+"You got something to say?" - Rakan
+"They gonna' love this!" - Rakan
+"Hello? You ready for me?" - Rakan
+"Hey, the party's over here!" - Rakan
+"You're gonna' get hurt!" - Rakan
+"Who... wants... to dance?" - Rakan
+"Nothing's fun without risk!" - Rakan
+"You're gonna' love this!" - Rakan
+"Look at me now!" - Rakan
+"Pay attention! Woo!" - Rakan
+"I like parties with a little violence!" - Rakan
+"They ain't ready! They ain't ready!" - Rakan
+"Challenge accepted!" - Rakan
+"I have killed for her! I will kill for her again." - Rakan
+"Time to get started!" - Rakan
+"Hell, let's do it!" - Rakan
+"Want to see some sweet moves?" - Rakan
+"Look! I'm a distraction!" - Rakan
+"Hey! What you doing?" - Rakan
+"Count it down! One, two, they dead!" - Rakan
+"I'm here! We can get it started!" - Rakan
+"I can be very distracting!" - Rakan
+"Try and hit me, fool!" - Rakan
+"Slap!" - Rakan
+"You like that?" - Rakan
+"My palm sends its regards!" - Rakan
+"How's that face?" - Rakan
+"Get some!" - Rakan
+"Insulted yet?" - Rakan
+"Man, that's insulting!" - Rakan
+"You going to take that from me?" - Rakan
+"Can't stop me!" - Rakan
+"You're welcome!" - Rakan
+"Learn to dance!" - Rakan
+"Say yeah!" - Rakan
+"Oh yeah!" - Rakan
+"Watch me!" - Rakan
+Xayah: "Are you having fun over there?""	 Rakan: "I can't hear you over all the fun I'm having!" - Xayah
+Rakan: "The fight's here!, by me!"	 Xayah: "It's the same fight!" - Xayah
+Xayah: "You're doing this!"	 Rakan: "Doing it!" - Xayah
+Xayah: "I hate everyone today!"	 Rakan: "Even me?"	 Xayah: "Not you, baby." - Xayah
+Rakan: "Should we give them a fighting chance?"	 Xayah: "Only if we want to have fun." - Xayah
+Rakan: "Who do I hit?"	 Xayah: "One of them!"	 Rakan: "Ah." - Xayah
+Xayah: "This reminds me of our first dates!"	 Rakan: "Good times!" - Xayah
+Xayah: "Mind if I cut in, Rakan?"	 Rakan: " Be my guest, miella!" - Xayah
+Rakan: "That was beautiful, baby!" - Xayah
+Rakan: "You see that?"	 Xayah: "I couldn't miss it!" - Xayah
+Xayah: "Make them remember!"	 Rakan: "They'll never forget." - Xayah
+Xayah: "Let's show 'em what we got."	 Rakan: "Happily." - Xayah
+Rakan: "You love it when I slap fools?"	 Xayah: "You know I do!" - Xayah
+Rakan: "This is the plan, right?"	 Xayah: "It is now!" - Xayah
+Rakan: "What do you want to do later?"	 Xayah: "I can think of something." - Xayah
+Rakan: "You hungry?"	 Xayah: "Can we talk about this later?"	 Rakan: "But... but... food!" - Xayah
+Xayah: "You're cute today!"	 Rakan: "Eyes on the prize, baby." - Xayah
+Rakan: "Let me at 'em!"	 Xayah: "Rakan is very enthusiastic." - Xayah
+Rakan: "I want to show 'em!"	 Xayah: "I adore your energy." - Xayah
+Rakan: "Do we need any of these fools?"	 Xayah: "Not a single one." - Xayah
+Xayah: "Use your words!"	 Rakan: "Can't! Punching!" - Xayah
+Rakan: "I have your back!" - Xayah
+Xayah: "I have your back!" - Xayah
+Xayah: "How long since we last danced?"	 Rakan: "Too long." - Xayah
+Rakan: "These guys look silly!"	 Xayah: "Bunch of weirdos." - Xayah
+Rakan: "How many fights we gotta win?"	 Xayah: "All of them!" - Xayah
+"Our magic is a fury. It is a song you cannot resist." - Rakan
+"Should I be... running? Yeah, I should... probably be running." - Rakan
+"I look around these forests and I see freedom. I hear the music." - Rakan
+"Crap. I totally forgot why I'm here." - Rakan
+"I am only as wild as magic." - Rakan
+"Magic is supposed to be scary. Love is supposed to hurt. Ecstasy needs a little fear." - Rakan
+"If you aren't a little frightened, you ain't alive." - Rakan
+"They've never seen moves like mine." - Rakan
+"Magic is a wilderness." - Rakan
+"Humans made promises. More than I can remember. They kept none." - Rakan
+"Humans talk about their treaties. We talk about their lies." - Rakan
+"Long ago, our kind danced upon the mountains like flames. Now only the embers remain." - Rakan
+"I dance because I'm free!" - Rakan
+"The only way to understand magic is to plunge into it, move with it, dance and dance!" - Rakan
+"I'm getting impatient." - Rakan
+"Gotta get myself hyped, okay... one, two... one, two... woo! Alright!" - Rakan
+"The humans call it battle. It's just a dance." - Rakan
+"I feel like my allies aren't recognising how amazing my cloak is! I mean, seriously! Rude!" - Rakan
+"They will see my dance, then they will know magic's joy... and its fury." - Rakan
+"Okay, Rakan, get 'em watching you, then you burn 'em up." - Rakan
+"I look good, I feel good, let's kick some ass!" - Rakan
+"I got my look right, I got my moves right... time to show it!" - Rakan
+"They will remember my name!" - Rakan
+"I'm gonna' live forever!" - Rakan
+"I'm going to take all they got, then laugh as I throw it away." - Rakan
+"I've been kicked around since I was born. It's alright! It's okay! I'm staying alive!" - Rakan
+"They will see me. They will see my dance!" - Rakan
+"I will walk in. I will dance. They will party." - Rakan
+"Name one genius that ain't crazy." - Rakan
+"Ha! I'm G to the D! Golden diamonds, boy! Woo!" - Rakan
+"I'm just trying to live the moment." - Rakan
+"I don't need anything - but the right now." - Rakan
+Rakan sings. - Xayah
+"Man, have you seen that forest over there?" - Rakan
+"I got freedom, I got a lady, I got a cause I'd die for. That's who I am." - Rakan
+"Don't leave nothing! Bring it all!" - Rakan
+"Time to get it started!" - Rakan
+"I don't need to understand the plan! I trust my love." - Rakan
+"It's all filthy and dangerous - and that's why I love it!" - Rakan
+"I miss Xayah." - Rakan
+"Fun. I need some fun. Now." - Rakan
+"Why is it taking so long to get back to the action?" - Rakan
+"It's a revolution. And it's good times." - Rakan
+"I'm offended by how little attention I was given." - Rakan
+"Humans think that to believe in something, you have to be serious about it. That's their problem." - Rakan
+"They ain't ready for what I'm bringing!" - Rakan
+"Ain't nothing I say should be taken seriously! That's why it's the truth!" - Rakan
+Rakan raps. - Rakan
+"This looks like another dangerous situation. Thankfully, I can improvise." - Rakan
+"They're gonna' try and test me? Haha!" - Rakan
+"Danger is as fun as you let it be." - Rakan
+"I am definitely more confident in dangerous situations." - Rakan
+"I have got to stop talking to myself. Damnit, Xayah, where are you?" - Rakan
+"You're only given a little spark of madness. You mustn't lose it." - Rakan
+"I can't wait to see what I'm going to do." - Rakan
+"There's wildness in the bees and the flowers. It's just a fury humans don't see." - Rakan
+"I am Vastaya. I am born of magic. This is my destiny." - Rakan
+"Is my cloak right? Yes it is! I was worried there for a second." - Rakan
+"Magic isn't supposed to be safe." - Rakan
+"They're scared of darkness, they're scared of magic. They are scared of where I'm from." - Rakan
+"They ain't seen moves like mine." - Rakan
+"It's magic that's wild. I'm just here for the party." - Rakan
+"For humans, magic is like fire. For us, it is water and air." - Rakan
+"Ladies and gentleman, I am here to entertain! Myself, mostly - but you too!" - Rakan
+"Humans claim it is theirs. They fence us away and cover it in refuse." - Rakan
+"It don't take a lot of words to tell the truth." - Rakan
+"Our people are bleeding. My lady's gonna' heal them." - Rakan
+"I don't want a world that's safe." - Rakan
+"I don't want a war - but I want to be free." - Rakan
+"What human's call magic, we call life." - Rakan
+"I'm here! I'm gone, I am so gone." - Rakan
+"I am a chronic line-stepper." - Rakan
+"I dance because I'm free." - Rakan
+"If Xayah says someone has to die, they die - and they deserved it." - Rakan
+"Woo! I am so into this! What is this?" - Rakan
+"If it don't get out of control, it ain't a party." - Rakan
+"I think they underestimate my charm. How is that even possible?" - Rakan
+"I'm so fine, I gotta kiss myself!" - Rakan
+"They think they can catch me." - Rakan
+"I don't do safe." - Rakan
+"The universe loves me." - Rakan
+"They want us in cages. We refuse." - Rakan
+"I need my love to hurt. I need the world to be scary. I don't apologise for it! I feel good!" - Rakan
+"I'm gonna' burn this place down, then help them build it back up - so I can burn it again!" - Rakan
+"I dance so fine I kill." - Rakan
+"Xayah? Hey! Damn, where is she? I hate it when she leaves." - Rakan
+"Without wild magic, we have no children, we have no future." - Rakan
+"When I get sad, I stop being sad and be awesome instead. True story." - Rakan
+"I do not wish to kill the mortals. I want them to hear the music." - Rakan
+"The humans will never understand our kind until they hear the song." - Rakan
+"I will make them dance. I will make them hear." - Rakan
+Rakan: " Hey, Xayah."	 Xayah: "Yeah?"	 Rakan: "You sexy." - Xayah
+Xayah: "Keep them distracted."	 Rakan: "That shouldn't be a problem." - Xayah
+Rakan: "You okay?"	 Xayah: "I'm fine."	 Rakan: "You're pushing yourself too hard."	 Xayah: "It has to be done." - Xayah
+Rakan: "Where are we going?"	 Xayah: "You forgot the plan."	 Rakan: "No, I... yeah. Hey, have you seen this cape?" - Xayah
+Xayah: "You remember the Affay waterfall?"	 Rakan: "Yeah."	 Xayah: "I'd like to go there again."	 Rakan: "Well, try not to die then." - Rakan
+Rakan: "Darling?"	 Xayah: "Yes?"	 Rakan: "Pay attention to me." - Xayah
+Xayah: "What the hell were you thinking?"	 Rakan: "Back there?"	 Xayah: "Yes."	 Rakan: "I wasn't. I never think. Ugh... thinking." - Xayah
+Rakan: "How can humans not hear the magic?"	 Xayah: "They're too busy building things."	 Rakan: "Why?"	 Xayah: "Because... they're afraid." - Xayah
+Rakan: "Thanks."	 Xayah: "For what?"	 Rakan: "Not saying 'I told you so.'" - Xayah
+Xayah: "Okay, last time, it was totally my fault."	 Rakan: "What was?"	 Xayah: "Good answer." - Xayah
+Rakan: "You going to marry me today?"	 Xayah: "Ask me again tomorrow."	 Rakan: "I always do." - Xayah
+Rakan: "Do you love me because I'm beautiful, or because I'm sexy?"	 Xayah: "Not now!"	 Rakan: "Love is so cruel!" - Xayah
+Rakan: "What's after this?"	 Xayah: "Another road, another horizon."	 Rakan: "Hm. Good." - Xayah
+Rakan: "It's gonna' be okay."	 Xayah: "We can do this."	 Rakan: "Hey, I know that." - Xayah
+Rakan: "You know I love you."	 Xayah: "What we have is greater than some human word." - Xayah
+Rakan: "Did you notice the sky?"	 Xayah: "It's lovely."	 Rakan: "Not as beautiful as you." - Xayah
+Rakan: "I am R-r-r-akan!"	 Xayah: "Ugh, what's with the accent?"	 Rakan: "I'm... trying something new. Do you like it?"	 Xayah: "No. No, I do not." - Xayah
+Xayah: "If you need me, whistle. You know how to whistle, don't you?"	 Rakan: "Hubba hubba."	 Xayah: "No, that's not whistling." - Xayah
+Xayah: "If you don't want to do this... "	 Rakan: "No! I want to!"	 Xayah: "You're only here because of me."	 Rakan: "... nah. Freedom fighting is a good look for me." - Xayah
+Rakan: "What are those things humans wear on their feet?"	 Xayah: "Shoes."	 Rakan: "I need shoes. Red ones. I need them so bad." - Xayah
+Rakan: "Did I tell you I love you?"	 Xayah: "Yes... but say it anyway."	 Rakan: "I love you." - Xayah
+Rakan: "Why do you never say yes?"	 Xayah: "'cause then... I wouldn't get to hear you ask." - Xayah
+Rakan: "Can we just stay here?"	 Xayah: "We must keep moving."	 Rakan: "Aw... " - Xayah
+Rakan: "Xayah? I think we got a problem... "	 Xayah: "Think, or know?"	 Rakan: "I... know we got a problem?" - Xayah
+Xayah: "I'm so tired... "	 Rakan: "You gotta rest, honey."	 Xayah: "Everyone is depending on me."	 Rakan: "Everyone can wait." - Xayah
+Rakan: "What would you do if I died?"	 Xayah: "I would... burn this world to the ground and build a castle from the ashes, where I would live alone forever."	 Rakan: "Aw... that's sweet." - Xayah
+Xayah: "I think scars are sexy."	 Rakan: "Okay. I'll get more." - Xayah
+Xayah: "Where do we go?"	 Rakan: "Wherever our hearts desire." - Xayah
+Rakan: "How do you like me today?"	 Xayah: "More than yesterday, less than tomorrow." - Xayah
+Xayah: "Do I make you happy, Rakan?"	 Rakan: "Every day of my life." - Xayah
+Xayah: "I'm lucky to have you."	 Rakan: "No. I'm the lucky one." - Xayah
+Xayah: "I swear, you will be the death of me."	 Rakan: "I'm fine with that."	 Xayah: "Me too." - Xayah
+Rakan asks something in Vastayan.	 Xayah replies in Vastayan.	 Xayah and Rakan laugh. - Xayah
+Xayah: "If we get separated, I'll find you."	 Rakan: "We won't get separated."	 Xayah: "You're already wandering off."	 Rakan: "No, I'm not! ... only a little." - Xayah
+Rakan: "You are stunning and beautiful... "	 Xayah: "Why, thank you, darling."	 Rakan: "Yes. I was... definitely talking about you, honey." - Xayah
+Xayah: "I need you to be more careful."	 Rakan: "If anybody's gonna' die first, it's gonna' be me. I can't see you die. Also, black is a terrible color on me." - Xayah
+Xayah: "Play it safe!"	 Rakan: "Baby, I don't do safe!" - Xayah
+Xayah: "You okay?"	 Rakan: "Oh, this is all so intense!" - Xayah
+Rakan: "You can't tell me you weren't impressed!"	 Xayah: "With what?"	 Rakan: "Just generally! I'm amazing!" - Xayah
+Xayah: "Honey, what are you doing?"	 Rakan: "I can't die looking this good!" - Xayah
+Rakan: "After this, how about we get some human food?"	 Xayah: "A nice dinner?"	 Rakan: "Chocolate!"	 Xayah: "That's not what---"	 Rakan: "We're eating chocolate!" - Xayah
+Xayah: "Do you remember the plan?"	 Rakan: "Nope, but let's do it!" - Xayah
+Rakan: "I have a cunning plan."	 Xayah: "Really? What is it?"	 Rakan: "I'm not going to tell you. That's the really cunning bit!" - Xayah
+Rakan: "I think you intimidate human females."	 Xayah: "Yeah, so?"	 Rakan: "It's kinda hot!" - Xayah
+Rakan: "Should I show them the dance?"	 Xayah: "Show them the dance." - Xayah
+Rakan: "You thinking about me?"	 Xayah: "I'm a little busy!"	 Rakan: "That's very upsetting!" - Xayah
+Xayah: "Baby, what did I tell you?"	 Rakan: "Try not to die?"	 Xayah: "Close enough." - Xayah
+Rakan: "Did you see the clothes those guys were wearing?"	 Xayah: "Yeah, gross." - Xayah
+Rakan: "Rakan has arrived!"	 Xayah: "I saw you. Everyone can see you."	 Rakan: "Yeah! That's what I like!" - Xayah
+Rakan: "Can I start off?"	 Xayah: "You want to start it off?"	 Rakan: "Let's start it off!" - Xayah
+Rakan: "I'm a humble entertainer!"	 Xayah: "Really, darling?"	 Rakan: "Yeah, I'm the best." - Xayah
+Rakan: "Who is that gorgeous thing over there?"	 Xayah: "Now's not the time, darling."	 Rakan: "It's always the time!" - Xayah
+Rakan: "Hey, I'm not gonna kill you, she is! Say hi, honey."	 Xayah: "Hi." - Xayah
+Rakan: "I'm handling it, dear."	 Xayah: "Are you?"	 Rakan: "I was, I--- I will." - Xayah
+Rakan: "How long do we fight?"	 Xayah: "Until we are free. Until magic is free."	 Rakan: "Is that after lunch?" - Xayah
+Xayah: "Do you remember our escape route?"	 Rakan: "Uh... yes?"	 Xayah: "I'll take that as a no." - Xayah
+Rakan: "How will we know if the plan works?"	 Xayah: "We'll still be alive!" - Xayah
+Xayah: "Woo, shake those tail feathers, baby!"	 Rakan: "I am not a piece of meat." - Xayah
+Rakan: "Caw caw, caw caw!"	 Xayah: "You used the secret call! Is everything alright?"	 Rakan: "We have a secret call? I just like that sound! Caw caw!" - Xayah
+Xayah: "Hey, I need you here! Uh, never mind, just... go that way!"	 Rakan: "No-one can control me!"	 Xayah: "That's right, babe." - Xayah
+Xayah: "Look sharp, baby."	 Rakan: "Ha! When don't I?" - Xayah
+Rakan: "If I vanish, what would you do?"	 Xayah: "I would never be whole again." - Xayah
+Rakan: "Am I good to you?"	 Xayah: "The best." - Xayah
+Rakan: "I'm going rogue!"	 Xayah: "There's a surprise." - Xayah
+Rakan: "Be right back!"	 Xayah: "Will you?"	 Rakan: "Who can know these things?"	 Xayah: "You! You can know these things!" - Xayah
+Xayah: "I love you!"	 Rakan: "I know." - Xayah
+"Do you want to smell it? Not for you!" - Rakan
+"You want to smell it? No flower for you!" - Rakan
+"You know, I ain't really about making fun of people, but you... make that difficult." - Rakan
+"I got three rules. You're breaking two of them with that outfit." - Rakan
+"Can we just get started already?" - Rakan
+"Why are you so boring?" - Rakan
+"Man, are you digging this air?" - Rakan
+"Oh, you're bumming me out." - Rakan
+"Is... 'totally bogus' your thing?" - Rakan
+"So, when you got dressed this morning, was this the look you were going for?" - Rakan
+"There's this thing called grooming. You should try it." - Rakan
+"Hey, I'm right here. So, can you be less uptight and lame now?" - Rakan
+Rakan: "I ain't gonna' kill you. She is!"	 Xayah: "Nice to unmeet you." - Xayah
+Rakan: "Kiss me, honey."	 Xayah: "Why now?"	 Rakan: "Give them a pretty last image." - Xayah
+"So, just tiger stuff? Buddy, you've got to mix it up." - Rakan
+"I know you're Vastaya, but your tribe... lacks style!" - Rakan
+"So, you just... run around in the jungle, huh? I mean, I'm not judging, if that's what you're into. Nerd." - Rakan
+Xayah: "I think we're supposed to laugh, now?"	 Rakan: "At what?" - Xayah
+Xayah: "Smile and nod, honey."	 Rakan: "Can we leave now?" - Xayah
+"Come on!" - Rakan
+"Party started!" - Rakan
+"Oh! Yeah!" - Rakan
+"This is the drop!" - Rakan
+"Come on, fool thought he could match my style?" - Rakan
+"Got a feeling I shouldn't have done that." - Rakan
+"I'm not about killing - but I'll put in the work." - Rakan
+"Whoops. Now you are dead." - Rakan
+"Ugh. Sorry about that." - Rakan
+"Party foul!" - Rakan
+"Step up again, I'll slap you down again." - Rakan
+"Woo! I feel good!" - Rakan
+"Also, your look is played out." - Rakan
+"I got the deadly fresh style!" - Rakan
+"Oh! Can't touch this!" - Rakan
+"The dance is deadly." - Rakan
+"I find this parallel universe stuff very upsetting." - Rakan
+"Well. I always was the pretty one." - Rakan
+"Hello, world! I am single now!" - Rakan
+"I bet she's going to be angry about that later." - Rakan
+"I miss her already. Oh well." - Rakan
+"Your kind started this war. We will end it." - Rakan
+"You put us in a cage? I put you in the ground." - Rakan
+"We don't want your harmony! We want our freedom!" - Rakan
+"I showed you the dance. You should've moved." - Rakan
+"I don't want to like killing, but this time, I did." - Rakan
+"You thought you got away?" - Rakan
+"You came to visit us! Did you think we would forget?" - Rakan
+"I remembered your trespass." - Rakan
+"You were a shadow without a flame." - Rakan
+"Messed with my girl. What did you think I was going to do?" - Rakan
+"He had some style - for a human." - Rakan
+"Punk ass cape." - Rakan
+"Fool thought he could upstage me?" - Rakan
+"Problem with that guy? No talent." - Rakan
+"Another. Dead. Poser." - Rakan
+"Kind of feel bad for the guy. His feathers were weak." - Rakan
+"Punk was trying too hard." - Rakan
+"Power was not meant to be contained. Now, it is free." - Rakan
+"You were given Vastayan blood, yet chose to be blind." - Rakan
+"It is from our blood your gifts came, and my hand that took it back." - Rakan
+"One animal at a time? Weak." - Rakan
+"What was with that girl's dumb purse?" - Rakan
+"Girl thought she could pull out my soul - but I got too much soul!" - Rakan
+"Big girl had too much going on." - Rakan
+"Six legs. Still couldn't dance." - Rakan
+"Was that a land shark? I mean, why? Why is that a thing?" - Rakan
+"Perfect predator? I got an instinct about how stupid that thing was." - Rakan
+(Distant) "Babe! Get 'em!" - Rakan
+(Nearby) "Babe! Get 'em!" - Rakan
+(Distant) "You got it!" - Rakan
+(Nearby) "You got it!" - Rakan
+(Distant) "Deal with them!" - Rakan
+(Nearby) "Deal with them!" - Rakan
+(Distant) "You want it?" - Rakan
+(Nearby) "You want it?" - Rakan
+(Distant) "Take 'em down!" - Rakan
+(Nearby) "Take 'em down!" - Rakan
+(Distant) "That one!" - Rakan
+(Nearby) "That one!" - Rakan
+(Distant) "Rakan, slap this fool for me!" - Rakan
+(Nearby) "Rakan, slap this fool for me!" - Rakan
+(Distant) "Get my back." - Rakan
+(Nearby) "Get my back." - Rakan
+(Distant) "I need help!" - Rakan
+(Nearby) "I need help!" - Rakan
+(Distant) "Things are getting ugly." - Rakan
+(Nearby) "Things are getting ugly." - Rakan
+(Distant) "Yo! Little help!" - Rakan
+(Nearby) "Yo! Little help!" - Rakan
+(Distant) "I can't do this alone." - Rakan
+(Nearby) "I can't do this alone." - Rakan
+(Distant) "Babe, watch out." - Rakan
+(Nearby) "Babe, watch out." - Rakan
+(Distant) "Watch out." - Rakan
+(Nearby) "Watch out." - Rakan
+(Distant) "Stay sharp." - Rakan
+(Nearby) "Stay sharp." - Rakan
+(Distant) "Eyes up." - Rakan
+(Nearby) "Eyes up." - Rakan
+(Distant) "Bad thing." - Rakan
+(Nearby) "Bad thing." - Rakan
+(Distant) "Hang back." - Rakan
+(Nearby) "Hang back." - Rakan
+(Distant) "Danger!" - Rakan
+(Nearby) "Danger!" - Rakan
+(Distant) "Look alive." - Rakan
+(Nearby) "Look alive." - Rakan
+(Distant) "Stay alert!" - Rakan
+(Nearby) "Stay alert!" - Rakan
+(Distant) "They're gone." - Rakan
+(Nearby) "They're gone." - Rakan
+(Distant) "They vanished." - Rakan
+(Nearby) "They vanished." - Rakan
+(Distant) "Lost visual." - Rakan
+(Nearby) "Lost visual." - Rakan
+(Distant) "Enemy missing." - Rakan
+(Nearby) "Enemy missing." - Rakan
+(Distant) "I don't see them." - Rakan
+(Nearby) "I don't see them." - Rakan
+(Distant) "Can't find them." - Rakan
+(Nearby) "Can't find them." - Rakan
+(Distant) "Bringing the pain." - Rakan
+(Nearby) "Bringing the pain." - Rakan
+(Distant) "On my way." - Rakan
+(Nearby) "On my way." - Rakan
+(Distant) "Stay alive." - Rakan
+(Nearby) "Stay alive." - Rakan
+(Distant) "Here I come!" - Rakan
+(Nearby) "Here I come!" - Rakan
+(Distant) "On it." - Rakan
+(Nearby) "On it." - Rakan
+(Distant) "On my way!" - Rakan
+(Distant) "En route." - Rakan
+(Nearby) "En route." - Rakan
+(Distant) "Headed to ya." - Rakan
+(Nearby) "Headed to ya." - Rakan
+(Distant) "Keep it together!" - Rakan
+(Nearby) "Keep it together!" - Rakan
+(Distant) "I'm on the move." - Rakan
+(Nearby) "I'm on the move." - Rakan
+"I need to see if people can see how awesome I am!" - Rakan
+"When you open your eyes, you see everything is limitless." - Rakan
+"I need to know when the action's coming." - Rakan
+"Well I don't want to miss the start of the party." - Rakan
+"I dig seeing stuff." - Rakan
+"The world's a big place. Don't want to miss any of it." - Rakan
+"I'm pretty sure I'm supposed to scout around. Pretty, pretty sure." - Rakan
+"I'll just put that there. That's a good place. I hope. Yeah... " - Rakan
+"Let's see what's happening now." - Rakan
+"Yep, if I'm going to see the human world I need to start." - Rakan
+"I'm going to show people some of the strange." - Rakan
+"Peekaboo." - Rakan
+"I am not blind to any possibility." - Rakan
+"I know people are watching. How could they not be?" - Rakan
+"If you look at things the right way, it's awesome." - Rakan
+"The world isn't about collecting stuff, it's about seeing stuff." - Rakan
+"Turn in, turn on, drop out." - Rakan
+"The sleeper must awaken." - Rakan
+"Mankind is blind. I want them to see." - Rakan
+"Vision is the first step towards understanding." - Rakan
+"Aw, crap, I hate having to have a plan." - Rakan
+"I live in the moment." - Rakan
+"I think Xayah told me to improvise. At least, that's the only part of the plan I remember." - Rakan
+"Let's see what these animals can do." - Rakan
+"I... totally forgot why I'm here." - Rakan
+"Our kind will see the truth soon enough." - Rakan
+"I want to feel everything. That's the only way to live." - Rakan
+"Every road leads someplace." - Rakan
+"Hello? Anybody there?" - Rakan
+"Rakan, doing his job." - Rakan
+"I should totally get paid for this." - Rakan
+"Let's go! Baby! Baby? Baby? Baby!" - Rakan
+"Want to catch a ride?" - Rakan
+"You got to keep up, baby!" - Rakan
+"Better hurry up!" - Rakan
+"Rakan out." - Rakan
+"Coming?" - Rakan
+"Damn... " - Rakan
+"Not like this... " - Rakan
+"Open... casket... " - Rakan
+"I can never resist an invitation to dance." - Xayah
+"Fine, I'll just be over here... sharpening my feathers." - Xayah
+"If love is feeling so deeply for another that you want to chew your way under their skin, then I love Rakan... " - Xayah
+"The Vastayan named the world. We named the trees, the wind, the mountains. We know their power." - Xayah
+"The world owes the Vastaya a great debt. I'm here to collect." - Xayah
+"I'm just an ordinary girl. An ordinary girl with an infinite supply of death quills." - Xayah
+"They'll probably label me a war criminal one day, but not today." - Xayah
+"We pledged ourselves to each other in the middle of a tavern brawl. The whole place reeked of vomit, sweat and blood. It was so romantic!" - Xayah
+"Ah, silence, so golden. Like Rakan. Kind of miss him. Even if he is... noisy." - Xayah
+"Let's cut 'em to ribbons." - Xayah
+"Dance like your life depends on it." - Xayah
+"Dance." - Xayah
+"Move your feet, or lose some toes." - Xayah
+"Compromise. It's a pain." - Xayah
+"Call me cute again." - Xayah
+"This is how I deal with unwanted attention." - Xayah
+"This is a preemptive 'No'." - Xayah
+"Keep up." - Xayah
+"A dance with me ends in blood." - Xayah
+"Hear. My. Words!" - Xayah
+"Hm, what shall I cut off?" - Xayah
+"I don't speak compromise." - Xayah
+"I always find a weak spot." - Xayah
+"A thousand cuts is only the beginning." - Xayah
+"Cut by a feather? So delicate." - Xayah
+"Violence is my favorite form of negotiation." - Xayah
+"My feathers are priceless." - Xayah
+"They make chaos dance." - Xayah
+"All out of second chances. Sorry." - Xayah
+"Listening. Such a simple concept." - Xayah
+"Okay, so we're doing this." - Xayah
+"Threading the needle." - Xayah
+"Quit crying! It's just a feather." - Xayah
+Xayah chants. - Xayah
+"When I dance, I lead." - Xayah
+"My last nerve is long gone." - Xayah
+"A Vastayan feather is a kingly gift." - Xayah
+"This was our world first." - Xayah
+"Ever been stabbed by a feather?" - Xayah
+"Yay, someone to throw knives at." - Xayah
+"I leave nasty scars." - Xayah
+"It's only a little prick." - Xayah
+"Sabotage takes patience and time - and lots of feather daggers." - Xayah
+"I'll do whatever needs to be done - twice, just to be sure." - Xayah
+"Compromise is so unsatisfying." - Xayah
+"Oh, I was born to ruffle feathers." - Xayah
+"Our Vastayan essence fades with each passing day." - Xayah
+"I will rest when our homelands are restored." - Xayah
+"All women desire Rakan. Like they'd know what to do with him." - Xayah
+"They say I don't know when to quit. Like that's a weakness." - Xayah
+"We Vastaya are only half of our full glory." - Xayah
+"Rebellion puts the fire in my blood." - Xayah
+"No-one will block my path." - Xayah
+"Talking to anybody about anything is never on my to-do list." - Xayah
+"If our existence is everyone else's chaos, so be it." - Xayah
+"Talking to people makes me want to stab them... so I do." - Xayah
+"Victors are the sole authors of history. Time to write our chapter." - Xayah
+"Tavern brawls just seem to find me." - Xayah
+"Chaos is the preferred state of nature." - Xayah
+"Nature bends towards chaos. Give in, or break." - Xayah
+"I really hate anyone who's not me - or Rakan." - Xayah
+"Nature is wild and untamed, not balanced." - Xayah
+"Humans. They're so very blind." - Xayah
+"Spiders are my spirit animal." - Xayah
+"If Rakan were here, I'd make out with him until his ears bled. He loves it when I do that." - Xayah
+"Ionians never learn." - Xayah
+"Magic is not some river that can be easily channeled. It is a churning sea that goes where it pleases." - Xayah
+"I hate flowers. Tiny skulls stuffed with twigs, on the other hand... " - Xayah
+"Sometimes people die for a good cause - namely, mine. That's why I'm an optimist." - Xayah
+"Cloudy days are my favorite." - Xayah
+"I prefer to work at night, because, y'know, the sun? Bright? Yuck!" - Xayah
+"Pandemonium follows me everywhere I go. It's like a puppy I once fed... " - Xayah
+"Ionia used to be so nice - before humans tamed all that wild cataclysmic magic." - Xayah
+"Once, magic was everywhere, or as the Vastaya say: (chants)" - Xayah
+"Ionia's meddling birthed our rebellion." - Xayah
+Xayah: "You remember the Affay waterfall?"	 Rakan: "Yeah?"	 Xayah: "I'd like to go there again."	 Rakan: "Well, try not to die then." - Xayah
+"Damnit!" - Xayah
+"I'm not laughing. I needed to say that just so you understand." - Xayah
+"Next time, try using more hard 'k' sounds." - Xayah
+"Ha ha ha." - Xayah
+"Hahaha... I don't know what that is." - Xayah
+"Behold. I am depleted of cares." - Xayah
+"Just... no." - Xayah
+"I'm about to ruin your day." - Xayah
+"Please, for the sake of us both, go far away." - Xayah
+"I'm going to murder you a thousand times." - Xayah
+"Am I supposed to be intimidated right now? I'm not sure what's going on." - Xayah
+"Please, don't make me tryhard. I'm not in the mood." - Xayah
+"Can I just hate you to death?" - Xayah
+"I can't even--- I don't know where to begin." - Xayah
+"The next one to call me 'edgy' is getting choked to death." - Xayah
+"I will punch your soul in the face." - Xayah
+"Get out there and take a bullet for me - like a gentleman." - Xayah
+"You're not bad for someone who isn't Rakan." - Xayah
+"If we do this right, only one of us get shot." - Xayah
+"Block the hits for me - please?" - Xayah
+"Make me look good, and I'll make you look good, got it?" - Xayah
+"How am I supposed to work with - whatever this is?" - Xayah
+"Don't embarrass me." - Xayah
+"Mages. Too insufferable to live." - Xayah
+"Mages are lucky if they can cast a minor hex." - Xayah
+"Yordles. Why did it have to be Yordles?" - Xayah
+"Yordles are the reason no-one takes us Vastaya seriously." - Xayah
+"Okay. Who invited the Yordle?" - Xayah
+"You want to be mortal? You are mu'takl." - Xayah
+"You betray your heritage, Ahri." - Xayah
+"I don't want to spill Vastayan blood, Rengar." - Xayah
+"We were not made to fight each other." - Xayah
+"Aw, poor sad little mummy! I just want to take you home." - Xayah
+"I don't want to hurt you, space dragon. We could be such good friends." - Xayah
+"I can't wait to burst your bubble." - Xayah
+"Who does your wardrobe? Fire them. Immediately." - Xayah
+"Wait, magic powered sword legs? Is this a joke?" - Xayah
+"Is this another timeline where I beat you up again?" - Xayah
+"When I'm done with Ionia, I'll come for Demacia." - Xayah
+"Where can I get one of those delightful katanic god-clutch purses? Does it come in purple? The god, not the bag." - Xayah
+"I want your happiness to evaporate." - Xayah
+"I want to travel the world with you." - Xayah
+"But is it really okay?" - Xayah
+"Your talking is not improving this wonderful silence." - Xayah
+"You're gross. Never change." - Xayah
+"You call that a rebellious nature?" - Xayah
+"You call that being a vampire?" - Xayah
+"I'm insulted? I don't know." - Xayah
+"Ouch. I'm going to need some aloe." - Xayah
+"I wasn't listening to what you said, but I sure am outraged." - Xayah
+"Watch your tongue - and your back." - Xayah
+"Say that to my feathers." - Xayah
+"Get down with me!" - Xayah
+"Aw, yeah, let's get down!" - Xayah
+"Aw, yeah, come on!" - Xayah
+"Alright, put your back in to it!" - Xayah
+"Dust it off!" - Xayah
+"Nope!" - Xayah
+"Nuh uh!" - Xayah
+"Sit down!" - Xayah
+"Eat it!" - Xayah
+"Didn't see that coming?" - Xayah
+"Gotcha." - Xayah
+"Pinned!" - Xayah
+"Oops, your bad!" - Xayah
+"Oops, your bad." - Xayah
+Rakan: "You okay?"	 Xayah: "Better now." - Xayah
+Rakan: "I got you!"	 Xayah: "Thanks, babe." - Xayah
+Rakan blows a kiss.	 Xayah blows a kiss. - Xayah
+Rakan: "You're welcome."	 Xayah: "Thank you." - Xayah
+Xayah: "Thank you!"	 Rakan: "Any time!" - Xayah
+"Thank you, honey!" - Xayah
+Rakan: "That help?"	 Xayah: "Appreciated!" - Xayah
+Xayah: "Aw, you're looking out for me!"	 Rakan: "Always." - Xayah
+"Feathers fly!" - Xayah
+"This is overpriced - but I must have it." - Xayah
+"I want to buy all the things!" - Xayah
+"I am totally pulling this off." - Xayah
+"What the heck? I deserve it." - Xayah
+"I know I'm being price gouged, but I'll splurge." - Xayah
+"Where did you get all these wonderful things?" - Xayah
+"Is this ethically sourced?" - Xayah
+"Hook me up with that magical creature discount?" - Xayah
+"Do I really need this? Ah... yes." - Xayah
+"But how much does it cost for me?" - Xayah
+"Good henchmen are hard to find." - Xayah
+"Next." - Xayah
+"Nothing is ever easy, but that was really easy." - Xayah
+"That was too easy - but so much fun." - Xayah
+"Don't feel bad, they're just magically animated sheets of cloth." - Xayah
+"They mindlessly marched right to their deaths - like everyone in Noxus." - Xayah
+"They dropped something. Their guard." - Xayah
+"What? They were in my way." - Xayah
+"As far as obstacles go, that was about a... three out of ten?" - Xayah
+"Anyone else want to try?" - Xayah
+"Thanks for the dance." - Xayah
+"Few can keep up with me." - Xayah
+"Alright, who's next?" - Xayah
+"And an F, for effort." - Xayah
+"Got what they deserved." - Xayah
+"I'm overcome with emotion." - Xayah
+"That was for the Vastaya." - Xayah
+"Well, they tried to stop me." - Xayah
+"Well, that's done." - Xayah
+"Hm, dodging seems to be a weak spot of yours." - Xayah
+"I warned you. Oh, wait, did I? Crap. My fault." - Xayah
+"Yep. Easy peasy." - Xayah
+Rakan: "That's my baby."	 Xayah: "Ah, it was nothing." - Xayah
+Rakan: "Did I do that?"	 Xayah: "No. That was me."	 Rakan: "Who's counting?"	 Xayah: "Me. I'm counting." - Xayah
+Rakan: "Miella, I helped, right?"	 Xayah: "Couldn't have done it without you, mieli." - Xayah
+Rakan: "Every time you do that, it drives me crazy."	 Xayah: "Well. I'll have to do it more often, then." - Xayah
+Rakan: "Were... they trying?"	 Xayah: "Probably, but there are two of us." - Xayah
+Rakan: "I love watching you kill."	 Xayah: "I love killing for you."	 Rakan: "Let's make out." - Xayah
+Rakan: "Haha! Told you!"	 Xayah: "Rakan, let's not gloat. Much." - Xayah
+Rakan: "Did they deserve it?"	 Xayah: "They deserved it." - Xayah
+Rakan: "Why do they break so easily?"	 Xayah: "They aren't made like us."	 Rakan: "Pity." - Xayah
+Xayah: "That was a Vastayan farewell."	 Rakan: "Isn't a Vastayan farewell when you say, "ouulavaash?"	 Xayah: "I was trying to have a moment, Rakan." - Xayah
+Rakan: "Did you see that? Haha! That was amazing!"	 Xayah: "Nice job, babe." - Xayah
+Rakan: "They couldn't keep up with you."	 Xayah: "Only you can, Rakan." - Xayah
+"Too bad those tails weren't lives." - Xayah
+"We asked you to join." - Xayah
+"This is by your design." - Xayah
+"The Vastaya will sing songs of you. I promise." - Xayah
+"Mu'takl." - Xayah
+"Shame. You could have been so useful alive." - Xayah
+"Every drop of Vastayan blood spilled is a waste." - Xayah
+"Taitah be tervaash." - Xayah
+"It needed to be done." - Xayah
+"Wasn't she just a ray of sunshine? I hate sunshine." - Xayah
+"And that's where plucky optimism gets you." - Xayah
+"Hurray, they all died." - Xayah
+"It's more of a slaughter than a massacre, really." - Xayah
+"I wish they could have seen the looks on their faces." - Xayah
+"Maybe I overdid it." - Xayah
+"I wasn't joking when I said nothing stands in my way." - Xayah
+"A victory for the Vastaya." - Xayah
+Rakan: "Heh, like this... " Rakan sings. - Xayah
+Rakan sings.	 Xayah: "Oh, here we go again. Mhm. Mister Scatman, uh huh. ... oh, he's got me going now... "	 Rakan: "Sing it with me, baby."	 Xayah: "I don't know the words." - Xayah
+Xayah groans. - Xayah
+"Magic is again unfettered." - Xayah
+"Untied that mystical knot." - Xayah
+"Another minor annoyance reduced to rubble." - Xayah
+"Crumble! Yes!" - Xayah
+"I could dance right now. Aw, but there's more work to be done." - Xayah
+"Can you feel the magic flowing? I can." - Xayah
+"Sabotage looks so good on me." - Xayah
+"I've been known to implode a sacred obelisk or two." - Xayah
+"I will unblock the rivers of Vastayan essence." - Xayah
+"Each totem that falls strengthens the Vastayan cause." - Xayah
+"We rise." - Xayah
+"Another Vastayan victory." - Xayah
+"They should really get a refund from those masons." - Xayah
+"Hm, poor construction. No standards." - Xayah
+"Shoddy construction, through and through." - Xayah
+"Help!" - Xayah
+"Yipes!" - Xayah
+"Oh crap, oh crap!" - Xayah
+"Somebody?" - Xayah
+"Oh no, oh no!" - Xayah
+"SOS!" - Xayah
+"I don't like this!" - Xayah
+"This is bad!" - Xayah
+"Oh, hell nope!" - Xayah
+"Danger zone!" - Xayah
+"Watch it!" - Xayah
+"Be safe!" - Xayah
+"Look out!" - Xayah
+"Something here!" - Xayah
+"Not good!" - Xayah
+"Beware!" - Xayah
+"That ain't good!" - Xayah
+"Spooky." - Xayah
+"Danger!" - Xayah
+"Where are they?" - Xayah
+"Where'd they go?" - Xayah
+"They missing?" - Xayah
+"They ain't here." - Xayah
+"Nobody's here." - Xayah
+"What's going on?" - Xayah
+"What's happening?" - Xayah
+"Mysterious mystery!" - Xayah
+"They gone?" - Xayah
+"Heads up!" - Xayah
+"On my way!" - Xayah
+"Coming, love!" - Xayah
+"On the way!" - Xayah
+"Heading over!" - Xayah
+"Running over!" - Xayah
+"Bringing the show!" - Xayah
+"Bringing the fun!" - Xayah
+"I'mma coming, I'mma coming!" - Xayah
+"There in a sec!" - Xayah
+"I must know their every move." - Xayah
+"Sometimes, I have to watch my own back." - Xayah
+"Eyeball in the grass." - Xayah
+"I need a strategic viewpoint." - Xayah
+"Let's have a look-see, shall we?" - Xayah
+"This is ambush territory." - Xayah
+"I never walk into a trap unprepared." - Xayah
+"I hate surprises - unless I'm doing the surprising." - Xayah
+"See the enemy, know their mind." - Xayah
+"Rebellions thrive on intelligence." - Xayah
+"And they won't be needing that any more." - Xayah
+"Die, little inanimate spy." - Xayah
+"Found one! Killed it." - Xayah
+"Good thing I didn't do anything embarrassing." - Xayah
+"There's more than one way to blind an enemy." - Xayah
+"Well, that's just an invasion of privacy." - Xayah
+"I'm going now. Where? Anywhere not here. That's where." - Xayah
+"Well, I'm bored." - Xayah
+"Bored now." - Xayah
+"We gotta go." - Xayah
+"Wait for me!" - Xayah
+"Xayah out." - Xayah
+"Don't leave without me!" - Xayah
+"You going somewhere?" - Xayah
+"Why not?" - Xayah
+"Aw... crap... " - Xayah
+"Rakan... " - Xayah
+"Seriously...?" - Xayah
+"Uh, seriously...?" - Xayah
+"Ugh, lame... " - Xayah
+"Death was a nice vacation from the tedium - but nothing good can last, I suppose." - Xayah
+"Death was nice and peaceful. Thanks for ruining it." - Xayah
+"I always wanted to be buried and resurrected in this outfit." - Xayah
+"Oh, I wasn't finished with these fools yet." - Xayah
+"A day away from my forge is a day wasted." - Ornn
+"All I need is myself, and... hammer." - Ornn
+"Enough!" - Ornn
+"Hold still!" - Ornn
+"An iron will must be forged!" - Ornn
+"Good! Yes!" - Ornn
+"I will hit you until minerals fall out!" - Ornn
+"Eugh- Even my beard is angry!" - Ornn
+"Anvil time!" - Ornn
+"Hold my ale." - Ornn
+"That's a whompin!" - Ornn
+"This is called building character." - Ornn
+"Nose! Meet grindstone!" - Ornn
+"This will ring nicely!" - Ornn
+"Ahhh, hitting relieves stress." - Ornn
+"Fighting is my first language." - Ornn
+"You are a nail." - Ornn
+"I have a hard head." - Ornn
+"I was working!" - Ornn
+"The work is the reward!" - Ornn
+"Now this I like!" - Ornn
+"Hammer never fails." - Ornn
+"You like that? I do!" - Ornn
+(Grunts) - Ornn
+"I don't like the look of that thing." - Ornn
+"We never talk, might as well fight!" - Ornn
+"Your sword has no counterbalance!" - Ornn
+"Give me the ale and no one gets hurt." - Ornn
+"Stop building!" - Ornn
+"My hammer is better." - Ornn
+"I do not like you." - Ornn
+"This is for my followers!" - Ornn
+"It is childish to favor one tool over another, but hammer is my favorite." - Ornn
+"Humans have done some things right: beer, dark beer." - Ornn
+"Once a human kneels, they rarely stand again." - Ornn
+"My forge is my home." - Ornn
+"I do not need company, only wall, to keep out company." - Ornn
+"Once I made a harpoon out of a mountain and a world tree. That was a weird century." - Ornn
+"Bah, look at all these lazy trees." - Ornn
+"Backbreaking labor is life's greatest pleasure." - Ornn
+"The other gods don't understand me. Hmph, good." - Ornn
+"The last time I ate a plant was never." - Ornn
+"My work speaks in the roar of flame and the ringing of steel." - Ornn
+"I will make an axe that is also a sword. And possibly a spoon." - Ornn
+"Everything is better when it is molten. Lead, iron, chocolate cake." - Ornn
+"I had followers once, they tried." - Ornn
+"Luck is failure that failed." - Ornn
+"I enjoy being alone, fewer unintended casualties." - Ornn
+"The Freljord forges men out of... whatever children are. Dirt, goblins." - Ornn
+"Ornn builds things, go see Ornn. Nobody ever says thank you." - Ornn
+"This world has potential. Need hammering." - Ornn
+"Gods do not need followers. Followers need gods." - Ornn
+"Solitude always meets my expectations." - Ornn
+"(Grunts)" - Ornn
+"(Grumbles)" - Ornn
+"The best meal is a herd of cattle, with dark beer, and cherries... Mmm..." - Ornn
+"I'm going this way. Do not follow me. Please." - Ornn
+"I made this hammer. It was so good I named it... Hammer." - Ornn
+"I will go over there, it looks quiet, it will be nice." - Ornn
+"Name's Ornn, no further pleasantries needed." - Ornn
+"I have fur. It is soft. Do not hug me." - Ornn
+"The Freljord is a place for building, fighting, and eating. Home, sweet home." - Ornn
+"If all goes well, our paths will never cross again. It never goes well." - Ornn
+"(Sniffs) Singed fur... Jealous blood... My brother is near!" - Ornn
+"Volibear is near... Everyone seek shelter!" - Ornn
+"I cannot choose my brother, only the weapons to slay my brother." - Ornn
+"Hmm... Noxian Granite. Respectable choice." - Ornn
+"Walls are fine." - Ornn
+"Could do without the statues." - Ornn
+"Decent stonework." - Ornn
+"Huh, loose cobblestone. We'll fix later." - Ornn
+"The architecture here is not wholly terrible." - Ornn
+"Hmm, this river needs a dam." - Ornn
+"I did not want to cool off, but this feels nice." - Ornn
+"Volibear made the first river. You do not want to know how." - Ornn
+"Your job is not dying." - Ornn
+"You remind me of a young me, who is less impressive." - Ornn
+"Huh, you are not entirely an arse." - Ornn
+"Working with you is almost like working alone. Almost." - Ornn
+"Something you should know about me...(Long grumble)." - Ornn
+"I do not care at all." - Ornn
+"This is a waste of my time." - Ornn
+"(Annoyed grunt)" - Ornn
+"(Sigh) I do not care at all." - Ornn
+"(Hums)" - Ornn
+"Buy a joke book. And a clown." - Ornn
+"I now like you less, I did not think that was possible." - Ornn
+"Stop it." - Ornn
+"No." - Ornn
+"Good... Yes..." - Ornn
+"I taught Doran everything he knows." - Ornn
+"Ahh." - Ornn
+"Hey... You... Go to the store." - Ornn
+"You're welcome. - Ornn
+"I made you something." - Ornn
+"My work is ready." - Ornn
+"My handiwork is for sale." - Ornn
+"Come. See what I built." - Ornn
+"Do not hang that on a wall." - Ornn
+"I trust you know how to use that." - Ornn
+"No exchanges." - Ornn
+"If you want a weapon, here's a weapon. If you want conversation, here's a weapon." - Ornn
+"Do not waste that." - Ornn
+"You will not be disappointed." - Ornn
+"Ornn tested, Ornn approved." - Ornn
+"This does not mean we are friends." - Ornn
+"A good axe will fell a tree, a great axe will fell an army." - Ornn
+"The weapons I forge do not have names, they have ambitions." - Ornn
+"That's a weapon. Y'know, for fighting." - Ornn
+"You may be worthy of that. Do not prove me wrong." - Ornn
+"That is what good looks like." - Ornn
+"That is for wielding, not for entertaining." - Ornn
+"I was looking at that one too." - Ornn
+"I didn't make that, you didn't buy it." - Ornn
+"Heheh, broke that real good." - Ornn
+"Easy build, easy break." - Ornn
+"Mortal craftsmanship, please." - Ornn
+"Whoops. Found a flaw." - Ornn
+"Shattered and melted." - Ornn
+"A strong sneeze would've had the same effect." - Ornn
+"Bad workmanship." - Ornn
+"Demolished! Easy." - Ornn
+"Barely touched it." - Ornn
+"That's done." - Ornn
+"Job complete." - Ornn
+"Mhmm, yup, dead." - Ornn
+"It has not been a pleasure." - Ornn
+"Character built." - Ornn
+"Ahhh." - Ornn
+"Well, that happened." - Ornn
+"Nailed it." - Ornn
+"Job Done! Time to go home." - Ornn
+"Back to work." - Ornn
+"That was more fun than I expected." - Ornn
+"Fixed!" - Ornn
+"That fixed everything." - Ornn
+"Problems solved." - Ornn
+"Too much sorcery, not enough elbow grease." - Ornn
+"Heh, not one of mine." - Ornn
+"Build it again. Correctly." - Ornn
+"Honestly though, I was just leaning on it." - Ornn
+"It's always the magic parts that break." - Ornn
+"I've seen sturdier sandcastles." - Ornn
+"Hmph, nevermind." - Ornn
+"Changed my mind." - Ornn
+"Hmm, cherry flavored. Not bad." - Ornn
+"Fuel for the old hearth-fire." - Ornn
+"Whatever this drink is made of, it is working." - Ornn
+"That hit the spot." - Ornn
+"Hey, this is pretty good stuff." - Ornn
+"Mmm, I do not like surprises." - Ornn
+"Hmm, that all it does? Okay." - Ornn
+"You stay here." - Ornn
+"Is it on?" - Ornn
+"(Grunts) I do not know how to feel about this thing, but okay." - Ornn
+"Not on my watch." - Ornn
+"Spy on that." - Ornn
+"Denied." - Ornn
+"Heheh, broke it real good." - Ornn
+"There, fixed that for you." - Ornn
+"Early warning is key." - Ornn
+"Was like that when I found it" - Ornn
+"(Grumbles) We're ready Ornn... we'll be right behind you..." - Ornn
+"Just leave everything to me as usual." - Ornn
+"Good job everyone." - Ornn
+"I'm used to this level of disappointment." - Ornn
+"Fine! I will intervene!" - Ornn
+"Fire up the forge!" - Ornn
+"Horns first!" - Ornn
+"Into the fray!" - Ornn
+"Turn up the heat." - Ornn
+"Ugh, everyone get behind me!" - Ornn
+"We fight now!" - Ornn
+"This will be fun!" - Ornn
+"Ready for this?!" - Ornn
+"A fight's where I want to be." - Ornn
+"A good workman is needed." - Ornn
+"I swear, if Volibear is there..." - Ornn
+"Time to show them the horns." - Ornn
+"Efficient travel method. I approve." - Ornn
+"Hmm, this is fast, but it can't be good for you." - Ornn
+"I prefer walking... but, fine." - Ornn
+"I'll just drop by." - Ornn
+"They won't be ready for me." - Ornn
+"I love a surprise." - Ornn
+"I'm on my way. Stop asking." - Ornn
+"You requested my aid!" - Ornn
+"Hooooold!" - Ornn
+"Hoold!" - Ornn
+"My horns are on the way!" - Ornn
+"Don't start without me!" - Ornn
+"You each owe me a beer!" - Ornn
+"Hot stuff!" - Ornn
+"Incoming!" - Ornn
+"I didn't die, my forge missed me." - Ornn
+"Still no water in the fountain." - Ornn
+"Rekindled the old furnace." - Ornn
+"Well done." - Ornn
+"I broke my beard!" - Ornn
+(Groans) - Ornn
+Sound Effect - Ornn
