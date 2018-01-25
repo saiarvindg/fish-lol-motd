@@ -1,5 +1,9 @@
 # Contains champions up to zoe
 
+Steps:
+1) Setup the datascraper and redownload the quotes
+2) Run the quote_extractor.python script
+
 visit this link for datascraper: https://github.com/Derpthemeus/LeagueOfQuotes
 
 this link to conver images to ascii: http://picascii.com

@@ -49,3 +49,6 @@ for x in champ_quotes:
 
 extracted_data_file.close()
 
+# in fish shell this is the command I used to randomly choose a quote
+# string replace -a \t \n (tail -n+(random 1 (wc -l < extracted_data.txt)) extracted_data.txt | head -n1)
+
